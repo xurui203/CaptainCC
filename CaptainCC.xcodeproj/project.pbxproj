@@ -185,23 +185,26 @@
 		3E7F5673181F01D300890431 /* practice_map1.tmx in Resources */ = {isa = PBXBuildFile; fileRef = 3E7F5670181F01D300890431 /* practice_map1.tmx */; };
 		3E7F5679181F038F00890431 /* Captain.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E7F5678181F038F00890431 /* Captain.m */; };
 		3E7F5680181F07CF00890431 /* HumanC.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E7F567F181F07CF00890431 /* HumanC.m */; };
+		5BE6274B1820B38900BE9854 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5BE6274A1820B38800BE9854 /* Main.storyboard */; };
+		5BE6274D1820B52B00BE9854 /* CCCHomepage_iPhone5.png in Resources */ = {isa = PBXBuildFile; fileRef = 5BE6274C1820B52B00BE9854 /* CCCHomepage_iPhone5.png */; };
+		5BE6274F1820B5D600BE9854 /* HomeIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 5BE6274E1820B5D600BE9854 /* HomeIcon.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		3E007984181F613A00B53DD8 /* Human */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Human; sourceTree = "<group>"; };
 		3E007988181F6BC900B53DD8 /* CCC_human.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = CCC_human.plist; sourceTree = "<group>"; };
-		3E007989181F6BC900B53DD8 /* C.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = C.png; sourceTree = "<group>"; };
+		3E007989181F6BC900B53DD8 /* C.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = C.png; path = ../C.png; sourceTree = "<group>"; };
 		3E00798C181F6C0E00B53DD8 /* CCC.tps */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = CCC.tps; sourceTree = "<group>"; };
 		3E007991181F773D00B53DD8 /* DirectionPad.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DirectionPad.h; sourceTree = "<group>"; };
 		3E007992181F773D00B53DD8 /* DirectionPad.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DirectionPad.m; sourceTree = "<group>"; };
 		3E007994181F7B6D00B53DD8 /* pd_dpad-hd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "pd_dpad-hd.png"; sourceTree = "<group>"; };
 		3E007995181F7B6D00B53DD8 /* pd_dpad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pd_dpad.png; sourceTree = "<group>"; };
-		3E00799B181F7E4900B53DD8 /* Obstacles.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Obstacles.h; sourceTree = "<group>"; };
-		3E00799C181F7E4900B53DD8 /* Obstacles.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Obstacles.m; sourceTree = "<group>"; };
+		3E00799B181F7E4900B53DD8 /* Obstacles.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Obstacles.h; path = ../Obstacles.h; sourceTree = "<group>"; };
+		3E00799C181F7E4900B53DD8 /* Obstacles.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Obstacles.m; path = ../Obstacles.m; sourceTree = "<group>"; };
 		3E00799E181F814700B53DD8 /* prac_map.tmx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = prac_map.tmx; sourceTree = "<group>"; };
-		3E0079A0181F820600B53DD8 /* Back.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Back.png; sourceTree = "<group>"; };
-		3E0079A1181F820600B53DD8 /* Fore.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Fore.png; sourceTree = "<group>"; };
-		3E0079A2181F820600B53DD8 /* Visible Boundary (Not include in final).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Visible Boundary (Not include in final).png"; sourceTree = "<group>"; };
+		3E0079A0181F820600B53DD8 /* Back.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Back.png; path = ../Back.png; sourceTree = "<group>"; };
+		3E0079A1181F820600B53DD8 /* Fore.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Fore.png; path = ../Fore.png; sourceTree = "<group>"; };
+		3E0079A2181F820600B53DD8 /* Visible Boundary (Not include in final).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Visible Boundary (Not include in final).png"; path = "../Visible Boundary (Not include in final).png"; sourceTree = "<group>"; };
 		3E2E4224181D93F200511102 /* CaptainCC.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CaptainCC.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3E2E4227181D93F200511102 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
 		3E2E4229181D93F200511102 /* OpenGLES.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGLES.framework; path = System/Library/Frameworks/OpenGLES.framework; sourceTree = SDKROOT; };
@@ -474,8 +477,8 @@
 		3E7F55D9181E20FE00890431 /* IntroLayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IntroLayer.m; sourceTree = "<group>"; };
 		3E7F55E8181E226400890431 /* Energy Bar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Energy Bar.png"; sourceTree = "<group>"; };
 		3E7F55E9181E226400890431 /* Energy Bar.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "Energy Bar.xml"; sourceTree = "<group>"; };
-		3E7F55F1181E226400890431 /* Background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Background.png; path = "CaptainCC/Content/Mazes/Practice Modules/Human/Background.png"; sourceTree = "<group>"; };
-		3E7F55F2181E226400890431 /* Foreground Graphics.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Foreground Graphics.png"; path = "CaptainCC/Content/Mazes/Practice Modules/Human/Foreground Graphics.png"; sourceTree = "<group>"; };
+		3E7F55F1181E226400890431 /* Background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Background.png; path = "Content/Mazes/Practice Modules/Human/Background.png"; sourceTree = "<group>"; };
+		3E7F55F2181E226400890431 /* Foreground Graphics.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Foreground Graphics.png"; path = "Content/Mazes/Practice Modules/Human/Foreground Graphics.png"; sourceTree = "<group>"; };
 		3E7F55F4181E226400890431 /* Apple.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Apple.png; sourceTree = "<group>"; };
 		3E7F55F5181E226400890431 /* Bread.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Bread.png; sourceTree = "<group>"; };
 		3E7F55F6181E226400890431 /* Exit Object.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Exit Object.png"; sourceTree = "<group>"; };
@@ -500,12 +503,15 @@
 		3E7F5631181E226400890431 /* Lat Capt Kangaroo-Running.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "Lat Capt Kangaroo-Running.xml"; sourceTree = "<group>"; };
 		3E7F5633181E226500890431 /* Lat Capt Kangaroo-Standing.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Kangaroo-Standing.png"; sourceTree = "<group>"; };
 		3E7F5634181E226500890431 /* Lat Capt Kangaroo-Standing.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "Lat Capt Kangaroo-Standing.xml"; sourceTree = "<group>"; };
-		3E7F5670181F01D300890431 /* practice_map1.tmx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = practice_map1.tmx; sourceTree = "<group>"; };
+		3E7F5670181F01D300890431 /* practice_map1.tmx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = practice_map1.tmx; path = CaptainCC/Content/practice_map1.tmx; sourceTree = "<group>"; };
 		3E7F5677181F038F00890431 /* Captain.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Captain.h; sourceTree = "<group>"; };
 		3E7F5678181F038F00890431 /* Captain.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Captain.m; sourceTree = "<group>"; };
 		3E7F567A181F04AB00890431 /* Defines.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Defines.h; sourceTree = "<group>"; };
 		3E7F567E181F07CF00890431 /* HumanC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HumanC.h; sourceTree = "<group>"; };
 		3E7F567F181F07CF00890431 /* HumanC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HumanC.m; sourceTree = "<group>"; };
+		5BE6274A1820B38800BE9854 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+		5BE6274C1820B52B00BE9854 /* CCCHomepage_iPhone5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CCCHomepage_iPhone5.png; sourceTree = "<group>"; };
+		5BE6274E1820B5D600BE9854 /* HomeIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = HomeIcon.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -532,39 +538,30 @@
 		3E2E421B181D93F200511102 = {
 			isa = PBXGroup;
 			children = (
-				3E0079A0181F820600B53DD8 /* Back.png */,
-				3E0079A1181F820600B53DD8 /* Fore.png */,
-				3E0079A2181F820600B53DD8 /* Visible Boundary (Not include in final).png */,
-				3E00799B181F7E4900B53DD8 /* Obstacles.h */,
-				3E00799C181F7E4900B53DD8 /* Obstacles.m */,
+				3E2E4237181D93F200511102 /* CaptainCC */,
 				3E007994181F7B6D00B53DD8 /* pd_dpad-hd.png */,
 				3E007995181F7B6D00B53DD8 /* pd_dpad.png */,
 				3E00798C181F6C0E00B53DD8 /* CCC.tps */,
 				3E007988181F6BC900B53DD8 /* CCC_human.plist */,
-				3E007989181F6BC900B53DD8 /* C.png */,
 				3E007984181F613A00B53DD8 /* Human */,
 				3E7F567E181F07CF00890431 /* HumanC.h */,
 				3E7F567F181F07CF00890431 /* HumanC.m */,
 				3E007991181F773D00B53DD8 /* DirectionPad.h */,
 				3E007992181F773D00B53DD8 /* DirectionPad.m */,
 				3E7F5677181F038F00890431 /* Captain.h */,
-				3E7F567A181F04AB00890431 /* Defines.h */,
 				3E7F5678181F038F00890431 /* Captain.m */,
+				3E7F567A181F04AB00890431 /* Defines.h */,
 				3E7F55DD181E226400890431 /* Content */,
-				3E7F55F1181E226400890431 /* Background.png */,
-				3E7F55F2181E226400890431 /* Foreground Graphics.png */,
 				3E7F55D8181E20FE00890431 /* IntroLayer.h */,
 				3E7F55D9181E20FE00890431 /* IntroLayer.m */,
 				3E7F55D0181E15F400890431 /* MazeLayer.h */,
-				3E00799E181F814700B53DD8 /* prac_map.tmx */,
 				3E7F55D1181E15F400890431 /* MazeLayer.m */,
-				3E7F55D6181E1DF500890431 /* practice_map.tmx */,
+				5BE627511820B66500BE9854 /* map tmx */,
 				3E7F55D3181E15FF00890431 /* HudLayer.h */,
 				3E7F55D4181E15FF00890431 /* HudLayer.m */,
 				3E7F55CD181E15C200890431 /* PracticeMazeScene.h */,
 				3E7F55CE181E15C200890431 /* PracticeMazeScene.m */,
 				3E2E43A1181DA47600511102 /* libs */,
-				3E2E4237181D93F200511102 /* CaptainCC */,
 				3E2E4226181D93F200511102 /* Frameworks */,
 				3E2E4225181D93F200511102 /* Products */,
 			);
@@ -598,6 +595,8 @@
 		3E2E4237181D93F200511102 /* CaptainCC */ = {
 			isa = PBXGroup;
 			children = (
+				5BE627521820B93B00BE9854 /* Model */,
+				5BE6274A1820B38800BE9854 /* Main.storyboard */,
 				3E2E438B181D953D00511102 /* Scenes */,
 				3E2E438C181D955100511102 /* Practice Modules */,
 				3E2E4378181D93F500511102 /* AppDelegate.h */,
@@ -633,6 +632,14 @@
 		3E2E4374181D93F500511102 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				3E0079A0181F820600B53DD8 /* Back.png */,
+				3E0079A1181F820600B53DD8 /* Fore.png */,
+				3E0079A2181F820600B53DD8 /* Visible Boundary (Not include in final).png */,
+				3E007989181F6BC900B53DD8 /* C.png */,
+				3E7F55F1181E226400890431 /* Background.png */,
+				3E7F55F2181E226400890431 /* Foreground Graphics.png */,
+				5BE6274E1820B5D600BE9854 /* HomeIcon.png */,
+				5BE6274C1820B52B00BE9854 /* CCCHomepage_iPhone5.png */,
 				3E7F55A5181DAD3200890431 /* New Group */,
 				3E2E4375181D93F500511102 /* Prefix.pch */,
 				3E2E4376181D93F500511102 /* main.m */,
@@ -999,7 +1006,6 @@
 		3E7F55DD181E226400890431 /* Content */ = {
 			isa = PBXGroup;
 			children = (
-				3E7F5670181F01D300890431 /* practice_map1.tmx */,
 				3E7F55DE181E226400890431 /* App Format */,
 				3E7F55E1181E226400890431 /* Energy */,
 				3E7F55EB181E226400890431 /* Mazes */,
@@ -1295,6 +1301,25 @@
 			path = "Spider Silk";
 			sourceTree = "<group>";
 		};
+		5BE627511820B66500BE9854 /* map tmx */ = {
+			isa = PBXGroup;
+			children = (
+				3E7F5670181F01D300890431 /* practice_map1.tmx */,
+				3E00799E181F814700B53DD8 /* prac_map.tmx */,
+				3E7F55D6181E1DF500890431 /* practice_map.tmx */,
+			);
+			name = "map tmx";
+			sourceTree = "<group>";
+		};
+		5BE627521820B93B00BE9854 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				3E00799B181F7E4900B53DD8 /* Obstacles.h */,
+				3E00799C181F7E4900B53DD8 /* Obstacles.m */,
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -1354,6 +1379,7 @@
 				3E2E44F7181DA47700511102 /* LICENSE_CocosDenshion.txt in Resources */,
 				3E7F5644181E226500890431 /* Background-KL.png in Resources */,
 				3E2E44E9181DA47700511102 /* CMakeLists.txt in Resources */,
+				5BE6274D1820B52B00BE9854 /* CCCHomepage_iPhone5.png in Resources */,
 				3E7F5673181F01D300890431 /* practice_map1.tmx in Resources */,
 				3E2E4242181D93F200511102 /* Icon-72.png in Resources */,
 				3E0079A4181F820600B53DD8 /* Fore.png in Resources */,
@@ -1395,11 +1421,13 @@
 				3E2E4240181D93F200511102 /* fps_images.png in Resources */,
 				3E7F5648181E226500890431 /* Boundaries-KL 2.png in Resources */,
 				3E7F5646181E226500890431 /* Back Graphics-KL 2.png in Resources */,
+				5BE6274F1820B5D600BE9854 /* HomeIcon.png in Resources */,
 				3E0079A3181F820600B53DD8 /* Back.png in Resources */,
 				3E7F563B181E226500890431 /* Apple.png in Resources */,
 				3E7F5662181E226500890431 /* Lat Capt Kangaroo-Running.png in Resources */,
 				3E007985181F613A00B53DD8 /* Human in Resources */,
 				3E7F5645181E226500890431 /* Back Graphics-KL 1.png in Resources */,
+				5BE6274B1820B38900BE9854 /* Main.storyboard in Resources */,
 				3E7F5643181E226500890431 /* Sky.png in Resources */,
 				3E2E424C181D93F200511102 /* Icon@2x.png in Resources */,
 				3E2E44E8181DA47700511102 /* ChangeLog in Resources */,
