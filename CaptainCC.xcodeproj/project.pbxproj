@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		3E00798A181F6BC900B53DD8 /* CCC_human.plist in Resources */ = {isa = PBXBuildFile; fileRef = 3E007988181F6BC900B53DD8 /* CCC_human.plist */; };
-		3E00798B181F6BC900B53DD8 /* C.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E007989181F6BC900B53DD8 /* C.png */; };
 		3E00798D181F6C0F00B53DD8 /* CCC.tps in Resources */ = {isa = PBXBuildFile; fileRef = 3E00798C181F6C0E00B53DD8 /* CCC.tps */; };
 		3E007993181F773D00B53DD8 /* DirectionPad.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E007992181F773D00B53DD8 /* DirectionPad.m */; };
 		3E007996181F7B6D00B53DD8 /* pd_dpad-hd.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E007994181F7B6D00B53DD8 /* pd_dpad-hd.png */; };
@@ -17,7 +16,7 @@
 		3E00799F181F814700B53DD8 /* prac_map.tmx in Resources */ = {isa = PBXBuildFile; fileRef = 3E00799E181F814700B53DD8 /* prac_map.tmx */; };
 		3E0079A3181F820600B53DD8 /* Back.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E0079A0181F820600B53DD8 /* Back.png */; };
 		3E0079A4181F820600B53DD8 /* Fore.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E0079A1181F820600B53DD8 /* Fore.png */; };
-		3E0079B11822140700B53DD8 /* Human in Resources */ = {isa = PBXBuildFile; fileRef = 3E0079B01822140700B53DD8 /* Human */; };
+		3E0079B11822140700B53DD8 /* Captain Resources in Resources */ = {isa = PBXBuildFile; fileRef = 3E0079B01822140700B53DD8 /* Captain Resources */; };
 		3E0079B41822288E00B53DD8 /* MazeLevelsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E0079B31822288E00B53DD8 /* MazeLevelsViewController.m */; };
 		3E0079B7182228A900B53DD8 /* MainMenuViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E0079B6182228A900B53DD8 /* MainMenuViewController.m */; };
 		3E2E4228181D93F200511102 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E2E4227181D93F200511102 /* QuartzCore.framework */; };
@@ -198,18 +197,17 @@
 
 /* Begin PBXFileReference section */
 		3E007988181F6BC900B53DD8 /* CCC_human.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = CCC_human.plist; sourceTree = "<group>"; };
-		3E007989181F6BC900B53DD8 /* C.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = C.png; path = ../C.png; sourceTree = "<group>"; };
 		3E00798C181F6C0E00B53DD8 /* CCC.tps */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = CCC.tps; sourceTree = "<group>"; };
-		3E007991181F773D00B53DD8 /* DirectionPad.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DirectionPad.h; sourceTree = "<group>"; };
-		3E007992181F773D00B53DD8 /* DirectionPad.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DirectionPad.m; sourceTree = "<group>"; };
-		3E007994181F7B6D00B53DD8 /* pd_dpad-hd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "pd_dpad-hd.png"; sourceTree = "<group>"; };
-		3E007995181F7B6D00B53DD8 /* pd_dpad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pd_dpad.png; sourceTree = "<group>"; };
+		3E007991181F773D00B53DD8 /* DirectionPad.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DirectionPad.h; path = ../DirectionPad.h; sourceTree = "<group>"; };
+		3E007992181F773D00B53DD8 /* DirectionPad.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DirectionPad.m; path = ../DirectionPad.m; sourceTree = "<group>"; };
+		3E007994181F7B6D00B53DD8 /* pd_dpad-hd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "pd_dpad-hd.png"; path = "../pd_dpad-hd.png"; sourceTree = "<group>"; };
+		3E007995181F7B6D00B53DD8 /* pd_dpad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = pd_dpad.png; path = ../pd_dpad.png; sourceTree = "<group>"; };
 		3E00799B181F7E4900B53DD8 /* Obstacles.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Obstacles.h; path = ../Obstacles.h; sourceTree = "<group>"; };
 		3E00799C181F7E4900B53DD8 /* Obstacles.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Obstacles.m; path = ../Obstacles.m; sourceTree = "<group>"; };
 		3E00799E181F814700B53DD8 /* prac_map.tmx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = prac_map.tmx; sourceTree = "<group>"; };
 		3E0079A0181F820600B53DD8 /* Back.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Back.png; path = ../Back.png; sourceTree = "<group>"; };
 		3E0079A1181F820600B53DD8 /* Fore.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Fore.png; path = ../Fore.png; sourceTree = "<group>"; };
-		3E0079B01822140700B53DD8 /* Human */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Human; sourceTree = "<group>"; };
+		3E0079B01822140700B53DD8 /* Captain Resources */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "Captain Resources"; path = "../Captain Resources"; sourceTree = "<group>"; };
 		3E0079B21822288E00B53DD8 /* MazeLevelsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MazeLevelsViewController.h; sourceTree = "<group>"; };
 		3E0079B31822288E00B53DD8 /* MazeLevelsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MazeLevelsViewController.m; sourceTree = "<group>"; };
 		3E0079B5182228A900B53DD8 /* MainMenuViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainMenuViewController.h; sourceTree = "<group>"; };
@@ -477,10 +475,10 @@
 		3E7F55AF181DF3BF00890431 /* CCC_standing_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CCC_standing_1.png; sourceTree = "<group>"; };
 		3E7F55CD181E15C200890431 /* PracticeMazeScene.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PracticeMazeScene.h; path = ../PracticeMazeScene.h; sourceTree = "<group>"; };
 		3E7F55CE181E15C200890431 /* PracticeMazeScene.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = PracticeMazeScene.m; path = ../PracticeMazeScene.m; sourceTree = "<group>"; };
-		3E7F55D0181E15F400890431 /* MazeLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MazeLayer.h; sourceTree = "<group>"; };
-		3E7F55D1181E15F400890431 /* MazeLayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MazeLayer.m; sourceTree = "<group>"; };
-		3E7F55D3181E15FF00890431 /* HudLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HudLayer.h; sourceTree = "<group>"; };
-		3E7F55D4181E15FF00890431 /* HudLayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HudLayer.m; sourceTree = "<group>"; };
+		3E7F55D0181E15F400890431 /* MazeLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MazeLayer.h; path = ../MazeLayer.h; sourceTree = "<group>"; };
+		3E7F55D1181E15F400890431 /* MazeLayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MazeLayer.m; path = ../MazeLayer.m; sourceTree = "<group>"; };
+		3E7F55D3181E15FF00890431 /* HudLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = HudLayer.h; path = ../HudLayer.h; sourceTree = "<group>"; };
+		3E7F55D4181E15FF00890431 /* HudLayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = HudLayer.m; path = ../HudLayer.m; sourceTree = "<group>"; };
 		3E7F55D6181E1DF500890431 /* practice_map.tmx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = practice_map.tmx; sourceTree = "<group>"; };
 		3E7F55E8181E226400890431 /* Energy Bar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Energy Bar.png"; sourceTree = "<group>"; };
 		3E7F55E9181E226400890431 /* Energy Bar.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "Energy Bar.xml"; sourceTree = "<group>"; };
@@ -513,7 +511,7 @@
 		3E7F5670181F01D300890431 /* practice_map1.tmx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = practice_map1.tmx; path = CaptainCC/Content/practice_map1.tmx; sourceTree = "<group>"; };
 		3E7F5677181F038F00890431 /* Captain.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Captain.h; sourceTree = "<group>"; };
 		3E7F5678181F038F00890431 /* Captain.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Captain.m; sourceTree = "<group>"; };
-		3E7F567A181F04AB00890431 /* Defines.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Defines.h; sourceTree = "<group>"; };
+		3E7F567A181F04AB00890431 /* Defines.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = Defines.h; path = ../Defines.h; sourceTree = "<group>"; };
 		3E7F567E181F07CF00890431 /* HumanC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HumanC.h; sourceTree = "<group>"; };
 		3E7F567F181F07CF00890431 /* HumanC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HumanC.m; sourceTree = "<group>"; };
 		3EE9BC261822D95C009F5794 /* KTCocosNavigationController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KTCocosNavigationController.h; sourceTree = "<group>"; };
@@ -524,10 +522,10 @@
 		3EE9BC2B1822D95C009F5794 /* MyCocosNavigationController.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = MyCocosNavigationController.mm; sourceTree = "<group>"; };
 		3EE9BC2F1822DC2F009F5794 /* IntroLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IntroLayer.h; sourceTree = "<group>"; };
 		3EE9BC301822DC2F009F5794 /* IntroLayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IntroLayer.m; sourceTree = "<group>"; };
-		3EE9BC321822E078009F5794 /* LoginViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LoginViewController.m; sourceTree = "<group>"; };
-		3EE9BC331822E078009F5794 /* LoginViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LoginViewController.h; sourceTree = "<group>"; };
-		3EE9BC341822E078009F5794 /* LearningModulesMainViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LearningModulesMainViewController.h; sourceTree = "<group>"; };
-		3EE9BC351822E078009F5794 /* LearningModulesMainViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LearningModulesMainViewController.m; sourceTree = "<group>"; };
+		3EE9BC321822E078009F5794 /* LoginViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = LoginViewController.m; path = ../LoginViewController.m; sourceTree = "<group>"; };
+		3EE9BC331822E078009F5794 /* LoginViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = LoginViewController.h; path = ../LoginViewController.h; sourceTree = "<group>"; };
+		3EE9BC341822E078009F5794 /* LearningModulesMainViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = LearningModulesMainViewController.h; path = ../LearningModulesMainViewController.h; sourceTree = "<group>"; };
+		3EE9BC351822E078009F5794 /* LearningModulesMainViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = LearningModulesMainViewController.m; path = ../LearningModulesMainViewController.m; sourceTree = "<group>"; };
 		5BE6274A1820B38800BE9854 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		5BE6274C1820B52B00BE9854 /* CCCHomepage_iPhone5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CCCHomepage_iPhone5.png; sourceTree = "<group>"; };
 		5BE6274E1820B5D600BE9854 /* HomeIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = HomeIcon.png; sourceTree = "<group>"; };
@@ -557,29 +555,8 @@
 		3E2E421B181D93F200511102 = {
 			isa = PBXGroup;
 			children = (
-				3EE9BC321822E078009F5794 /* LoginViewController.m */,
-				3EE9BC331822E078009F5794 /* LoginViewController.h */,
-				3EE9BC341822E078009F5794 /* LearningModulesMainViewController.h */,
-				3EE9BC351822E078009F5794 /* LearningModulesMainViewController.m */,
-				3E0079B01822140700B53DD8 /* Human */,
 				3E2E4237181D93F200511102 /* CaptainCC */,
-				3E007994181F7B6D00B53DD8 /* pd_dpad-hd.png */,
-				3E007995181F7B6D00B53DD8 /* pd_dpad.png */,
-				3E00798C181F6C0E00B53DD8 /* CCC.tps */,
-				3E007988181F6BC900B53DD8 /* CCC_human.plist */,
-				3E7F567E181F07CF00890431 /* HumanC.h */,
-				3E7F567F181F07CF00890431 /* HumanC.m */,
-				3E007991181F773D00B53DD8 /* DirectionPad.h */,
-				3E007992181F773D00B53DD8 /* DirectionPad.m */,
-				3E7F5677181F038F00890431 /* Captain.h */,
-				3E7F5678181F038F00890431 /* Captain.m */,
-				3E7F567A181F04AB00890431 /* Defines.h */,
-				3E7F55DD181E226400890431 /* Content */,
-				3E7F55D0181E15F400890431 /* MazeLayer.h */,
-				3E7F55D1181E15F400890431 /* MazeLayer.m */,
-				5BE627511820B66500BE9854 /* map tmx */,
-				3E7F55D3181E15FF00890431 /* HudLayer.h */,
-				3E7F55D4181E15FF00890431 /* HudLayer.m */,
+				3E2E4374181D93F500511102 /* Supporting Files */,
 				3E2E43A1181DA47600511102 /* libs */,
 				3E2E4226181D93F200511102 /* Frameworks */,
 				3E2E4225181D93F200511102 /* Products */,
@@ -614,29 +591,30 @@
 		3E2E4237181D93F200511102 /* CaptainCC */ = {
 			isa = PBXGroup;
 			children = (
-				5BE627521820B93B00BE9854 /* Model */,
-				5BE6274A1820B38800BE9854 /* Main.storyboard */,
-				3E2E438B181D953D00511102 /* Scenes */,
-				3E2E438C181D955100511102 /* Practice Modules */,
 				3E2E4378181D93F500511102 /* AppDelegate.h */,
 				3E2E4379181D93F500511102 /* AppDelegate.m */,
+				5BE6274A1820B38800BE9854 /* Main.storyboard */,
+				3EE9BC321822E078009F5794 /* LoginViewController.m */,
+				3EE9BC331822E078009F5794 /* LoginViewController.h */,
+				3E0079B5182228A900B53DD8 /* MainMenuViewController.h */,
+				3E0079B6182228A900B53DD8 /* MainMenuViewController.m */,
 				3E2E437B181D93F500511102 /* RootViewController.h */,
-				3E0079B21822288E00B53DD8 /* MazeLevelsViewController.h */,
+				3E2E437C181D93F500511102 /* RootViewController.m */,
 				3EE9BC261822D95C009F5794 /* KTCocosNavigationController.h */,
 				3EE9BC271822D95C009F5794 /* KTCocosNavigationController.m */,
 				3EE9BC281822D95C009F5794 /* KTCocosViewController.h */,
 				3EE9BC291822D95C009F5794 /* KTCocosViewController.m */,
 				3EE9BC2A1822D95C009F5794 /* MyCocosNavigationController.h */,
 				3EE9BC2B1822D95C009F5794 /* MyCocosNavigationController.mm */,
-				3E0079B31822288E00B53DD8 /* MazeLevelsViewController.m */,
 				3EE9BC2F1822DC2F009F5794 /* IntroLayer.h */,
 				3EE9BC301822DC2F009F5794 /* IntroLayer.m */,
-				3E0079B5182228A900B53DD8 /* MainMenuViewController.h */,
-				3E0079B6182228A900B53DD8 /* MainMenuViewController.m */,
-				3E2E437C181D93F500511102 /* RootViewController.m */,
 				3E2E4381181D93F500511102 /* GameConfig.h */,
+				3E7F567A181F04AB00890431 /* Defines.h */,
+				5B7E39701822FFB800AADCFB /* Captain */,
+				3E2E438C181D955100511102 /* Learning Modules */,
+				5BE627521820B93B00BE9854 /* Obstacles */,
+				5B7E39711823004100AADCFB /* Mazes */,
 				3E2E4238181D93F200511102 /* Resources */,
-				3E2E4374181D93F500511102 /* Supporting Files */,
 			);
 			path = CaptainCC;
 			sourceTree = "<group>";
@@ -644,18 +622,9 @@
 		3E2E4238181D93F200511102 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				3E2E4239181D93F200511102 /* Default.png */,
-				3E2E423B181D93F200511102 /* Default@2x.png */,
-				3E2E423D181D93F200511102 /* Default-568h@2x.png */,
-				3E2E423F181D93F200511102 /* fps_images.png */,
-				3E2E4241181D93F200511102 /* Icon-72.png */,
-				3E2E4243181D93F200511102 /* Icon-Small-50.png */,
-				3E2E4245181D93F200511102 /* Icon-Small.png */,
-				3E2E4247181D93F200511102 /* Icon-Small@2x.png */,
-				3E2E4249181D93F200511102 /* Icon.png */,
-				3E2E424B181D93F200511102 /* Icon@2x.png */,
-				3E2E424D181D93F200511102 /* Info.plist */,
-				3E2E424E181D93F200511102 /* iTunesArtwork */,
+				3E7F55DD181E226400890431 /* Content */,
+				3E0079B01822140700B53DD8 /* Captain Resources */,
+				5B7E39731823013A00AADCFB /* Cocos */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -663,34 +632,24 @@
 		3E2E4374181D93F500511102 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				3E0079A0181F820600B53DD8 /* Back.png */,
-				3E0079A1181F820600B53DD8 /* Fore.png */,
-				3E007989181F6BC900B53DD8 /* C.png */,
-				3E7F55F1181E226400890431 /* Background.png */,
-				3E7F55F2181E226400890431 /* Foreground Graphics.png */,
-				5BE6274E1820B5D600BE9854 /* HomeIcon.png */,
-				5BE6274C1820B52B00BE9854 /* CCCHomepage_iPhone5.png */,
-				3E7F55A5181DAD3200890431 /* New Group */,
+				5B7E39781823037200AADCFB /* Homepage Graphics */,
+				5B7E39771823036400AADCFB /* Icons */,
+				5B7E39761823032400AADCFB /* Map */,
+				5B7E3974182302BD00AADCFB /* Captain Graphics */,
 				3E2E4375181D93F500511102 /* Prefix.pch */,
 				3E2E4376181D93F500511102 /* main.m */,
 			);
 			name = "Supporting Files";
+			path = CaptainCC;
 			sourceTree = "<group>";
 		};
-		3E2E438B181D953D00511102 /* Scenes */ = {
+		3E2E438C181D955100511102 /* Learning Modules */ = {
 			isa = PBXGroup;
 			children = (
-				3E7F55CD181E15C200890431 /* PracticeMazeScene.h */,
-				3E7F55CE181E15C200890431 /* PracticeMazeScene.m */,
+				3EE9BC341822E078009F5794 /* LearningModulesMainViewController.h */,
+				3EE9BC351822E078009F5794 /* LearningModulesMainViewController.m */,
 			);
-			name = Scenes;
-			sourceTree = "<group>";
-		};
-		3E2E438C181D955100511102 /* Practice Modules */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			name = "Practice Modules";
+			name = "Learning Modules";
 			sourceTree = "<group>";
 		};
 		3E2E43A1181DA47600511102 /* libs */ = {
@@ -1025,14 +984,14 @@
 			path = GL;
 			sourceTree = "<group>";
 		};
-		3E7F55A5181DAD3200890431 /* New Group */ = {
+		3E7F55A5181DAD3200890431 /* Standing */ = {
 			isa = PBXGroup;
 			children = (
 				3E7F55AD181DF0E000890431 /* CCC_standing_2.png */,
 				3E7F55A8181DC90000890431 /* CCC_standing_01.png */,
 				3E7F55AF181DF3BF00890431 /* CCC_standing_1.png */,
 			);
-			name = "New Group";
+			name = Standing;
 			sourceTree = "<group>";
 		};
 		3E7F55DD181E226400890431 /* Content */ = {
@@ -1044,8 +1003,7 @@
 				3E7F560B181E226400890431 /* Obstacles */,
 				3E7F560C181E226400890431 /* Superpowers */,
 			);
-			name = Content;
-			path = CaptainCC/Content;
+			path = Content;
 			sourceTree = "<group>";
 		};
 		3E7F55DE181E226400890431 /* App Format */ = {
@@ -1333,23 +1291,120 @@
 			path = "Spider Silk";
 			sourceTree = "<group>";
 		};
-		5BE627511820B66500BE9854 /* map tmx */ = {
+		5B7E39701822FFB800AADCFB /* Captain */ = {
+			isa = PBXGroup;
+			children = (
+				3E00798C181F6C0E00B53DD8 /* CCC.tps */,
+				3E007988181F6BC900B53DD8 /* CCC_human.plist */,
+				3E7F5677181F038F00890431 /* Captain.h */,
+				3E7F5678181F038F00890431 /* Captain.m */,
+				3E7F567E181F07CF00890431 /* HumanC.h */,
+				3E7F567F181F07CF00890431 /* HumanC.m */,
+			);
+			name = Captain;
+			path = ..;
+			sourceTree = "<group>";
+		};
+		5B7E39711823004100AADCFB /* Mazes */ = {
+			isa = PBXGroup;
+			children = (
+				3E7F55D3181E15FF00890431 /* HudLayer.h */,
+				3E7F55D4181E15FF00890431 /* HudLayer.m */,
+				3E007991181F773D00B53DD8 /* DirectionPad.h */,
+				3E007992181F773D00B53DD8 /* DirectionPad.m */,
+				3E7F55D0181E15F400890431 /* MazeLayer.h */,
+				3E7F55D1181E15F400890431 /* MazeLayer.m */,
+				3E0079B31822288E00B53DD8 /* MazeLevelsViewController.m */,
+				3E0079B21822288E00B53DD8 /* MazeLevelsViewController.h */,
+				5B7E3972182300ED00AADCFB /* Practice Mazes */,
+			);
+			name = Mazes;
+			sourceTree = "<group>";
+		};
+		5B7E3972182300ED00AADCFB /* Practice Mazes */ = {
+			isa = PBXGroup;
+			children = (
+				3E7F55CD181E15C200890431 /* PracticeMazeScene.h */,
+				3E7F55CE181E15C200890431 /* PracticeMazeScene.m */,
+			);
+			name = "Practice Mazes";
+			sourceTree = "<group>";
+		};
+		5B7E39731823013A00AADCFB /* Cocos */ = {
+			isa = PBXGroup;
+			children = (
+				3E2E4239181D93F200511102 /* Default.png */,
+				3E2E423B181D93F200511102 /* Default@2x.png */,
+				3E2E423D181D93F200511102 /* Default-568h@2x.png */,
+				3E2E423F181D93F200511102 /* fps_images.png */,
+				3E2E4241181D93F200511102 /* Icon-72.png */,
+				3E2E4243181D93F200511102 /* Icon-Small-50.png */,
+				3E2E4245181D93F200511102 /* Icon-Small.png */,
+				3E2E4247181D93F200511102 /* Icon-Small@2x.png */,
+				3E2E4249181D93F200511102 /* Icon.png */,
+				3E2E424B181D93F200511102 /* Icon@2x.png */,
+				3E2E424D181D93F200511102 /* Info.plist */,
+				3E2E424E181D93F200511102 /* iTunesArtwork */,
+			);
+			name = Cocos;
+			sourceTree = "<group>";
+		};
+		5B7E3974182302BD00AADCFB /* Captain Graphics */ = {
+			isa = PBXGroup;
+			children = (
+				3E7F55A5181DAD3200890431 /* Standing */,
+			);
+			name = "Captain Graphics";
+			sourceTree = "<group>";
+		};
+		5B7E39761823032400AADCFB /* Map */ = {
+			isa = PBXGroup;
+			children = (
+				3E7F55F2181E226400890431 /* Foreground Graphics.png */,
+				3E7F55F1181E226400890431 /* Background.png */,
+				3E0079A0181F820600B53DD8 /* Back.png */,
+				3E0079A1181F820600B53DD8 /* Fore.png */,
+				3E007994181F7B6D00B53DD8 /* pd_dpad-hd.png */,
+				3E007995181F7B6D00B53DD8 /* pd_dpad.png */,
+				5BE627511820B66500BE9854 /* Tiled */,
+			);
+			name = Map;
+			sourceTree = "<group>";
+		};
+		5B7E39771823036400AADCFB /* Icons */ = {
+			isa = PBXGroup;
+			children = (
+				5BE6274E1820B5D600BE9854 /* HomeIcon.png */,
+			);
+			name = Icons;
+			sourceTree = "<group>";
+		};
+		5B7E39781823037200AADCFB /* Homepage Graphics */ = {
+			isa = PBXGroup;
+			children = (
+				5BE6274C1820B52B00BE9854 /* CCCHomepage_iPhone5.png */,
+			);
+			name = "Homepage Graphics";
+			sourceTree = "<group>";
+		};
+		5BE627511820B66500BE9854 /* Tiled */ = {
 			isa = PBXGroup;
 			children = (
 				3E7F5670181F01D300890431 /* practice_map1.tmx */,
 				3E00799E181F814700B53DD8 /* prac_map.tmx */,
 				3E7F55D6181E1DF500890431 /* practice_map.tmx */,
 			);
-			name = "map tmx";
+			name = Tiled;
+			path = ..;
 			sourceTree = "<group>";
 		};
-		5BE627521820B93B00BE9854 /* Model */ = {
+		5BE627521820B93B00BE9854 /* Obstacles */ = {
 			isa = PBXGroup;
 			children = (
 				3E00799B181F7E4900B53DD8 /* Obstacles.h */,
 				3E00799C181F7E4900B53DD8 /* Obstacles.m */,
 			);
-			name = Model;
+			name = Obstacles;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -1402,7 +1457,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3E00798B181F6BC900B53DD8 /* C.png in Resources */,
 				3E2E424A181D93F200511102 /* Icon.png in Resources */,
 				3E2E423C181D93F200511102 /* Default@2x.png in Resources */,
 				3E00798A181F6BC900B53DD8 /* CCC_human.plist in Resources */,
@@ -1438,7 +1492,7 @@
 				3E2E4248181D93F200511102 /* Icon-Small@2x.png in Resources */,
 				3E7F5641181E226500890431 /* Visible Boundary (Not include in final).png in Resources */,
 				3E2E44F6181DA47700511102 /* LICENSE_cocos2d.txt in Resources */,
-				3E0079B11822140700B53DD8 /* Human in Resources */,
+				3E0079B11822140700B53DD8 /* Captain Resources in Resources */,
 				3E00798D181F6C0F00B53DD8 /* CCC.tps in Resources */,
 				3E7F55B0181DF3BF00890431 /* CCC_standing_1.png in Resources */,
 				3E7F55A9181DC90000890431 /* CCC_standing_01.png in Resources */,
