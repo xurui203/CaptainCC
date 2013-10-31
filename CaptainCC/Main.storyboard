@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="4510" systemVersion="13A603" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" initialViewController="a0d-I5-00m">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="4510" systemVersion="12F45" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" initialViewController="a0d-I5-00m">
     <dependencies>
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="3742"/>
     </dependencies>
     <scenes>
-        <!--Root View Controller-->
+        <!--Main Menu View Controller-->
         <scene sceneID="vlK-LZ-pQO">
             <objects>
-                <viewController id="Kvw-bT-Rsb" customClass="RootViewController" sceneMemberID="viewController">
+                <viewController id="Kvw-bT-Rsb" customClass="MainMenuViewController" sceneMemberID="viewController">
                     <layoutGuides>
-                        <viewControllerLayoutGuide type="top" id="CMS-4A-Bpd"/>
-                        <viewControllerLayoutGuide type="bottom" id="wMJ-tC-cZS"/>
+                        <viewControllerLayoutGuide type="top" id="G2t-50-pQz"/>
+                        <viewControllerLayoutGuide type="bottom" id="P0m-y0-xUP"/>
                     </layoutGuides>
                     <view key="view" contentMode="scaleToFill" id="N2m-Lf-7c8">
                         <rect key="frame" x="0.0" y="0.0" width="568" height="320"/>
@@ -20,6 +20,16 @@
                                 <rect key="frame" x="0.0" y="0.0" width="568" height="320"/>
                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                             </imageView>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="8io-q9-8g6">
+                                <rect key="frame" x="486" y="111" width="46" height="173"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal">
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <segue destination="2rz-cG-2N0" kind="modal" id="dfj-c1-1Mt"/>
+                                </connections>
+                            </button>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                         <simulatedOrientationMetrics key="simulatedOrientationMetrics" orientation="landscapeRight"/>
@@ -31,29 +41,63 @@
             </objects>
             <point key="canvasLocation" x="-108" y="-169"/>
         </scene>
-        <!--Navigation Controller-->
+        <!--Login View Controller-->
+        <scene sceneID="rgf-Zl-IvA">
+            <objects>
+                <viewController id="9nH-Ez-7Bq" customClass="LoginViewController" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="Ogm-fq-CHn"/>
+                        <viewControllerLayoutGuide type="bottom" id="uED-x5-YjJ"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="TTw-OR-jqV">
+                        <rect key="frame" x="0.0" y="0.0" width="568" height="320"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="VPC-Vf-eC9">
+                                <rect key="frame" x="279" y="206" width="37" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Enter">
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <action selector="loginButton:" destination="9nH-Ez-7Bq" eventType="touchUpInside" id="SMS-1u-weY"/>
+                                    <segue destination="Kvw-bT-Rsb" kind="modal" id="XLC-Bf-suB"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                        <simulatedOrientationMetrics key="simulatedOrientationMetrics" orientation="landscapeRight"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="82T-HB-dcj"/>
+                    <simulatedOrientationMetrics key="simulatedOrientationMetrics" orientation="landscapeRight"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="p3V-93-g7C" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-763" y="-237"/>
+        </scene>
+        <!--My Cocos Navigation Controller-->
         <scene sceneID="Hh7-oH-wlc">
             <objects>
-                <navigationController definesPresentationContext="YES" id="a0d-I5-00m" sceneMemberID="viewController">
+                <navigationController definesPresentationContext="YES" id="a0d-I5-00m" customClass="MyCocosNavigationController" sceneMemberID="viewController">
                     <simulatedOrientationMetrics key="simulatedOrientationMetrics" orientation="landscapeRight"/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="COC-Rb-TFl">
                         <autoresizingMask key="autoresizingMask"/>
                     </navigationBar>
                     <connections>
-                        <segue destination="Kvw-bT-Rsb" kind="relationship" relationship="rootViewController" id="2xe-8k-vZk"/>
+                        <segue destination="9nH-Ez-7Bq" kind="relationship" relationship="rootViewController" id="9fx-bI-CfA"/>
                     </connections>
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="WOk-gh-atL" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="-636" y="268"/>
         </scene>
-        <!--View Controller-->
+        <!--Cocos View Controller-->
         <scene sceneID="U3C-sC-Uxd">
             <objects>
-                <viewController id="xXK-Xl-d3K" sceneMemberID="viewController">
+                <viewController id="xXK-Xl-d3K" customClass="KTCocosViewController" sceneMemberID="viewController">
                     <layoutGuides>
-                        <viewControllerLayoutGuide type="top" id="YpP-6n-2Gn"/>
-                        <viewControllerLayoutGuide type="bottom" id="16w-Y1-ylx"/>
+                        <viewControllerLayoutGuide type="top" id="xAf-J0-QnB"/>
+                        <viewControllerLayoutGuide type="bottom" id="XuX-Hi-oR1"/>
                     </layoutGuides>
                     <view key="view" contentMode="scaleToFill" id="wWV-Yk-Bac">
                         <rect key="frame" x="0.0" y="0.0" width="568" height="320"/>
@@ -68,13 +112,13 @@
             </objects>
             <point key="canvasLocation" x="209" y="728"/>
         </scene>
-        <!--View Controller-->
+        <!--Maze Levels View Controller-->
         <scene sceneID="Ppa-UM-gOz">
             <objects>
-                <viewController id="2rz-cG-2N0" sceneMemberID="viewController">
+                <viewController id="2rz-cG-2N0" customClass="MazeLevelsViewController" sceneMemberID="viewController">
                     <layoutGuides>
-                        <viewControllerLayoutGuide type="top" id="5jn-Eg-JTS"/>
-                        <viewControllerLayoutGuide type="bottom" id="xvA-Zi-HP5"/>
+                        <viewControllerLayoutGuide type="top" id="53C-9b-HHj"/>
+                        <viewControllerLayoutGuide type="bottom" id="09A-Zh-xIw"/>
                     </layoutGuides>
                     <view key="view" contentMode="scaleToFill" id="QyV-d6-jOE">
                         <rect key="frame" x="0.0" y="0.0" width="568" height="320"/>
@@ -88,7 +132,7 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
-                                    <segue destination="xXK-Xl-d3K" kind="modal" id="CRR-2F-V3r"/>
+                                    <segue destination="xXK-Xl-d3K" kind="modal" id="12z-bi-Eou"/>
                                 </connections>
                             </button>
                         </subviews>

@@ -7,10 +7,11 @@
 //
 
 #import <UIKit/UIKit.h>
-
+#import "cocos2d.h"
+#import "PracticeMazeScene.h"
 
 @interface RootViewController : UIViewController {
 
 }
-
+@property (readonly) CCDirectorIOS *director;
 @end

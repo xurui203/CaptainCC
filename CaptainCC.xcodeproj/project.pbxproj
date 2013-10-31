@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		3E007985181F613A00B53DD8 /* Human in Resources */ = {isa = PBXBuildFile; fileRef = 3E007984181F613A00B53DD8 /* Human */; };
 		3E00798A181F6BC900B53DD8 /* CCC_human.plist in Resources */ = {isa = PBXBuildFile; fileRef = 3E007988181F6BC900B53DD8 /* CCC_human.plist */; };
 		3E00798B181F6BC900B53DD8 /* C.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E007989181F6BC900B53DD8 /* C.png */; };
 		3E00798D181F6C0F00B53DD8 /* CCC.tps in Resources */ = {isa = PBXBuildFile; fileRef = 3E00798C181F6C0E00B53DD8 /* CCC.tps */; };
@@ -18,7 +17,9 @@
 		3E00799F181F814700B53DD8 /* prac_map.tmx in Resources */ = {isa = PBXBuildFile; fileRef = 3E00799E181F814700B53DD8 /* prac_map.tmx */; };
 		3E0079A3181F820600B53DD8 /* Back.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E0079A0181F820600B53DD8 /* Back.png */; };
 		3E0079A4181F820600B53DD8 /* Fore.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E0079A1181F820600B53DD8 /* Fore.png */; };
-		3E0079A5181F820600B53DD8 /* Visible Boundary (Not include in final).png in Resources */ = {isa = PBXBuildFile; fileRef = 3E0079A2181F820600B53DD8 /* Visible Boundary (Not include in final).png */; };
+		3E0079B11822140700B53DD8 /* Human in Resources */ = {isa = PBXBuildFile; fileRef = 3E0079B01822140700B53DD8 /* Human */; };
+		3E0079B41822288E00B53DD8 /* MazeLevelsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E0079B31822288E00B53DD8 /* MazeLevelsViewController.m */; };
+		3E0079B7182228A900B53DD8 /* MainMenuViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E0079B6182228A900B53DD8 /* MainMenuViewController.m */; };
 		3E2E4228181D93F200511102 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E2E4227181D93F200511102 /* QuartzCore.framework */; };
 		3E2E422A181D93F200511102 /* OpenGLES.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E2E4229181D93F200511102 /* OpenGLES.framework */; };
 		3E2E422C181D93F200511102 /* OpenAL.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E2E422B181D93F200511102 /* OpenAL.framework */; };
@@ -153,7 +154,6 @@
 		3E7F55D2181E15F400890431 /* MazeLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E7F55D1181E15F400890431 /* MazeLayer.m */; };
 		3E7F55D5181E15FF00890431 /* HudLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E7F55D4181E15FF00890431 /* HudLayer.m */; };
 		3E7F55D7181E1DF500890431 /* practice_map.tmx in Resources */ = {isa = PBXBuildFile; fileRef = 3E7F55D6181E1DF500890431 /* practice_map.tmx */; };
-		3E7F55DA181E20FE00890431 /* IntroLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E7F55D9181E20FE00890431 /* IntroLayer.m */; };
 		3E7F5637181E226500890431 /* Energy Bar.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E7F55E8181E226400890431 /* Energy Bar.png */; };
 		3E7F5638181E226500890431 /* Energy Bar.xml in Resources */ = {isa = PBXBuildFile; fileRef = 3E7F55E9181E226400890431 /* Energy Bar.xml */; };
 		3E7F5639181E226500890431 /* Background.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E7F55F1181E226400890431 /* Background.png */; };
@@ -185,13 +185,18 @@
 		3E7F5673181F01D300890431 /* practice_map1.tmx in Resources */ = {isa = PBXBuildFile; fileRef = 3E7F5670181F01D300890431 /* practice_map1.tmx */; };
 		3E7F5679181F038F00890431 /* Captain.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E7F5678181F038F00890431 /* Captain.m */; };
 		3E7F5680181F07CF00890431 /* HumanC.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E7F567F181F07CF00890431 /* HumanC.m */; };
+		3EE9BC2C1822D95C009F5794 /* KTCocosNavigationController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EE9BC271822D95C009F5794 /* KTCocosNavigationController.m */; };
+		3EE9BC2D1822D95C009F5794 /* KTCocosViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EE9BC291822D95C009F5794 /* KTCocosViewController.m */; };
+		3EE9BC2E1822D95C009F5794 /* MyCocosNavigationController.mm in Sources */ = {isa = PBXBuildFile; fileRef = 3EE9BC2B1822D95C009F5794 /* MyCocosNavigationController.mm */; };
+		3EE9BC311822DC2F009F5794 /* IntroLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EE9BC301822DC2F009F5794 /* IntroLayer.m */; };
+		3EE9BC361822E078009F5794 /* LoginViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EE9BC321822E078009F5794 /* LoginViewController.m */; };
+		3EE9BC371822E078009F5794 /* LearningModulesMainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EE9BC351822E078009F5794 /* LearningModulesMainViewController.m */; };
 		5BE6274B1820B38900BE9854 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5BE6274A1820B38800BE9854 /* Main.storyboard */; };
 		5BE6274D1820B52B00BE9854 /* CCCHomepage_iPhone5.png in Resources */ = {isa = PBXBuildFile; fileRef = 5BE6274C1820B52B00BE9854 /* CCCHomepage_iPhone5.png */; };
 		5BE6274F1820B5D600BE9854 /* HomeIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 5BE6274E1820B5D600BE9854 /* HomeIcon.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		3E007984181F613A00B53DD8 /* Human */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Human; sourceTree = "<group>"; };
 		3E007988181F6BC900B53DD8 /* CCC_human.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = CCC_human.plist; sourceTree = "<group>"; };
 		3E007989181F6BC900B53DD8 /* C.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = C.png; path = ../C.png; sourceTree = "<group>"; };
 		3E00798C181F6C0E00B53DD8 /* CCC.tps */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = CCC.tps; sourceTree = "<group>"; };
@@ -204,7 +209,11 @@
 		3E00799E181F814700B53DD8 /* prac_map.tmx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = prac_map.tmx; sourceTree = "<group>"; };
 		3E0079A0181F820600B53DD8 /* Back.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Back.png; path = ../Back.png; sourceTree = "<group>"; };
 		3E0079A1181F820600B53DD8 /* Fore.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Fore.png; path = ../Fore.png; sourceTree = "<group>"; };
-		3E0079A2181F820600B53DD8 /* Visible Boundary (Not include in final).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Visible Boundary (Not include in final).png"; path = "../Visible Boundary (Not include in final).png"; sourceTree = "<group>"; };
+		3E0079B01822140700B53DD8 /* Human */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Human; sourceTree = "<group>"; };
+		3E0079B21822288E00B53DD8 /* MazeLevelsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MazeLevelsViewController.h; sourceTree = "<group>"; };
+		3E0079B31822288E00B53DD8 /* MazeLevelsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MazeLevelsViewController.m; sourceTree = "<group>"; };
+		3E0079B5182228A900B53DD8 /* MainMenuViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainMenuViewController.h; sourceTree = "<group>"; };
+		3E0079B6182228A900B53DD8 /* MainMenuViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainMenuViewController.m; sourceTree = "<group>"; };
 		3E2E4224181D93F200511102 /* CaptainCC.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CaptainCC.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3E2E4227181D93F200511102 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
 		3E2E4229181D93F200511102 /* OpenGLES.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGLES.framework; path = System/Library/Frameworks/OpenGLES.framework; sourceTree = SDKROOT; };
@@ -466,15 +475,13 @@
 		3E7F55A8181DC90000890431 /* CCC_standing_01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CCC_standing_01.png; sourceTree = "<group>"; };
 		3E7F55AD181DF0E000890431 /* CCC_standing_2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CCC_standing_2.png; sourceTree = "<group>"; };
 		3E7F55AF181DF3BF00890431 /* CCC_standing_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CCC_standing_1.png; sourceTree = "<group>"; };
-		3E7F55CD181E15C200890431 /* PracticeMazeScene.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PracticeMazeScene.h; sourceTree = "<group>"; };
-		3E7F55CE181E15C200890431 /* PracticeMazeScene.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PracticeMazeScene.m; sourceTree = "<group>"; };
+		3E7F55CD181E15C200890431 /* PracticeMazeScene.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PracticeMazeScene.h; path = ../PracticeMazeScene.h; sourceTree = "<group>"; };
+		3E7F55CE181E15C200890431 /* PracticeMazeScene.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = PracticeMazeScene.m; path = ../PracticeMazeScene.m; sourceTree = "<group>"; };
 		3E7F55D0181E15F400890431 /* MazeLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MazeLayer.h; sourceTree = "<group>"; };
 		3E7F55D1181E15F400890431 /* MazeLayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MazeLayer.m; sourceTree = "<group>"; };
 		3E7F55D3181E15FF00890431 /* HudLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HudLayer.h; sourceTree = "<group>"; };
 		3E7F55D4181E15FF00890431 /* HudLayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HudLayer.m; sourceTree = "<group>"; };
 		3E7F55D6181E1DF500890431 /* practice_map.tmx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = practice_map.tmx; sourceTree = "<group>"; };
-		3E7F55D8181E20FE00890431 /* IntroLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IntroLayer.h; sourceTree = "<group>"; };
-		3E7F55D9181E20FE00890431 /* IntroLayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IntroLayer.m; sourceTree = "<group>"; };
 		3E7F55E8181E226400890431 /* Energy Bar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Energy Bar.png"; sourceTree = "<group>"; };
 		3E7F55E9181E226400890431 /* Energy Bar.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "Energy Bar.xml"; sourceTree = "<group>"; };
 		3E7F55F1181E226400890431 /* Background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Background.png; path = "Content/Mazes/Practice Modules/Human/Background.png"; sourceTree = "<group>"; };
@@ -509,6 +516,18 @@
 		3E7F567A181F04AB00890431 /* Defines.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Defines.h; sourceTree = "<group>"; };
 		3E7F567E181F07CF00890431 /* HumanC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HumanC.h; sourceTree = "<group>"; };
 		3E7F567F181F07CF00890431 /* HumanC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HumanC.m; sourceTree = "<group>"; };
+		3EE9BC261822D95C009F5794 /* KTCocosNavigationController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KTCocosNavigationController.h; sourceTree = "<group>"; };
+		3EE9BC271822D95C009F5794 /* KTCocosNavigationController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KTCocosNavigationController.m; sourceTree = "<group>"; };
+		3EE9BC281822D95C009F5794 /* KTCocosViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KTCocosViewController.h; sourceTree = "<group>"; };
+		3EE9BC291822D95C009F5794 /* KTCocosViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KTCocosViewController.m; sourceTree = "<group>"; };
+		3EE9BC2A1822D95C009F5794 /* MyCocosNavigationController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyCocosNavigationController.h; sourceTree = "<group>"; };
+		3EE9BC2B1822D95C009F5794 /* MyCocosNavigationController.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = MyCocosNavigationController.mm; sourceTree = "<group>"; };
+		3EE9BC2F1822DC2F009F5794 /* IntroLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IntroLayer.h; sourceTree = "<group>"; };
+		3EE9BC301822DC2F009F5794 /* IntroLayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IntroLayer.m; sourceTree = "<group>"; };
+		3EE9BC321822E078009F5794 /* LoginViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LoginViewController.m; sourceTree = "<group>"; };
+		3EE9BC331822E078009F5794 /* LoginViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LoginViewController.h; sourceTree = "<group>"; };
+		3EE9BC341822E078009F5794 /* LearningModulesMainViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LearningModulesMainViewController.h; sourceTree = "<group>"; };
+		3EE9BC351822E078009F5794 /* LearningModulesMainViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LearningModulesMainViewController.m; sourceTree = "<group>"; };
 		5BE6274A1820B38800BE9854 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		5BE6274C1820B52B00BE9854 /* CCCHomepage_iPhone5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CCCHomepage_iPhone5.png; sourceTree = "<group>"; };
 		5BE6274E1820B5D600BE9854 /* HomeIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = HomeIcon.png; sourceTree = "<group>"; };
@@ -538,12 +557,16 @@
 		3E2E421B181D93F200511102 = {
 			isa = PBXGroup;
 			children = (
+				3EE9BC321822E078009F5794 /* LoginViewController.m */,
+				3EE9BC331822E078009F5794 /* LoginViewController.h */,
+				3EE9BC341822E078009F5794 /* LearningModulesMainViewController.h */,
+				3EE9BC351822E078009F5794 /* LearningModulesMainViewController.m */,
+				3E0079B01822140700B53DD8 /* Human */,
 				3E2E4237181D93F200511102 /* CaptainCC */,
 				3E007994181F7B6D00B53DD8 /* pd_dpad-hd.png */,
 				3E007995181F7B6D00B53DD8 /* pd_dpad.png */,
 				3E00798C181F6C0E00B53DD8 /* CCC.tps */,
 				3E007988181F6BC900B53DD8 /* CCC_human.plist */,
-				3E007984181F613A00B53DD8 /* Human */,
 				3E7F567E181F07CF00890431 /* HumanC.h */,
 				3E7F567F181F07CF00890431 /* HumanC.m */,
 				3E007991181F773D00B53DD8 /* DirectionPad.h */,
@@ -552,15 +575,11 @@
 				3E7F5678181F038F00890431 /* Captain.m */,
 				3E7F567A181F04AB00890431 /* Defines.h */,
 				3E7F55DD181E226400890431 /* Content */,
-				3E7F55D8181E20FE00890431 /* IntroLayer.h */,
-				3E7F55D9181E20FE00890431 /* IntroLayer.m */,
 				3E7F55D0181E15F400890431 /* MazeLayer.h */,
 				3E7F55D1181E15F400890431 /* MazeLayer.m */,
 				5BE627511820B66500BE9854 /* map tmx */,
 				3E7F55D3181E15FF00890431 /* HudLayer.h */,
 				3E7F55D4181E15FF00890431 /* HudLayer.m */,
-				3E7F55CD181E15C200890431 /* PracticeMazeScene.h */,
-				3E7F55CE181E15C200890431 /* PracticeMazeScene.m */,
 				3E2E43A1181DA47600511102 /* libs */,
 				3E2E4226181D93F200511102 /* Frameworks */,
 				3E2E4225181D93F200511102 /* Products */,
@@ -602,6 +621,18 @@
 				3E2E4378181D93F500511102 /* AppDelegate.h */,
 				3E2E4379181D93F500511102 /* AppDelegate.m */,
 				3E2E437B181D93F500511102 /* RootViewController.h */,
+				3E0079B21822288E00B53DD8 /* MazeLevelsViewController.h */,
+				3EE9BC261822D95C009F5794 /* KTCocosNavigationController.h */,
+				3EE9BC271822D95C009F5794 /* KTCocosNavigationController.m */,
+				3EE9BC281822D95C009F5794 /* KTCocosViewController.h */,
+				3EE9BC291822D95C009F5794 /* KTCocosViewController.m */,
+				3EE9BC2A1822D95C009F5794 /* MyCocosNavigationController.h */,
+				3EE9BC2B1822D95C009F5794 /* MyCocosNavigationController.mm */,
+				3E0079B31822288E00B53DD8 /* MazeLevelsViewController.m */,
+				3EE9BC2F1822DC2F009F5794 /* IntroLayer.h */,
+				3EE9BC301822DC2F009F5794 /* IntroLayer.m */,
+				3E0079B5182228A900B53DD8 /* MainMenuViewController.h */,
+				3E0079B6182228A900B53DD8 /* MainMenuViewController.m */,
 				3E2E437C181D93F500511102 /* RootViewController.m */,
 				3E2E4381181D93F500511102 /* GameConfig.h */,
 				3E2E4238181D93F200511102 /* Resources */,
@@ -634,7 +665,6 @@
 			children = (
 				3E0079A0181F820600B53DD8 /* Back.png */,
 				3E0079A1181F820600B53DD8 /* Fore.png */,
-				3E0079A2181F820600B53DD8 /* Visible Boundary (Not include in final).png */,
 				3E007989181F6BC900B53DD8 /* C.png */,
 				3E7F55F1181E226400890431 /* Background.png */,
 				3E7F55F2181E226400890431 /* Foreground Graphics.png */,
@@ -650,6 +680,8 @@
 		3E2E438B181D953D00511102 /* Scenes */ = {
 			isa = PBXGroup;
 			children = (
+				3E7F55CD181E15C200890431 /* PracticeMazeScene.h */,
+				3E7F55CE181E15C200890431 /* PracticeMazeScene.m */,
 			);
 			name = Scenes;
 			sourceTree = "<group>";
@@ -1406,6 +1438,7 @@
 				3E2E4248181D93F200511102 /* Icon-Small@2x.png in Resources */,
 				3E7F5641181E226500890431 /* Visible Boundary (Not include in final).png in Resources */,
 				3E2E44F6181DA47700511102 /* LICENSE_cocos2d.txt in Resources */,
+				3E0079B11822140700B53DD8 /* Human in Resources */,
 				3E00798D181F6C0F00B53DD8 /* CCC.tps in Resources */,
 				3E7F55B0181DF3BF00890431 /* CCC_standing_1.png in Resources */,
 				3E7F55A9181DC90000890431 /* CCC_standing_01.png in Resources */,
@@ -1417,7 +1450,6 @@
 				3E7F563D181E226500890431 /* Exit Object.png in Resources */,
 				3E7F565F181E226500890431 /* Kangaroo Legs Spec Sheet.docx in Resources */,
 				3E7F5660181E226500890431 /* Lat Capt Kangaroo-Jumping.png in Resources */,
-				3E0079A5181F820600B53DD8 /* Visible Boundary (Not include in final).png in Resources */,
 				3E2E4240181D93F200511102 /* fps_images.png in Resources */,
 				3E7F5648181E226500890431 /* Boundaries-KL 2.png in Resources */,
 				3E7F5646181E226500890431 /* Back Graphics-KL 2.png in Resources */,
@@ -1425,7 +1457,6 @@
 				3E0079A3181F820600B53DD8 /* Back.png in Resources */,
 				3E7F563B181E226500890431 /* Apple.png in Resources */,
 				3E7F5662181E226500890431 /* Lat Capt Kangaroo-Running.png in Resources */,
-				3E007985181F613A00B53DD8 /* Human in Resources */,
 				3E7F5645181E226500890431 /* Back Graphics-KL 1.png in Resources */,
 				5BE6274B1820B38900BE9854 /* Main.storyboard in Resources */,
 				3E7F5643181E226500890431 /* Sky.png in Resources */,
@@ -1442,17 +1473,21 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3EE9BC361822E078009F5794 /* LoginViewController.m in Sources */,
 				3E2E44CB181DA47700511102 /* CCTransition.m in Sources */,
 				3E2E44A4181DA47700511102 /* ccDeprecated.m in Sources */,
 				3E2E44AD181DA47700511102 /* CCLabelTTF.m in Sources */,
 				3E2E44F5181DA47700511102 /* vec4.c in Sources */,
 				3E2E44AA181DA47700511102 /* CCGrid.m in Sources */,
 				3E2E44D1181DA47700511102 /* CCGLView.m in Sources */,
+				3EE9BC2C1822D95C009F5794 /* KTCocosNavigationController.m in Sources */,
 				3E2E437D181D93F500511102 /* RootViewController.m in Sources */,
 				3E2E44D8181DA47700511102 /* base64.c in Sources */,
 				3E7F55D2181E15F400890431 /* MazeLayer.m in Sources */,
 				3E2E44BA181DA47700511102 /* CCScene.m in Sources */,
+				3EE9BC2E1822D95C009F5794 /* MyCocosNavigationController.mm in Sources */,
 				3E2E449B181DA47700511102 /* CCActionPageTurn3D.m in Sources */,
+				3EE9BC371822E078009F5794 /* LearningModulesMainViewController.m in Sources */,
 				3E2E44D2181DA47700511102 /* CCTouchDispatcher.m in Sources */,
 				3E2E44F2181DA47700511102 /* utility.c in Sources */,
 				3E2E449A181DA47700511102 /* CCActionManager.m in Sources */,
@@ -1512,7 +1547,6 @@
 				3E2E44D4181DA47700511102 /* CCDirectorMac.m in Sources */,
 				3E2E4499181DA47700511102 /* CCActionInterval.m in Sources */,
 				3E2E4492181DA47700511102 /* CCAction.m in Sources */,
-				3E7F55DA181E20FE00890431 /* IntroLayer.m in Sources */,
 				3E2E44C2181DA47700511102 /* CCTexture2D.m in Sources */,
 				3E2E44DE181DA47700511102 /* CGPointExtension.m in Sources */,
 				3E2E44A1181DA47700511102 /* CCAtlasNode.m in Sources */,
@@ -1525,6 +1559,7 @@
 				3E2E44A3181DA47700511102 /* CCConfiguration.m in Sources */,
 				3E2E44ED181DA47700511102 /* mat4.c in Sources */,
 				3E2E44CF181DA47700511102 /* CCDirectorIOS.m in Sources */,
+				3EE9BC2D1822D95C009F5794 /* KTCocosViewController.m in Sources */,
 				3E2E449C181DA47700511102 /* CCActionProgressTimer.m in Sources */,
 				3E2E44BE181DA47700511102 /* CCSprite.m in Sources */,
 				3E2E44E0181DA47700511102 /* TGAlib.m in Sources */,
@@ -1535,7 +1570,9 @@
 				3E7F55D5181E15FF00890431 /* HudLayer.m in Sources */,
 				3E2E4496181DA47700511102 /* CCActionGrid.m in Sources */,
 				3E2E449E181DA47700511102 /* CCActionTween.m in Sources */,
+				3E0079B41822288E00B53DD8 /* MazeLevelsViewController.m in Sources */,
 				3E7F5680181F07CF00890431 /* HumanC.m in Sources */,
+				3E0079B7182228A900B53DD8 /* MainMenuViewController.m in Sources */,
 				3E2E44DB181DA47700511102 /* CCProfiling.m in Sources */,
 				3E2E44D3181DA47700511102 /* CCTouchHandler.m in Sources */,
 				3E2E44C8181DA47700511102 /* CCTMXObjectGroup.m in Sources */,
@@ -1543,6 +1580,7 @@
 				3E2E44E4181DA47700511102 /* CDOpenALSupport.m in Sources */,
 				3E2E4377181D93F500511102 /* main.m in Sources */,
 				3E2E44E6181DA47700511102 /* SimpleAudioEngine.m in Sources */,
+				3EE9BC311822DC2F009F5794 /* IntroLayer.m in Sources */,
 				3E2E44A2181DA47700511102 /* CCCamera.m in Sources */,
 				3E2E44F0181DA47700511102 /* quaternion.c in Sources */,
 				3E2E44C1181DA47700511102 /* CCSpriteFrameCache.m in Sources */,
