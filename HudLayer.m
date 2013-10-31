@@ -14,9 +14,9 @@
 
 -(id)init {
     if ((self = [super init])) {
-        _dPad = [DirectionPad dPadWithFile:@"pd_dpad.png" radius:64];
-        _dPad.position = ccp(64.0, 64.0);
-        _dPad.opacity = 100;
+        _dPad = [DirectionPad dPadWithFile:@"pd_dpad.png" radius:500];
+        _dPad.position = ccp(250.0, 64.0);
+        _dPad.opacity = 0;
         [self addChild:_dPad];
     }
     return self;

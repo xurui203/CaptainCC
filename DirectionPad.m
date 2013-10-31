@@ -76,25 +76,25 @@
         _direction = ccp(1.0, 0.0);
     } else if (degrees > 22.5 && degrees < 67.5) {
         //bottomright
-        _direction = ccp(1.0, -1.0);
+        _direction = ccp(1.0, 0.0);
     } else if (degrees >= 67.5 && degrees <= 112.5) {
         //bottom
-        _direction = ccp(0.0, -1.0);
+//        _direction = ccp(0.0, -1.0);
     } else if (degrees > 112.5 && degrees < 157.5) {
         //bottomleft
-        _direction = ccp(-1.0, -1.0);
+        _direction = ccp(-1.0, 0.0);
     } else if (degrees >= 157.5 || degrees <= -157.5) {
         //left
         _direction = ccp(-1.0, 0.0);
     } else if (degrees < -22.5 && degrees > -67.5) {
         //topright
-        _direction = ccp(1.0, 1.0);
+        _direction = ccp(1.0, 0.0);
     } else if (degrees <= -67.5 && degrees >= -112.5) {
         //top
-        _direction = ccp(0.0, 1.0);
+//        _direction = ccp(0.0, 1.0);
     } else if (degrees < -112.5 && degrees > -157.5) {
         //topleft
-        _direction = ccp(-1.0, 1.0);
+        _direction = ccp(-1.0, 0.0);
     }
     [_delegate DirectionPad:self didChangeDirectionTo:_direction];
 }
