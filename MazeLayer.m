@@ -33,7 +33,7 @@
                                     selectedImage:@"KangarooIcon.png"
                                     target:self selector:@selector(kangarooButtonTapped:)];
         CCMenu *menu= [CCMenu menuWithItems:kangarooItem, nil];
-        menu.position = ccp(400, 300);
+        menu.position = ccp(500, 300);
         [self addChild: menu z:100];
     }
     return self;
@@ -92,10 +92,9 @@
     NSLog(@"kangaroo selected");
     //Superpower *power = [Superpower init];
 //    _human.superPowerAction = power.superpowerAction;
-   [_human superPower];
-    
-    
+    [_human superPower];
 }
+
 -(void)ccTouchesBegan:(NSSet *)touches withEvent:(UIEvent *)event {
     [_human superPower];
 }

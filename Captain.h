@@ -14,13 +14,15 @@
 }
 
 //actions
-@property(nonatomic,strong)id idleAction;
+@property(nonatomic,strong) CCAction *idleAction;
 @property(nonatomic,strong)id superPowerAction;
 @property(nonatomic,strong)id walkAction;
 @property(nonatomic,strong)id failAction;
 
 //states
 @property(nonatomic,assign)ActionState actionState;
+@property(nonatomic,assign) Boolean reactivated;
+
 
 //attributes
 @property(nonatomic,assign)float walkSpeed;
