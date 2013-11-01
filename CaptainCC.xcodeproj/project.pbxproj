@@ -185,10 +185,207 @@
 		3E7F5680181F07CF00890431 /* HumanC.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E7F567F181F07CF00890431 /* HumanC.m */; };
 		3EE9BC311822DC2F009F5794 /* IntroLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EE9BC301822DC2F009F5794 /* IntroLayer.m */; };
 		3EE9BC371822E078009F5794 /* LearningModulesMainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EE9BC351822E078009F5794 /* LearningModulesMainViewController.m */; };
+		5B8D1B8C1823B170000786A5 /* Lat Capt KL-Jumping001.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B351823B16F000786A5 /* Lat Capt KL-Jumping001.png */; };
+		5B8D1B8D1823B170000786A5 /* Lat Capt KL-Jumping0010.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B361823B16F000786A5 /* Lat Capt KL-Jumping0010.png */; };
+		5B8D1B8E1823B170000786A5 /* Lat Capt KL-Jumping0011.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B371823B16F000786A5 /* Lat Capt KL-Jumping0011.png */; };
+		5B8D1B8F1823B170000786A5 /* Lat Capt KL-Jumping0012.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B381823B16F000786A5 /* Lat Capt KL-Jumping0012.png */; };
+		5B8D1B901823B170000786A5 /* Lat Capt KL-Jumping0013.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B391823B16F000786A5 /* Lat Capt KL-Jumping0013.png */; };
+		5B8D1B911823B170000786A5 /* Lat Capt KL-Jumping0014.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B3A1823B16F000786A5 /* Lat Capt KL-Jumping0014.png */; };
+		5B8D1B921823B170000786A5 /* Lat Capt KL-Jumping0015.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B3B1823B16F000786A5 /* Lat Capt KL-Jumping0015.png */; };
+		5B8D1B931823B170000786A5 /* Lat Capt KL-Jumping0016.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B3C1823B16F000786A5 /* Lat Capt KL-Jumping0016.png */; };
+		5B8D1B941823B170000786A5 /* Lat Capt KL-Jumping0017.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B3D1823B16F000786A5 /* Lat Capt KL-Jumping0017.png */; };
+		5B8D1B951823B170000786A5 /* Lat Capt KL-Jumping0018.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B3E1823B16F000786A5 /* Lat Capt KL-Jumping0018.png */; };
+		5B8D1B961823B170000786A5 /* Lat Capt KL-Jumping0019.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B3F1823B16F000786A5 /* Lat Capt KL-Jumping0019.png */; };
+		5B8D1B971823B170000786A5 /* Lat Capt KL-Jumping002.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B401823B16F000786A5 /* Lat Capt KL-Jumping002.png */; };
+		5B8D1B981823B170000786A5 /* Lat Capt KL-Jumping0020.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B411823B170000786A5 /* Lat Capt KL-Jumping0020.png */; };
+		5B8D1B991823B170000786A5 /* Lat Capt KL-Jumping0021.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B421823B170000786A5 /* Lat Capt KL-Jumping0021.png */; };
+		5B8D1B9A1823B170000786A5 /* Lat Capt KL-Jumping0022.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B431823B170000786A5 /* Lat Capt KL-Jumping0022.png */; };
+		5B8D1B9B1823B170000786A5 /* Lat Capt KL-Jumping0023.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B441823B170000786A5 /* Lat Capt KL-Jumping0023.png */; };
+		5B8D1B9C1823B170000786A5 /* Lat Capt KL-Jumping0024.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B451823B170000786A5 /* Lat Capt KL-Jumping0024.png */; };
+		5B8D1B9D1823B170000786A5 /* Lat Capt KL-Jumping0025.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B461823B170000786A5 /* Lat Capt KL-Jumping0025.png */; };
+		5B8D1B9E1823B170000786A5 /* Lat Capt KL-Jumping0026.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B471823B170000786A5 /* Lat Capt KL-Jumping0026.png */; };
+		5B8D1B9F1823B170000786A5 /* Lat Capt KL-Jumping0027.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B481823B170000786A5 /* Lat Capt KL-Jumping0027.png */; };
+		5B8D1BA01823B170000786A5 /* Lat Capt KL-Jumping0028.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B491823B170000786A5 /* Lat Capt KL-Jumping0028.png */; };
+		5B8D1BA11823B170000786A5 /* Lat Capt KL-Jumping0029.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B4A1823B170000786A5 /* Lat Capt KL-Jumping0029.png */; };
+		5B8D1BA21823B170000786A5 /* Lat Capt KL-Jumping003.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B4B1823B170000786A5 /* Lat Capt KL-Jumping003.png */; };
+		5B8D1BA31823B170000786A5 /* Lat Capt KL-Jumping0030.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B4C1823B170000786A5 /* Lat Capt KL-Jumping0030.png */; };
+		5B8D1BA41823B170000786A5 /* Lat Capt KL-Jumping0031.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B4D1823B170000786A5 /* Lat Capt KL-Jumping0031.png */; };
+		5B8D1BA51823B170000786A5 /* Lat Capt KL-Jumping004.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B4E1823B170000786A5 /* Lat Capt KL-Jumping004.png */; };
+		5B8D1BA61823B170000786A5 /* Lat Capt KL-Jumping005.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B4F1823B170000786A5 /* Lat Capt KL-Jumping005.png */; };
+		5B8D1BA71823B170000786A5 /* Lat Capt KL-Jumping006.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B501823B170000786A5 /* Lat Capt KL-Jumping006.png */; };
+		5B8D1BA81823B170000786A5 /* Lat Capt KL-Jumping007.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B511823B170000786A5 /* Lat Capt KL-Jumping007.png */; };
+		5B8D1BA91823B170000786A5 /* Lat Capt KL-Jumping008.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B521823B170000786A5 /* Lat Capt KL-Jumping008.png */; };
+		5B8D1BAA1823B170000786A5 /* Lat Capt KL-Jumping009.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B531823B170000786A5 /* Lat Capt KL-Jumping009.png */; };
+		5B8D1BAB1823B170000786A5 /* Ant Capt Transistion-From KL001.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B551823B170000786A5 /* Ant Capt Transistion-From KL001.png */; };
+		5B8D1BAC1823B170000786A5 /* Ant Capt Transistion-From KL0010.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B561823B170000786A5 /* Ant Capt Transistion-From KL0010.png */; };
+		5B8D1BAD1823B170000786A5 /* Ant Capt Transistion-From KL0011.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B571823B170000786A5 /* Ant Capt Transistion-From KL0011.png */; };
+		5B8D1BAE1823B170000786A5 /* Ant Capt Transistion-From KL0012.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B581823B170000786A5 /* Ant Capt Transistion-From KL0012.png */; };
+		5B8D1BAF1823B170000786A5 /* Ant Capt Transistion-From KL0013.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B591823B170000786A5 /* Ant Capt Transistion-From KL0013.png */; };
+		5B8D1BB01823B170000786A5 /* Ant Capt Transistion-From KL0014.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B5A1823B170000786A5 /* Ant Capt Transistion-From KL0014.png */; };
+		5B8D1BB11823B170000786A5 /* Ant Capt Transistion-From KL0015.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B5B1823B170000786A5 /* Ant Capt Transistion-From KL0015.png */; };
+		5B8D1BB21823B170000786A5 /* Ant Capt Transistion-From KL0016.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B5C1823B170000786A5 /* Ant Capt Transistion-From KL0016.png */; };
+		5B8D1BB31823B170000786A5 /* Ant Capt Transistion-From KL0017.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B5D1823B170000786A5 /* Ant Capt Transistion-From KL0017.png */; };
+		5B8D1BB41823B170000786A5 /* Ant Capt Transistion-From KL0018.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B5E1823B170000786A5 /* Ant Capt Transistion-From KL0018.png */; };
+		5B8D1BB51823B170000786A5 /* Ant Capt Transistion-From KL0019.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B5F1823B170000786A5 /* Ant Capt Transistion-From KL0019.png */; };
+		5B8D1BB61823B170000786A5 /* Ant Capt Transistion-From KL002.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B601823B170000786A5 /* Ant Capt Transistion-From KL002.png */; };
+		5B8D1BB71823B170000786A5 /* Ant Capt Transistion-From KL0020.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B611823B170000786A5 /* Ant Capt Transistion-From KL0020.png */; };
+		5B8D1BB81823B170000786A5 /* Ant Capt Transistion-From KL0021.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B621823B170000786A5 /* Ant Capt Transistion-From KL0021.png */; };
+		5B8D1BB91823B170000786A5 /* Ant Capt Transistion-From KL0022.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B631823B170000786A5 /* Ant Capt Transistion-From KL0022.png */; };
+		5B8D1BBA1823B170000786A5 /* Ant Capt Transistion-From KL0023.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B641823B170000786A5 /* Ant Capt Transistion-From KL0023.png */; };
+		5B8D1BBB1823B170000786A5 /* Ant Capt Transistion-From KL0024.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B651823B170000786A5 /* Ant Capt Transistion-From KL0024.png */; };
+		5B8D1BBC1823B170000786A5 /* Ant Capt Transistion-From KL0025.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B661823B170000786A5 /* Ant Capt Transistion-From KL0025.png */; };
+		5B8D1BBD1823B170000786A5 /* Ant Capt Transistion-From KL003.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B671823B170000786A5 /* Ant Capt Transistion-From KL003.png */; };
+		5B8D1BBE1823B170000786A5 /* Ant Capt Transistion-From KL004.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B681823B170000786A5 /* Ant Capt Transistion-From KL004.png */; };
+		5B8D1BBF1823B170000786A5 /* Ant Capt Transistion-From KL005.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B691823B170000786A5 /* Ant Capt Transistion-From KL005.png */; };
+		5B8D1BC01823B170000786A5 /* Ant Capt Transistion-From KL006.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B6A1823B170000786A5 /* Ant Capt Transistion-From KL006.png */; };
+		5B8D1BC11823B170000786A5 /* Ant Capt Transistion-From KL007.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B6B1823B170000786A5 /* Ant Capt Transistion-From KL007.png */; };
+		5B8D1BC21823B170000786A5 /* Ant Capt Transistion-From KL008.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B6C1823B170000786A5 /* Ant Capt Transistion-From KL008.png */; };
+		5B8D1BC31823B170000786A5 /* Ant Capt Transistion-From KL009.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B6D1823B170000786A5 /* Ant Capt Transistion-From KL009.png */; };
+		5B8D1BC41823B170000786A5 /* Ant Capt Trainsition-KL001.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B6F1823B170000786A5 /* Ant Capt Trainsition-KL001.png */; };
+		5B8D1BC51823B170000786A5 /* Ant Capt Trainsition-KL0010.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B701823B170000786A5 /* Ant Capt Trainsition-KL0010.png */; };
+		5B8D1BC61823B170000786A5 /* Ant Capt Trainsition-KL0011.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B711823B170000786A5 /* Ant Capt Trainsition-KL0011.png */; };
+		5B8D1BC71823B170000786A5 /* Ant Capt Trainsition-KL0012.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B721823B170000786A5 /* Ant Capt Trainsition-KL0012.png */; };
+		5B8D1BC81823B170000786A5 /* Ant Capt Trainsition-KL0013.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B731823B170000786A5 /* Ant Capt Trainsition-KL0013.png */; };
+		5B8D1BC91823B170000786A5 /* Ant Capt Trainsition-KL0014.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B741823B170000786A5 /* Ant Capt Trainsition-KL0014.png */; };
+		5B8D1BCA1823B170000786A5 /* Ant Capt Trainsition-KL0015.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B751823B170000786A5 /* Ant Capt Trainsition-KL0015.png */; };
+		5B8D1BCB1823B170000786A5 /* Ant Capt Trainsition-KL0016.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B761823B170000786A5 /* Ant Capt Trainsition-KL0016.png */; };
+		5B8D1BCC1823B170000786A5 /* Ant Capt Trainsition-KL0017.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B771823B170000786A5 /* Ant Capt Trainsition-KL0017.png */; };
+		5B8D1BCD1823B170000786A5 /* Ant Capt Trainsition-KL0018.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B781823B170000786A5 /* Ant Capt Trainsition-KL0018.png */; };
+		5B8D1BCE1823B170000786A5 /* Ant Capt Trainsition-KL0019.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B791823B170000786A5 /* Ant Capt Trainsition-KL0019.png */; };
+		5B8D1BCF1823B170000786A5 /* Ant Capt Trainsition-KL002.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B7A1823B170000786A5 /* Ant Capt Trainsition-KL002.png */; };
+		5B8D1BD01823B170000786A5 /* Ant Capt Trainsition-KL0020.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B7B1823B170000786A5 /* Ant Capt Trainsition-KL0020.png */; };
+		5B8D1BD11823B170000786A5 /* Ant Capt Trainsition-KL0021.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B7C1823B170000786A5 /* Ant Capt Trainsition-KL0021.png */; };
+		5B8D1BD21823B170000786A5 /* Ant Capt Trainsition-KL0022.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B7D1823B170000786A5 /* Ant Capt Trainsition-KL0022.png */; };
+		5B8D1BD31823B170000786A5 /* Ant Capt Trainsition-KL0023.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B7E1823B170000786A5 /* Ant Capt Trainsition-KL0023.png */; };
+		5B8D1BD41823B170000786A5 /* Ant Capt Trainsition-KL0024.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B7F1823B170000786A5 /* Ant Capt Trainsition-KL0024.png */; };
+		5B8D1BD51823B170000786A5 /* Ant Capt Trainsition-KL0025.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B801823B170000786A5 /* Ant Capt Trainsition-KL0025.png */; };
+		5B8D1BD61823B170000786A5 /* Ant Capt Trainsition-KL0026.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B811823B170000786A5 /* Ant Capt Trainsition-KL0026.png */; };
+		5B8D1BD71823B170000786A5 /* Ant Capt Trainsition-KL0027.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B821823B170000786A5 /* Ant Capt Trainsition-KL0027.png */; };
+		5B8D1BD81823B170000786A5 /* Ant Capt Trainsition-KL0028.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B831823B170000786A5 /* Ant Capt Trainsition-KL0028.png */; };
+		5B8D1BD91823B170000786A5 /* Ant Capt Trainsition-KL0029.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B841823B170000786A5 /* Ant Capt Trainsition-KL0029.png */; };
+		5B8D1BDA1823B170000786A5 /* Ant Capt Trainsition-KL003.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B851823B170000786A5 /* Ant Capt Trainsition-KL003.png */; };
+		5B8D1BDB1823B170000786A5 /* Ant Capt Trainsition-KL004.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B861823B170000786A5 /* Ant Capt Trainsition-KL004.png */; };
+		5B8D1BDC1823B170000786A5 /* Ant Capt Trainsition-KL005.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B871823B170000786A5 /* Ant Capt Trainsition-KL005.png */; };
+		5B8D1BDD1823B170000786A5 /* Ant Capt Trainsition-KL006.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B881823B170000786A5 /* Ant Capt Trainsition-KL006.png */; };
+		5B8D1BDE1823B170000786A5 /* Ant Capt Trainsition-KL007.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B891823B170000786A5 /* Ant Capt Trainsition-KL007.png */; };
+		5B8D1BDF1823B170000786A5 /* Ant Capt Trainsition-KL008.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B8A1823B170000786A5 /* Ant Capt Trainsition-KL008.png */; };
+		5B8D1BE01823B170000786A5 /* Ant Capt Trainsition-KL009.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1B8B1823B170000786A5 /* Ant Capt Trainsition-KL009.png */; };
+		5B8D1BE51823B6BA000786A5 /* CCC_Kangaroo-hd.plist in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1BE11823B6BA000786A5 /* CCC_Kangaroo-hd.plist */; };
+		5B8D1BE61823B6BA000786A5 /* CCC_Kangaroo-hd.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1BE21823B6BA000786A5 /* CCC_Kangaroo-hd.png */; };
+		5B8D1BE71823B6BA000786A5 /* CCC_Kangaroo.plist in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1BE31823B6BA000786A5 /* CCC_Kangaroo.plist */; };
+		5B8D1BE81823B6BA000786A5 /* CCC_Kangaroo.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1BE41823B6BA000786A5 /* CCC_Kangaroo.png */; };
+		5B8D1BF11823C478000786A5 /* CCC_first-hd.plist in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1BE91823C478000786A5 /* CCC_first-hd.plist */; };
+		5B8D1BF21823C478000786A5 /* CCC_first-hd.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1BEA1823C478000786A5 /* CCC_first-hd.png */; };
+		5B8D1BF31823C478000786A5 /* CCC_first.plist in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1BEB1823C478000786A5 /* CCC_first.plist */; };
+		5B8D1BF41823C478000786A5 /* CCC_first.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1BEC1823C478000786A5 /* CCC_first.png */; };
+		5B8D1BF51823C478000786A5 /* CCC_Kangaroo-hd.plist in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1BED1823C478000786A5 /* CCC_Kangaroo-hd.plist */; };
+		5B8D1BF61823C478000786A5 /* CCC_Kangaroo-hd.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1BEE1823C478000786A5 /* CCC_Kangaroo-hd.png */; };
+		5B8D1BF71823C478000786A5 /* CCC_Kangaroo.plist in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1BEF1823C478000786A5 /* CCC_Kangaroo.plist */; };
+		5B8D1BF81823C478000786A5 /* CCC_Kangaroo.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1BF01823C478000786A5 /* CCC_Kangaroo.png */; };
+		5B8D1C4A1823C603000786A5 /* Lat Capt Human-Standing.xml in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1BFA1823C602000786A5 /* Lat Capt Human-Standing.xml */; };
+		5B8D1C4B1823C603000786A5 /* Lat Capt Human-Standing0001.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1BFB1823C602000786A5 /* Lat Capt Human-Standing0001.png */; };
+		5B8D1C4C1823C603000786A5 /* Lat Capt Human-Standing0002.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1BFC1823C602000786A5 /* Lat Capt Human-Standing0002.png */; };
+		5B8D1C4D1823C603000786A5 /* Lat Capt Human-Standing0003.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1BFD1823C602000786A5 /* Lat Capt Human-Standing0003.png */; };
+		5B8D1C4E1823C603000786A5 /* Lat Capt Human-Standing0004.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1BFE1823C602000786A5 /* Lat Capt Human-Standing0004.png */; };
+		5B8D1C4F1823C603000786A5 /* Lat Capt Human-Standing0005.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1BFF1823C602000786A5 /* Lat Capt Human-Standing0005.png */; };
+		5B8D1C501823C603000786A5 /* Lat Capt Human-Standing0006.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1C001823C602000786A5 /* Lat Capt Human-Standing0006.png */; };
+		5B8D1C511823C603000786A5 /* Lat Capt Human-Standing0007.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1C011823C602000786A5 /* Lat Capt Human-Standing0007.png */; };
+		5B8D1C521823C603000786A5 /* Lat Capt Human-Standing0008.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1C021823C602000786A5 /* Lat Capt Human-Standing0008.png */; };
+		5B8D1C531823C603000786A5 /* Lat Capt Human-Standing0009.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1C031823C602000786A5 /* Lat Capt Human-Standing0009.png */; };
+		5B8D1C541823C603000786A5 /* Lat Capt Human-Standing0010.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1C041823C602000786A5 /* Lat Capt Human-Standing0010.png */; };
+		5B8D1C551823C603000786A5 /* Lat Capt Human-Standing0011.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1C051823C602000786A5 /* Lat Capt Human-Standing0011.png */; };
+		5B8D1C561823C603000786A5 /* Lat Capt Human-Standing0012.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1C061823C602000786A5 /* Lat Capt Human-Standing0012.png */; };
+		5B8D1C571823C603000786A5 /* Lat Capt Human-Standing0013.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1C071823C602000786A5 /* Lat Capt Human-Standing0013.png */; };
+		5B8D1C581823C603000786A5 /* Lat Capt Human-Standing0014.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1C081823C602000786A5 /* Lat Capt Human-Standing0014.png */; };
+		5B8D1C591823C603000786A5 /* Lat Capt Human-Standing0015.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1C091823C602000786A5 /* Lat Capt Human-Standing0015.png */; };
+		5B8D1C5A1823C603000786A5 /* Lat Capt Human-Standing0016.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1C0A1823C602000786A5 /* Lat Capt Human-Standing0016.png */; };
+		5B8D1C5B1823C603000786A5 /* Lat Capt Human-Standing0017.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1C0B1823C603000786A5 /* Lat Capt Human-Standing0017.png */; };
+		5B8D1C5C1823C603000786A5 /* Lat Capt Human-Standing0018.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1C0C1823C603000786A5 /* Lat Capt Human-Standing0018.png */; };
+		5B8D1C5D1823C603000786A5 /* Lat Capt Human-Standing0019.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1C0D1823C603000786A5 /* Lat Capt Human-Standing0019.png */; };
+		5B8D1C5E1823C603000786A5 /* Lat Capt Human-Standing0020.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1C0E1823C603000786A5 /* Lat Capt Human-Standing0020.png */; };
+		5B8D1C5F1823C603000786A5 /* Lat Capt Human-Standing0021.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1C0F1823C603000786A5 /* Lat Capt Human-Standing0021.png */; };
+		5B8D1C601823C603000786A5 /* Lat Capt Human-Standing0022.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1C101823C603000786A5 /* Lat Capt Human-Standing0022.png */; };
+		5B8D1C611823C603000786A5 /* Lat Capt Human-Standing0023.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1C111823C603000786A5 /* Lat Capt Human-Standing0023.png */; };
+		5B8D1C621823C603000786A5 /* Lat Capt Human-Standing0024.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1C121823C603000786A5 /* Lat Capt Human-Standing0024.png */; };
+		5B8D1C631823C603000786A5 /* Lat Capt Human-Standing0025.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1C131823C603000786A5 /* Lat Capt Human-Standing0025.png */; };
+		5B8D1C641823C603000786A5 /* Lat Capt Human-Standing0026.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1C141823C603000786A5 /* Lat Capt Human-Standing0026.png */; };
+		5B8D1C651823C603000786A5 /* Lat Capt Human-Standing0027.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1C151823C603000786A5 /* Lat Capt Human-Standing0027.png */; };
+		5B8D1C661823C603000786A5 /* Lat Capt Human-Standing0028.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1C161823C603000786A5 /* Lat Capt Human-Standing0028.png */; };
+		5B8D1C671823C603000786A5 /* Lat Capt Human-Standing0029.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1C171823C603000786A5 /* Lat Capt Human-Standing0029.png */; };
+		5B8D1C681823C603000786A5 /* Lat Capt Human-Standing0030.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1C181823C603000786A5 /* Lat Capt Human-Standing0030.png */; };
+		5B8D1C691823C603000786A5 /* Lat Capt Human-Standing0031.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1C191823C603000786A5 /* Lat Capt Human-Standing0031.png */; };
+		5B8D1C6A1823C603000786A5 /* Lat Capt Human-Standing0032.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1C1A1823C603000786A5 /* Lat Capt Human-Standing0032.png */; };
+		5B8D1C6B1823C603000786A5 /* Lat Capt Human-Standing0033.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1C1B1823C603000786A5 /* Lat Capt Human-Standing0033.png */; };
+		5B8D1C6C1823C603000786A5 /* Lat Capt Human-Standing0034.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1C1C1823C603000786A5 /* Lat Capt Human-Standing0034.png */; };
+		5B8D1C6D1823C603000786A5 /* Lat Capt Human-Standing0035.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1C1D1823C603000786A5 /* Lat Capt Human-Standing0035.png */; };
+		5B8D1C6E1823C603000786A5 /* Lat Capt Human-Standing0036.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1C1E1823C603000786A5 /* Lat Capt Human-Standing0036.png */; };
+		5B8D1C6F1823C603000786A5 /* Lat Capt Human-Standing0037.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1C1F1823C603000786A5 /* Lat Capt Human-Standing0037.png */; };
+		5B8D1C701823C603000786A5 /* Lat Capt Human-Standing0038.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1C201823C603000786A5 /* Lat Capt Human-Standing0038.png */; };
+		5B8D1C711823C603000786A5 /* Lat Capt Human-Standing0039.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1C211823C603000786A5 /* Lat Capt Human-Standing0039.png */; };
+		5B8D1C721823C603000786A5 /* Lat Capt Human-Standing0040.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1C221823C603000786A5 /* Lat Capt Human-Standing0040.png */; };
+		5B8D1C731823C603000786A5 /* Lat Capt Human-Standing0041.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1C231823C603000786A5 /* Lat Capt Human-Standing0041.png */; };
+		5B8D1C741823C603000786A5 /* Lat Capt Human-Standing0042.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1C241823C603000786A5 /* Lat Capt Human-Standing0042.png */; };
+		5B8D1C751823C603000786A5 /* Lat Capt Human-Standing0043.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1C251823C603000786A5 /* Lat Capt Human-Standing0043.png */; };
+		5B8D1C761823C603000786A5 /* Lat Capt Human-Standing0044.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1C261823C603000786A5 /* Lat Capt Human-Standing0044.png */; };
+		5B8D1C771823C603000786A5 /* Lat Capt Human-Standing0045.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1C271823C603000786A5 /* Lat Capt Human-Standing0045.png */; };
+		5B8D1C781823C603000786A5 /* Lat Capt Human-Standing0046.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1C281823C603000786A5 /* Lat Capt Human-Standing0046.png */; };
+		5B8D1C791823C603000786A5 /* Lat Capt Human-Standing0047.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1C291823C603000786A5 /* Lat Capt Human-Standing0047.png */; };
+		5B8D1C7A1823C603000786A5 /* Lat Capt Human-Standing0048.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1C2A1823C603000786A5 /* Lat Capt Human-Standing0048.png */; };
+		5B8D1C7B1823C603000786A5 /* Lat Capt Human-Standing0049.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1C2B1823C603000786A5 /* Lat Capt Human-Standing0049.png */; };
+		5B8D1C7C1823C603000786A5 /* Lat Capt Human-Standing0050.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1C2C1823C603000786A5 /* Lat Capt Human-Standing0050.png */; };
+		5B8D1C7D1823C603000786A5 /* Lat Capt Human-Standing0051.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1C2D1823C603000786A5 /* Lat Capt Human-Standing0051.png */; };
+		5B8D1C7E1823C603000786A5 /* Lat Capt Human-Standing0052.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1C2E1823C603000786A5 /* Lat Capt Human-Standing0052.png */; };
+		5B8D1C7F1823C603000786A5 /* Lat Capt Human-Standing0053.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1C2F1823C603000786A5 /* Lat Capt Human-Standing0053.png */; };
+		5B8D1C801823C603000786A5 /* Lat Capt Human-Standing0054.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1C301823C603000786A5 /* Lat Capt Human-Standing0054.png */; };
+		5B8D1C811823C603000786A5 /* Lat Capt Human-Standing0055.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1C311823C603000786A5 /* Lat Capt Human-Standing0055.png */; };
+		5B8D1C821823C603000786A5 /* Lat Capt Human-Standing0056.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1C321823C603000786A5 /* Lat Capt Human-Standing0056.png */; };
+		5B8D1C831823C603000786A5 /* Lat Capt Human-Standing0057.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1C331823C603000786A5 /* Lat Capt Human-Standing0057.png */; };
+		5B8D1C841823C603000786A5 /* Lat Capt Human-Standing0058.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1C341823C603000786A5 /* Lat Capt Human-Standing0058.png */; };
+		5B8D1C851823C603000786A5 /* Lat Capt Human-Standing0059.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1C351823C603000786A5 /* Lat Capt Human-Standing0059.png */; };
+		5B8D1C861823C603000786A5 /* Lat Capt Human-Standing0060.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1C361823C603000786A5 /* Lat Capt Human-Standing0060.png */; };
+		5B8D1C871823C603000786A5 /* Lat Capt Human-Standing0061.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1C371823C603000786A5 /* Lat Capt Human-Standing0061.png */; };
+		5B8D1C881823C603000786A5 /* Lat Capt Human-Standing0062.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1C381823C603000786A5 /* Lat Capt Human-Standing0062.png */; };
+		5B8D1C891823C603000786A5 /* Lat Capt Human-Standing0063.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1C391823C603000786A5 /* Lat Capt Human-Standing0063.png */; };
+		5B8D1C8A1823C603000786A5 /* Lat Capt Human-Standing0064.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1C3A1823C603000786A5 /* Lat Capt Human-Standing0064.png */; };
+		5B8D1C8B1823C603000786A5 /* Lat Capt Human-Standing0065.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1C3B1823C603000786A5 /* Lat Capt Human-Standing0065.png */; };
+		5B8D1C8C1823C603000786A5 /* Lat Capt Human-Standing0066.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1C3C1823C603000786A5 /* Lat Capt Human-Standing0066.png */; };
+		5B8D1C8D1823C603000786A5 /* Lat Capt Human-Standing0067.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1C3D1823C603000786A5 /* Lat Capt Human-Standing0067.png */; };
+		5B8D1C8E1823C603000786A5 /* Lat Capt Human-Standing0068.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1C3E1823C603000786A5 /* Lat Capt Human-Standing0068.png */; };
+		5B8D1C8F1823C603000786A5 /* Lat Capt Human-Standing0069.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1C3F1823C603000786A5 /* Lat Capt Human-Standing0069.png */; };
+		5B8D1C901823C603000786A5 /* Lat Capt Human-Standing0070.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1C401823C603000786A5 /* Lat Capt Human-Standing0070.png */; };
+		5B8D1C911823C603000786A5 /* Lat Capt Human-Standing0071.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1C411823C603000786A5 /* Lat Capt Human-Standing0071.png */; };
+		5B8D1C921823C603000786A5 /* Lat Capt Human-Standing0072.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1C421823C603000786A5 /* Lat Capt Human-Standing0072.png */; };
+		5B8D1C931823C603000786A5 /* Lat Capt Human-Standing0073.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1C431823C603000786A5 /* Lat Capt Human-Standing0073.png */; };
+		5B8D1C941823C603000786A5 /* Lat Capt Human-Standing0074.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1C441823C603000786A5 /* Lat Capt Human-Standing0074.png */; };
+		5B8D1C951823C603000786A5 /* Lat Capt Human-Standing0075.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1C451823C603000786A5 /* Lat Capt Human-Standing0075.png */; };
+		5B8D1C961823C603000786A5 /* Lat Capt Human-Standing0076.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1C461823C603000786A5 /* Lat Capt Human-Standing0076.png */; };
+		5B8D1C971823C603000786A5 /* Lat Capt Human-Standing0077.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1C471823C603000786A5 /* Lat Capt Human-Standing0077.png */; };
+		5B8D1C981823C603000786A5 /* Lat Capt Human-Standing0078.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1C481823C603000786A5 /* Lat Capt Human-Standing0078.png */; };
+		5B8D1C991823C603000786A5 /* Lat Capt Human-Standing0079.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1C491823C603000786A5 /* Lat Capt Human-Standing0079.png */; };
+		5B8D1CAE1823C61A000786A5 /* Lat Capt Human-Walking.xml in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1C9B1823C61A000786A5 /* Lat Capt Human-Walking.xml */; };
+		5B8D1CAF1823C61A000786A5 /* Lat Capt Human-Walking0001.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1C9C1823C61A000786A5 /* Lat Capt Human-Walking0001.png */; };
+		5B8D1CB01823C61A000786A5 /* Lat Capt Human-Walking0002.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1C9D1823C61A000786A5 /* Lat Capt Human-Walking0002.png */; };
+		5B8D1CB11823C61A000786A5 /* Lat Capt Human-Walking0003.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1C9E1823C61A000786A5 /* Lat Capt Human-Walking0003.png */; };
+		5B8D1CB21823C61A000786A5 /* Lat Capt Human-Walking0004.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1C9F1823C61A000786A5 /* Lat Capt Human-Walking0004.png */; };
+		5B8D1CB31823C61A000786A5 /* Lat Capt Human-Walking0005.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1CA01823C61A000786A5 /* Lat Capt Human-Walking0005.png */; };
+		5B8D1CB41823C61A000786A5 /* Lat Capt Human-Walking0006.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1CA11823C61A000786A5 /* Lat Capt Human-Walking0006.png */; };
+		5B8D1CB51823C61A000786A5 /* Lat Capt Human-Walking0007.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1CA21823C61A000786A5 /* Lat Capt Human-Walking0007.png */; };
+		5B8D1CB61823C61A000786A5 /* Lat Capt Human-Walking0008.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1CA31823C61A000786A5 /* Lat Capt Human-Walking0008.png */; };
+		5B8D1CB71823C61A000786A5 /* Lat Capt Human-Walking0009.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1CA41823C61A000786A5 /* Lat Capt Human-Walking0009.png */; };
+		5B8D1CB81823C61A000786A5 /* Lat Capt Human-Walking0010.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1CA51823C61A000786A5 /* Lat Capt Human-Walking0010.png */; };
+		5B8D1CB91823C61A000786A5 /* Lat Capt Human-Walking0011.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1CA61823C61A000786A5 /* Lat Capt Human-Walking0011.png */; };
+		5B8D1CBA1823C61A000786A5 /* Lat Capt Human-Walking0012.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1CA71823C61A000786A5 /* Lat Capt Human-Walking0012.png */; };
+		5B8D1CBB1823C61A000786A5 /* Lat Capt Human-Walking0013.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1CA81823C61A000786A5 /* Lat Capt Human-Walking0013.png */; };
+		5B8D1CBC1823C61A000786A5 /* Lat Capt Human-Walking0014.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1CA91823C61A000786A5 /* Lat Capt Human-Walking0014.png */; };
+		5B8D1CBD1823C61A000786A5 /* Lat Capt Human-Walking0015.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1CAA1823C61A000786A5 /* Lat Capt Human-Walking0015.png */; };
+		5B8D1CBE1823C61A000786A5 /* Lat Capt Human-Walking0016.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1CAB1823C61A000786A5 /* Lat Capt Human-Walking0016.png */; };
+		5B8D1CBF1823C61A000786A5 /* Lat Capt Human-Walking0017.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1CAC1823C61A000786A5 /* Lat Capt Human-Walking0017.png */; };
+		5B8D1CC01823C61A000786A5 /* Lat Capt Human-Walking0018.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B8D1CAD1823C61A000786A5 /* Lat Capt Human-Walking0018.png */; };
 		5B91C1B1182354E4002040ED /* MenuSelectionLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 5B91C1B0182354E4002040ED /* MenuSelectionLayer.m */; };
 		5B91C1B5182356B0002040ED /* Superpower.m in Sources */ = {isa = PBXBuildFile; fileRef = 5B91C1B4182356B0002040ED /* Superpower.m */; };
 		5BE6274D1820B52B00BE9854 /* CCCHomepage_iPhone5.png in Resources */ = {isa = PBXBuildFile; fileRef = 5BE6274C1820B52B00BE9854 /* CCCHomepage_iPhone5.png */; };
 		5BE6274F1820B5D600BE9854 /* HomeIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 5BE6274E1820B5D600BE9854 /* HomeIcon.png */; };
+		5BFF4FB118238EE500A020DB /* KangarooIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 5BFF4FB018238EE500A020DB /* KangarooIcon.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -512,12 +709,209 @@
 		3EE9BC301822DC2F009F5794 /* IntroLayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IntroLayer.m; sourceTree = "<group>"; };
 		3EE9BC341822E078009F5794 /* LearningModulesMainViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = LearningModulesMainViewController.h; path = ../LearningModulesMainViewController.h; sourceTree = "<group>"; };
 		3EE9BC351822E078009F5794 /* LearningModulesMainViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = LearningModulesMainViewController.m; path = ../LearningModulesMainViewController.m; sourceTree = "<group>"; };
+		5B8D1B351823B16F000786A5 /* Lat Capt KL-Jumping001.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt KL-Jumping001.png"; sourceTree = "<group>"; };
+		5B8D1B361823B16F000786A5 /* Lat Capt KL-Jumping0010.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt KL-Jumping0010.png"; sourceTree = "<group>"; };
+		5B8D1B371823B16F000786A5 /* Lat Capt KL-Jumping0011.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt KL-Jumping0011.png"; sourceTree = "<group>"; };
+		5B8D1B381823B16F000786A5 /* Lat Capt KL-Jumping0012.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt KL-Jumping0012.png"; sourceTree = "<group>"; };
+		5B8D1B391823B16F000786A5 /* Lat Capt KL-Jumping0013.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt KL-Jumping0013.png"; sourceTree = "<group>"; };
+		5B8D1B3A1823B16F000786A5 /* Lat Capt KL-Jumping0014.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt KL-Jumping0014.png"; sourceTree = "<group>"; };
+		5B8D1B3B1823B16F000786A5 /* Lat Capt KL-Jumping0015.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt KL-Jumping0015.png"; sourceTree = "<group>"; };
+		5B8D1B3C1823B16F000786A5 /* Lat Capt KL-Jumping0016.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt KL-Jumping0016.png"; sourceTree = "<group>"; };
+		5B8D1B3D1823B16F000786A5 /* Lat Capt KL-Jumping0017.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt KL-Jumping0017.png"; sourceTree = "<group>"; };
+		5B8D1B3E1823B16F000786A5 /* Lat Capt KL-Jumping0018.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt KL-Jumping0018.png"; sourceTree = "<group>"; };
+		5B8D1B3F1823B16F000786A5 /* Lat Capt KL-Jumping0019.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt KL-Jumping0019.png"; sourceTree = "<group>"; };
+		5B8D1B401823B16F000786A5 /* Lat Capt KL-Jumping002.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt KL-Jumping002.png"; sourceTree = "<group>"; };
+		5B8D1B411823B170000786A5 /* Lat Capt KL-Jumping0020.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt KL-Jumping0020.png"; sourceTree = "<group>"; };
+		5B8D1B421823B170000786A5 /* Lat Capt KL-Jumping0021.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt KL-Jumping0021.png"; sourceTree = "<group>"; };
+		5B8D1B431823B170000786A5 /* Lat Capt KL-Jumping0022.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt KL-Jumping0022.png"; sourceTree = "<group>"; };
+		5B8D1B441823B170000786A5 /* Lat Capt KL-Jumping0023.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt KL-Jumping0023.png"; sourceTree = "<group>"; };
+		5B8D1B451823B170000786A5 /* Lat Capt KL-Jumping0024.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt KL-Jumping0024.png"; sourceTree = "<group>"; };
+		5B8D1B461823B170000786A5 /* Lat Capt KL-Jumping0025.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt KL-Jumping0025.png"; sourceTree = "<group>"; };
+		5B8D1B471823B170000786A5 /* Lat Capt KL-Jumping0026.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt KL-Jumping0026.png"; sourceTree = "<group>"; };
+		5B8D1B481823B170000786A5 /* Lat Capt KL-Jumping0027.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt KL-Jumping0027.png"; sourceTree = "<group>"; };
+		5B8D1B491823B170000786A5 /* Lat Capt KL-Jumping0028.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt KL-Jumping0028.png"; sourceTree = "<group>"; };
+		5B8D1B4A1823B170000786A5 /* Lat Capt KL-Jumping0029.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt KL-Jumping0029.png"; sourceTree = "<group>"; };
+		5B8D1B4B1823B170000786A5 /* Lat Capt KL-Jumping003.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt KL-Jumping003.png"; sourceTree = "<group>"; };
+		5B8D1B4C1823B170000786A5 /* Lat Capt KL-Jumping0030.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt KL-Jumping0030.png"; sourceTree = "<group>"; };
+		5B8D1B4D1823B170000786A5 /* Lat Capt KL-Jumping0031.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt KL-Jumping0031.png"; sourceTree = "<group>"; };
+		5B8D1B4E1823B170000786A5 /* Lat Capt KL-Jumping004.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt KL-Jumping004.png"; sourceTree = "<group>"; };
+		5B8D1B4F1823B170000786A5 /* Lat Capt KL-Jumping005.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt KL-Jumping005.png"; sourceTree = "<group>"; };
+		5B8D1B501823B170000786A5 /* Lat Capt KL-Jumping006.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt KL-Jumping006.png"; sourceTree = "<group>"; };
+		5B8D1B511823B170000786A5 /* Lat Capt KL-Jumping007.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt KL-Jumping007.png"; sourceTree = "<group>"; };
+		5B8D1B521823B170000786A5 /* Lat Capt KL-Jumping008.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt KL-Jumping008.png"; sourceTree = "<group>"; };
+		5B8D1B531823B170000786A5 /* Lat Capt KL-Jumping009.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt KL-Jumping009.png"; sourceTree = "<group>"; };
+		5B8D1B551823B170000786A5 /* Ant Capt Transistion-From KL001.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ant Capt Transistion-From KL001.png"; sourceTree = "<group>"; };
+		5B8D1B561823B170000786A5 /* Ant Capt Transistion-From KL0010.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ant Capt Transistion-From KL0010.png"; sourceTree = "<group>"; };
+		5B8D1B571823B170000786A5 /* Ant Capt Transistion-From KL0011.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ant Capt Transistion-From KL0011.png"; sourceTree = "<group>"; };
+		5B8D1B581823B170000786A5 /* Ant Capt Transistion-From KL0012.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ant Capt Transistion-From KL0012.png"; sourceTree = "<group>"; };
+		5B8D1B591823B170000786A5 /* Ant Capt Transistion-From KL0013.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ant Capt Transistion-From KL0013.png"; sourceTree = "<group>"; };
+		5B8D1B5A1823B170000786A5 /* Ant Capt Transistion-From KL0014.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ant Capt Transistion-From KL0014.png"; sourceTree = "<group>"; };
+		5B8D1B5B1823B170000786A5 /* Ant Capt Transistion-From KL0015.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ant Capt Transistion-From KL0015.png"; sourceTree = "<group>"; };
+		5B8D1B5C1823B170000786A5 /* Ant Capt Transistion-From KL0016.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ant Capt Transistion-From KL0016.png"; sourceTree = "<group>"; };
+		5B8D1B5D1823B170000786A5 /* Ant Capt Transistion-From KL0017.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ant Capt Transistion-From KL0017.png"; sourceTree = "<group>"; };
+		5B8D1B5E1823B170000786A5 /* Ant Capt Transistion-From KL0018.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ant Capt Transistion-From KL0018.png"; sourceTree = "<group>"; };
+		5B8D1B5F1823B170000786A5 /* Ant Capt Transistion-From KL0019.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ant Capt Transistion-From KL0019.png"; sourceTree = "<group>"; };
+		5B8D1B601823B170000786A5 /* Ant Capt Transistion-From KL002.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ant Capt Transistion-From KL002.png"; sourceTree = "<group>"; };
+		5B8D1B611823B170000786A5 /* Ant Capt Transistion-From KL0020.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ant Capt Transistion-From KL0020.png"; sourceTree = "<group>"; };
+		5B8D1B621823B170000786A5 /* Ant Capt Transistion-From KL0021.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ant Capt Transistion-From KL0021.png"; sourceTree = "<group>"; };
+		5B8D1B631823B170000786A5 /* Ant Capt Transistion-From KL0022.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ant Capt Transistion-From KL0022.png"; sourceTree = "<group>"; };
+		5B8D1B641823B170000786A5 /* Ant Capt Transistion-From KL0023.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ant Capt Transistion-From KL0023.png"; sourceTree = "<group>"; };
+		5B8D1B651823B170000786A5 /* Ant Capt Transistion-From KL0024.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ant Capt Transistion-From KL0024.png"; sourceTree = "<group>"; };
+		5B8D1B661823B170000786A5 /* Ant Capt Transistion-From KL0025.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ant Capt Transistion-From KL0025.png"; sourceTree = "<group>"; };
+		5B8D1B671823B170000786A5 /* Ant Capt Transistion-From KL003.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ant Capt Transistion-From KL003.png"; sourceTree = "<group>"; };
+		5B8D1B681823B170000786A5 /* Ant Capt Transistion-From KL004.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ant Capt Transistion-From KL004.png"; sourceTree = "<group>"; };
+		5B8D1B691823B170000786A5 /* Ant Capt Transistion-From KL005.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ant Capt Transistion-From KL005.png"; sourceTree = "<group>"; };
+		5B8D1B6A1823B170000786A5 /* Ant Capt Transistion-From KL006.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ant Capt Transistion-From KL006.png"; sourceTree = "<group>"; };
+		5B8D1B6B1823B170000786A5 /* Ant Capt Transistion-From KL007.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ant Capt Transistion-From KL007.png"; sourceTree = "<group>"; };
+		5B8D1B6C1823B170000786A5 /* Ant Capt Transistion-From KL008.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ant Capt Transistion-From KL008.png"; sourceTree = "<group>"; };
+		5B8D1B6D1823B170000786A5 /* Ant Capt Transistion-From KL009.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ant Capt Transistion-From KL009.png"; sourceTree = "<group>"; };
+		5B8D1B6F1823B170000786A5 /* Ant Capt Trainsition-KL001.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ant Capt Trainsition-KL001.png"; sourceTree = "<group>"; };
+		5B8D1B701823B170000786A5 /* Ant Capt Trainsition-KL0010.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ant Capt Trainsition-KL0010.png"; sourceTree = "<group>"; };
+		5B8D1B711823B170000786A5 /* Ant Capt Trainsition-KL0011.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ant Capt Trainsition-KL0011.png"; sourceTree = "<group>"; };
+		5B8D1B721823B170000786A5 /* Ant Capt Trainsition-KL0012.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ant Capt Trainsition-KL0012.png"; sourceTree = "<group>"; };
+		5B8D1B731823B170000786A5 /* Ant Capt Trainsition-KL0013.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ant Capt Trainsition-KL0013.png"; sourceTree = "<group>"; };
+		5B8D1B741823B170000786A5 /* Ant Capt Trainsition-KL0014.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ant Capt Trainsition-KL0014.png"; sourceTree = "<group>"; };
+		5B8D1B751823B170000786A5 /* Ant Capt Trainsition-KL0015.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ant Capt Trainsition-KL0015.png"; sourceTree = "<group>"; };
+		5B8D1B761823B170000786A5 /* Ant Capt Trainsition-KL0016.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ant Capt Trainsition-KL0016.png"; sourceTree = "<group>"; };
+		5B8D1B771823B170000786A5 /* Ant Capt Trainsition-KL0017.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ant Capt Trainsition-KL0017.png"; sourceTree = "<group>"; };
+		5B8D1B781823B170000786A5 /* Ant Capt Trainsition-KL0018.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ant Capt Trainsition-KL0018.png"; sourceTree = "<group>"; };
+		5B8D1B791823B170000786A5 /* Ant Capt Trainsition-KL0019.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ant Capt Trainsition-KL0019.png"; sourceTree = "<group>"; };
+		5B8D1B7A1823B170000786A5 /* Ant Capt Trainsition-KL002.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ant Capt Trainsition-KL002.png"; sourceTree = "<group>"; };
+		5B8D1B7B1823B170000786A5 /* Ant Capt Trainsition-KL0020.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ant Capt Trainsition-KL0020.png"; sourceTree = "<group>"; };
+		5B8D1B7C1823B170000786A5 /* Ant Capt Trainsition-KL0021.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ant Capt Trainsition-KL0021.png"; sourceTree = "<group>"; };
+		5B8D1B7D1823B170000786A5 /* Ant Capt Trainsition-KL0022.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ant Capt Trainsition-KL0022.png"; sourceTree = "<group>"; };
+		5B8D1B7E1823B170000786A5 /* Ant Capt Trainsition-KL0023.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ant Capt Trainsition-KL0023.png"; sourceTree = "<group>"; };
+		5B8D1B7F1823B170000786A5 /* Ant Capt Trainsition-KL0024.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ant Capt Trainsition-KL0024.png"; sourceTree = "<group>"; };
+		5B8D1B801823B170000786A5 /* Ant Capt Trainsition-KL0025.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ant Capt Trainsition-KL0025.png"; sourceTree = "<group>"; };
+		5B8D1B811823B170000786A5 /* Ant Capt Trainsition-KL0026.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ant Capt Trainsition-KL0026.png"; sourceTree = "<group>"; };
+		5B8D1B821823B170000786A5 /* Ant Capt Trainsition-KL0027.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ant Capt Trainsition-KL0027.png"; sourceTree = "<group>"; };
+		5B8D1B831823B170000786A5 /* Ant Capt Trainsition-KL0028.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ant Capt Trainsition-KL0028.png"; sourceTree = "<group>"; };
+		5B8D1B841823B170000786A5 /* Ant Capt Trainsition-KL0029.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ant Capt Trainsition-KL0029.png"; sourceTree = "<group>"; };
+		5B8D1B851823B170000786A5 /* Ant Capt Trainsition-KL003.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ant Capt Trainsition-KL003.png"; sourceTree = "<group>"; };
+		5B8D1B861823B170000786A5 /* Ant Capt Trainsition-KL004.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ant Capt Trainsition-KL004.png"; sourceTree = "<group>"; };
+		5B8D1B871823B170000786A5 /* Ant Capt Trainsition-KL005.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ant Capt Trainsition-KL005.png"; sourceTree = "<group>"; };
+		5B8D1B881823B170000786A5 /* Ant Capt Trainsition-KL006.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ant Capt Trainsition-KL006.png"; sourceTree = "<group>"; };
+		5B8D1B891823B170000786A5 /* Ant Capt Trainsition-KL007.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ant Capt Trainsition-KL007.png"; sourceTree = "<group>"; };
+		5B8D1B8A1823B170000786A5 /* Ant Capt Trainsition-KL008.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ant Capt Trainsition-KL008.png"; sourceTree = "<group>"; };
+		5B8D1B8B1823B170000786A5 /* Ant Capt Trainsition-KL009.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ant Capt Trainsition-KL009.png"; sourceTree = "<group>"; };
+		5B8D1BE11823B6BA000786A5 /* CCC_Kangaroo-hd.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "CCC_Kangaroo-hd.plist"; path = "Captain Resources/Superpowers/CCC_Kangaroo-hd.plist"; sourceTree = "<group>"; };
+		5B8D1BE21823B6BA000786A5 /* CCC_Kangaroo-hd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "CCC_Kangaroo-hd.png"; path = "Captain Resources/Superpowers/CCC_Kangaroo-hd.png"; sourceTree = "<group>"; };
+		5B8D1BE31823B6BA000786A5 /* CCC_Kangaroo.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = CCC_Kangaroo.plist; path = "Captain Resources/Superpowers/CCC_Kangaroo.plist"; sourceTree = "<group>"; };
+		5B8D1BE41823B6BA000786A5 /* CCC_Kangaroo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = CCC_Kangaroo.png; path = "Captain Resources/Superpowers/CCC_Kangaroo.png"; sourceTree = "<group>"; };
+		5B8D1BE91823C478000786A5 /* CCC_first-hd.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "CCC_first-hd.plist"; path = "Captain Resources/Superpowers/CCC_first-hd.plist"; sourceTree = "<group>"; };
+		5B8D1BEA1823C478000786A5 /* CCC_first-hd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "CCC_first-hd.png"; path = "Captain Resources/Superpowers/CCC_first-hd.png"; sourceTree = "<group>"; };
+		5B8D1BEB1823C478000786A5 /* CCC_first.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = CCC_first.plist; path = "Captain Resources/Superpowers/CCC_first.plist"; sourceTree = "<group>"; };
+		5B8D1BEC1823C478000786A5 /* CCC_first.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = CCC_first.png; path = "Captain Resources/Superpowers/CCC_first.png"; sourceTree = "<group>"; };
+		5B8D1BED1823C478000786A5 /* CCC_Kangaroo-hd.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "CCC_Kangaroo-hd.plist"; path = "Captain Resources/Superpowers/CCC_Kangaroo-hd.plist"; sourceTree = "<group>"; };
+		5B8D1BEE1823C478000786A5 /* CCC_Kangaroo-hd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "CCC_Kangaroo-hd.png"; path = "Captain Resources/Superpowers/CCC_Kangaroo-hd.png"; sourceTree = "<group>"; };
+		5B8D1BEF1823C478000786A5 /* CCC_Kangaroo.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = CCC_Kangaroo.plist; path = "Captain Resources/Superpowers/CCC_Kangaroo.plist"; sourceTree = "<group>"; };
+		5B8D1BF01823C478000786A5 /* CCC_Kangaroo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = CCC_Kangaroo.png; path = "Captain Resources/Superpowers/CCC_Kangaroo.png"; sourceTree = "<group>"; };
+		5B8D1BFA1823C602000786A5 /* Lat Capt Human-Standing.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "Lat Capt Human-Standing.xml"; sourceTree = "<group>"; };
+		5B8D1BFB1823C602000786A5 /* Lat Capt Human-Standing0001.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Standing0001.png"; sourceTree = "<group>"; };
+		5B8D1BFC1823C602000786A5 /* Lat Capt Human-Standing0002.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Standing0002.png"; sourceTree = "<group>"; };
+		5B8D1BFD1823C602000786A5 /* Lat Capt Human-Standing0003.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Standing0003.png"; sourceTree = "<group>"; };
+		5B8D1BFE1823C602000786A5 /* Lat Capt Human-Standing0004.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Standing0004.png"; sourceTree = "<group>"; };
+		5B8D1BFF1823C602000786A5 /* Lat Capt Human-Standing0005.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Standing0005.png"; sourceTree = "<group>"; };
+		5B8D1C001823C602000786A5 /* Lat Capt Human-Standing0006.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Standing0006.png"; sourceTree = "<group>"; };
+		5B8D1C011823C602000786A5 /* Lat Capt Human-Standing0007.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Standing0007.png"; sourceTree = "<group>"; };
+		5B8D1C021823C602000786A5 /* Lat Capt Human-Standing0008.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Standing0008.png"; sourceTree = "<group>"; };
+		5B8D1C031823C602000786A5 /* Lat Capt Human-Standing0009.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Standing0009.png"; sourceTree = "<group>"; };
+		5B8D1C041823C602000786A5 /* Lat Capt Human-Standing0010.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Standing0010.png"; sourceTree = "<group>"; };
+		5B8D1C051823C602000786A5 /* Lat Capt Human-Standing0011.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Standing0011.png"; sourceTree = "<group>"; };
+		5B8D1C061823C602000786A5 /* Lat Capt Human-Standing0012.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Standing0012.png"; sourceTree = "<group>"; };
+		5B8D1C071823C602000786A5 /* Lat Capt Human-Standing0013.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Standing0013.png"; sourceTree = "<group>"; };
+		5B8D1C081823C602000786A5 /* Lat Capt Human-Standing0014.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Standing0014.png"; sourceTree = "<group>"; };
+		5B8D1C091823C602000786A5 /* Lat Capt Human-Standing0015.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Standing0015.png"; sourceTree = "<group>"; };
+		5B8D1C0A1823C602000786A5 /* Lat Capt Human-Standing0016.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Standing0016.png"; sourceTree = "<group>"; };
+		5B8D1C0B1823C603000786A5 /* Lat Capt Human-Standing0017.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Standing0017.png"; sourceTree = "<group>"; };
+		5B8D1C0C1823C603000786A5 /* Lat Capt Human-Standing0018.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Standing0018.png"; sourceTree = "<group>"; };
+		5B8D1C0D1823C603000786A5 /* Lat Capt Human-Standing0019.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Standing0019.png"; sourceTree = "<group>"; };
+		5B8D1C0E1823C603000786A5 /* Lat Capt Human-Standing0020.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Standing0020.png"; sourceTree = "<group>"; };
+		5B8D1C0F1823C603000786A5 /* Lat Capt Human-Standing0021.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Standing0021.png"; sourceTree = "<group>"; };
+		5B8D1C101823C603000786A5 /* Lat Capt Human-Standing0022.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Standing0022.png"; sourceTree = "<group>"; };
+		5B8D1C111823C603000786A5 /* Lat Capt Human-Standing0023.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Standing0023.png"; sourceTree = "<group>"; };
+		5B8D1C121823C603000786A5 /* Lat Capt Human-Standing0024.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Standing0024.png"; sourceTree = "<group>"; };
+		5B8D1C131823C603000786A5 /* Lat Capt Human-Standing0025.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Standing0025.png"; sourceTree = "<group>"; };
+		5B8D1C141823C603000786A5 /* Lat Capt Human-Standing0026.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Standing0026.png"; sourceTree = "<group>"; };
+		5B8D1C151823C603000786A5 /* Lat Capt Human-Standing0027.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Standing0027.png"; sourceTree = "<group>"; };
+		5B8D1C161823C603000786A5 /* Lat Capt Human-Standing0028.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Standing0028.png"; sourceTree = "<group>"; };
+		5B8D1C171823C603000786A5 /* Lat Capt Human-Standing0029.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Standing0029.png"; sourceTree = "<group>"; };
+		5B8D1C181823C603000786A5 /* Lat Capt Human-Standing0030.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Standing0030.png"; sourceTree = "<group>"; };
+		5B8D1C191823C603000786A5 /* Lat Capt Human-Standing0031.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Standing0031.png"; sourceTree = "<group>"; };
+		5B8D1C1A1823C603000786A5 /* Lat Capt Human-Standing0032.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Standing0032.png"; sourceTree = "<group>"; };
+		5B8D1C1B1823C603000786A5 /* Lat Capt Human-Standing0033.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Standing0033.png"; sourceTree = "<group>"; };
+		5B8D1C1C1823C603000786A5 /* Lat Capt Human-Standing0034.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Standing0034.png"; sourceTree = "<group>"; };
+		5B8D1C1D1823C603000786A5 /* Lat Capt Human-Standing0035.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Standing0035.png"; sourceTree = "<group>"; };
+		5B8D1C1E1823C603000786A5 /* Lat Capt Human-Standing0036.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Standing0036.png"; sourceTree = "<group>"; };
+		5B8D1C1F1823C603000786A5 /* Lat Capt Human-Standing0037.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Standing0037.png"; sourceTree = "<group>"; };
+		5B8D1C201823C603000786A5 /* Lat Capt Human-Standing0038.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Standing0038.png"; sourceTree = "<group>"; };
+		5B8D1C211823C603000786A5 /* Lat Capt Human-Standing0039.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Standing0039.png"; sourceTree = "<group>"; };
+		5B8D1C221823C603000786A5 /* Lat Capt Human-Standing0040.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Standing0040.png"; sourceTree = "<group>"; };
+		5B8D1C231823C603000786A5 /* Lat Capt Human-Standing0041.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Standing0041.png"; sourceTree = "<group>"; };
+		5B8D1C241823C603000786A5 /* Lat Capt Human-Standing0042.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Standing0042.png"; sourceTree = "<group>"; };
+		5B8D1C251823C603000786A5 /* Lat Capt Human-Standing0043.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Standing0043.png"; sourceTree = "<group>"; };
+		5B8D1C261823C603000786A5 /* Lat Capt Human-Standing0044.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Standing0044.png"; sourceTree = "<group>"; };
+		5B8D1C271823C603000786A5 /* Lat Capt Human-Standing0045.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Standing0045.png"; sourceTree = "<group>"; };
+		5B8D1C281823C603000786A5 /* Lat Capt Human-Standing0046.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Standing0046.png"; sourceTree = "<group>"; };
+		5B8D1C291823C603000786A5 /* Lat Capt Human-Standing0047.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Standing0047.png"; sourceTree = "<group>"; };
+		5B8D1C2A1823C603000786A5 /* Lat Capt Human-Standing0048.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Standing0048.png"; sourceTree = "<group>"; };
+		5B8D1C2B1823C603000786A5 /* Lat Capt Human-Standing0049.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Standing0049.png"; sourceTree = "<group>"; };
+		5B8D1C2C1823C603000786A5 /* Lat Capt Human-Standing0050.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Standing0050.png"; sourceTree = "<group>"; };
+		5B8D1C2D1823C603000786A5 /* Lat Capt Human-Standing0051.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Standing0051.png"; sourceTree = "<group>"; };
+		5B8D1C2E1823C603000786A5 /* Lat Capt Human-Standing0052.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Standing0052.png"; sourceTree = "<group>"; };
+		5B8D1C2F1823C603000786A5 /* Lat Capt Human-Standing0053.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Standing0053.png"; sourceTree = "<group>"; };
+		5B8D1C301823C603000786A5 /* Lat Capt Human-Standing0054.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Standing0054.png"; sourceTree = "<group>"; };
+		5B8D1C311823C603000786A5 /* Lat Capt Human-Standing0055.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Standing0055.png"; sourceTree = "<group>"; };
+		5B8D1C321823C603000786A5 /* Lat Capt Human-Standing0056.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Standing0056.png"; sourceTree = "<group>"; };
+		5B8D1C331823C603000786A5 /* Lat Capt Human-Standing0057.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Standing0057.png"; sourceTree = "<group>"; };
+		5B8D1C341823C603000786A5 /* Lat Capt Human-Standing0058.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Standing0058.png"; sourceTree = "<group>"; };
+		5B8D1C351823C603000786A5 /* Lat Capt Human-Standing0059.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Standing0059.png"; sourceTree = "<group>"; };
+		5B8D1C361823C603000786A5 /* Lat Capt Human-Standing0060.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Standing0060.png"; sourceTree = "<group>"; };
+		5B8D1C371823C603000786A5 /* Lat Capt Human-Standing0061.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Standing0061.png"; sourceTree = "<group>"; };
+		5B8D1C381823C603000786A5 /* Lat Capt Human-Standing0062.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Standing0062.png"; sourceTree = "<group>"; };
+		5B8D1C391823C603000786A5 /* Lat Capt Human-Standing0063.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Standing0063.png"; sourceTree = "<group>"; };
+		5B8D1C3A1823C603000786A5 /* Lat Capt Human-Standing0064.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Standing0064.png"; sourceTree = "<group>"; };
+		5B8D1C3B1823C603000786A5 /* Lat Capt Human-Standing0065.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Standing0065.png"; sourceTree = "<group>"; };
+		5B8D1C3C1823C603000786A5 /* Lat Capt Human-Standing0066.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Standing0066.png"; sourceTree = "<group>"; };
+		5B8D1C3D1823C603000786A5 /* Lat Capt Human-Standing0067.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Standing0067.png"; sourceTree = "<group>"; };
+		5B8D1C3E1823C603000786A5 /* Lat Capt Human-Standing0068.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Standing0068.png"; sourceTree = "<group>"; };
+		5B8D1C3F1823C603000786A5 /* Lat Capt Human-Standing0069.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Standing0069.png"; sourceTree = "<group>"; };
+		5B8D1C401823C603000786A5 /* Lat Capt Human-Standing0070.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Standing0070.png"; sourceTree = "<group>"; };
+		5B8D1C411823C603000786A5 /* Lat Capt Human-Standing0071.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Standing0071.png"; sourceTree = "<group>"; };
+		5B8D1C421823C603000786A5 /* Lat Capt Human-Standing0072.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Standing0072.png"; sourceTree = "<group>"; };
+		5B8D1C431823C603000786A5 /* Lat Capt Human-Standing0073.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Standing0073.png"; sourceTree = "<group>"; };
+		5B8D1C441823C603000786A5 /* Lat Capt Human-Standing0074.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Standing0074.png"; sourceTree = "<group>"; };
+		5B8D1C451823C603000786A5 /* Lat Capt Human-Standing0075.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Standing0075.png"; sourceTree = "<group>"; };
+		5B8D1C461823C603000786A5 /* Lat Capt Human-Standing0076.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Standing0076.png"; sourceTree = "<group>"; };
+		5B8D1C471823C603000786A5 /* Lat Capt Human-Standing0077.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Standing0077.png"; sourceTree = "<group>"; };
+		5B8D1C481823C603000786A5 /* Lat Capt Human-Standing0078.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Standing0078.png"; sourceTree = "<group>"; };
+		5B8D1C491823C603000786A5 /* Lat Capt Human-Standing0079.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Standing0079.png"; sourceTree = "<group>"; };
+		5B8D1C9B1823C61A000786A5 /* Lat Capt Human-Walking.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "Lat Capt Human-Walking.xml"; sourceTree = "<group>"; };
+		5B8D1C9C1823C61A000786A5 /* Lat Capt Human-Walking0001.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Walking0001.png"; sourceTree = "<group>"; };
+		5B8D1C9D1823C61A000786A5 /* Lat Capt Human-Walking0002.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Walking0002.png"; sourceTree = "<group>"; };
+		5B8D1C9E1823C61A000786A5 /* Lat Capt Human-Walking0003.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Walking0003.png"; sourceTree = "<group>"; };
+		5B8D1C9F1823C61A000786A5 /* Lat Capt Human-Walking0004.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Walking0004.png"; sourceTree = "<group>"; };
+		5B8D1CA01823C61A000786A5 /* Lat Capt Human-Walking0005.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Walking0005.png"; sourceTree = "<group>"; };
+		5B8D1CA11823C61A000786A5 /* Lat Capt Human-Walking0006.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Walking0006.png"; sourceTree = "<group>"; };
+		5B8D1CA21823C61A000786A5 /* Lat Capt Human-Walking0007.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Walking0007.png"; sourceTree = "<group>"; };
+		5B8D1CA31823C61A000786A5 /* Lat Capt Human-Walking0008.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Walking0008.png"; sourceTree = "<group>"; };
+		5B8D1CA41823C61A000786A5 /* Lat Capt Human-Walking0009.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Walking0009.png"; sourceTree = "<group>"; };
+		5B8D1CA51823C61A000786A5 /* Lat Capt Human-Walking0010.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Walking0010.png"; sourceTree = "<group>"; };
+		5B8D1CA61823C61A000786A5 /* Lat Capt Human-Walking0011.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Walking0011.png"; sourceTree = "<group>"; };
+		5B8D1CA71823C61A000786A5 /* Lat Capt Human-Walking0012.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Walking0012.png"; sourceTree = "<group>"; };
+		5B8D1CA81823C61A000786A5 /* Lat Capt Human-Walking0013.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Walking0013.png"; sourceTree = "<group>"; };
+		5B8D1CA91823C61A000786A5 /* Lat Capt Human-Walking0014.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Walking0014.png"; sourceTree = "<group>"; };
+		5B8D1CAA1823C61A000786A5 /* Lat Capt Human-Walking0015.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Walking0015.png"; sourceTree = "<group>"; };
+		5B8D1CAB1823C61A000786A5 /* Lat Capt Human-Walking0016.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Walking0016.png"; sourceTree = "<group>"; };
+		5B8D1CAC1823C61A000786A5 /* Lat Capt Human-Walking0017.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Walking0017.png"; sourceTree = "<group>"; };
+		5B8D1CAD1823C61A000786A5 /* Lat Capt Human-Walking0018.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lat Capt Human-Walking0018.png"; sourceTree = "<group>"; };
 		5B91C1AF182354E4002040ED /* MenuSelectionLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MenuSelectionLayer.h; path = Mazes/MenuSelectionLayer.h; sourceTree = "<group>"; };
 		5B91C1B0182354E4002040ED /* MenuSelectionLayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MenuSelectionLayer.m; path = Mazes/MenuSelectionLayer.m; sourceTree = "<group>"; };
 		5B91C1B3182356B0002040ED /* Superpower.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Superpower.h; path = Superpowers/Superpower.h; sourceTree = "<group>"; };
 		5B91C1B4182356B0002040ED /* Superpower.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Superpower.m; path = Superpowers/Superpower.m; sourceTree = "<group>"; };
 		5BE6274C1820B52B00BE9854 /* CCCHomepage_iPhone5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CCCHomepage_iPhone5.png; sourceTree = "<group>"; };
 		5BE6274E1820B5D600BE9854 /* HomeIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = HomeIcon.png; sourceTree = "<group>"; };
+		5BFF4FB018238EE500A020DB /* KangarooIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = KangarooIcon.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -601,8 +995,13 @@
 		3E2E4238181D93F200511102 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				3E7F55DD181E226400890431 /* Content */,
+				5B8D1C9A1823C61A000786A5 /* Walking */,
+				5B8D1BF91823C602000786A5 /* Standing */,
+				5B8D1B341823B16F000786A5 /* Action */,
+				5B8D1B541823B170000786A5 /* From */,
+				5B8D1B6E1823B170000786A5 /* To */,
 				3E0079B01822140700B53DD8 /* Captain Resources */,
+				3E7F55DD181E226400890431 /* Content */,
 				5B7E39731823013A00AADCFB /* Cocos */,
 			);
 			name = Resources;
@@ -611,6 +1010,8 @@
 		3E2E4374181D93F500511102 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				5B8D1A821823A2D0000786A5 /* Kangaroo */,
+				5BFF4FAF18238E0500A020DB /* Superpowers */,
 				5B7E39781823037200AADCFB /* Homepage Graphics */,
 				5B7E39771823036400AADCFB /* Icons */,
 				5B7E39761823032400AADCFB /* Map */,
@@ -1273,6 +1674,18 @@
 		5B7E39701822FFB800AADCFB /* Captain */ = {
 			isa = PBXGroup;
 			children = (
+				5B8D1BE91823C478000786A5 /* CCC_first-hd.plist */,
+				5B8D1BEA1823C478000786A5 /* CCC_first-hd.png */,
+				5B8D1BEB1823C478000786A5 /* CCC_first.plist */,
+				5B8D1BEC1823C478000786A5 /* CCC_first.png */,
+				5B8D1BED1823C478000786A5 /* CCC_Kangaroo-hd.plist */,
+				5B8D1BEE1823C478000786A5 /* CCC_Kangaroo-hd.png */,
+				5B8D1BEF1823C478000786A5 /* CCC_Kangaroo.plist */,
+				5B8D1BF01823C478000786A5 /* CCC_Kangaroo.png */,
+				5B8D1BE11823B6BA000786A5 /* CCC_Kangaroo-hd.plist */,
+				5B8D1BE21823B6BA000786A5 /* CCC_Kangaroo-hd.png */,
+				5B8D1BE31823B6BA000786A5 /* CCC_Kangaroo.plist */,
+				5B8D1BE41823B6BA000786A5 /* CCC_Kangaroo.png */,
 				3E00798C181F6C0E00B53DD8 /* CCC.tps */,
 				3E007988181F6BC900B53DD8 /* CCC_human.plist */,
 				3E7F5677181F038F00890431 /* Captain.h */,
@@ -1368,6 +1781,232 @@
 			name = "Homepage Graphics";
 			sourceTree = "<group>";
 		};
+		5B8D1A821823A2D0000786A5 /* Kangaroo */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Kangaroo;
+			sourceTree = "<group>";
+		};
+		5B8D1B341823B16F000786A5 /* Action */ = {
+			isa = PBXGroup;
+			children = (
+				5B8D1B351823B16F000786A5 /* Lat Capt KL-Jumping001.png */,
+				5B8D1B361823B16F000786A5 /* Lat Capt KL-Jumping0010.png */,
+				5B8D1B371823B16F000786A5 /* Lat Capt KL-Jumping0011.png */,
+				5B8D1B381823B16F000786A5 /* Lat Capt KL-Jumping0012.png */,
+				5B8D1B391823B16F000786A5 /* Lat Capt KL-Jumping0013.png */,
+				5B8D1B3A1823B16F000786A5 /* Lat Capt KL-Jumping0014.png */,
+				5B8D1B3B1823B16F000786A5 /* Lat Capt KL-Jumping0015.png */,
+				5B8D1B3C1823B16F000786A5 /* Lat Capt KL-Jumping0016.png */,
+				5B8D1B3D1823B16F000786A5 /* Lat Capt KL-Jumping0017.png */,
+				5B8D1B3E1823B16F000786A5 /* Lat Capt KL-Jumping0018.png */,
+				5B8D1B3F1823B16F000786A5 /* Lat Capt KL-Jumping0019.png */,
+				5B8D1B401823B16F000786A5 /* Lat Capt KL-Jumping002.png */,
+				5B8D1B411823B170000786A5 /* Lat Capt KL-Jumping0020.png */,
+				5B8D1B421823B170000786A5 /* Lat Capt KL-Jumping0021.png */,
+				5B8D1B431823B170000786A5 /* Lat Capt KL-Jumping0022.png */,
+				5B8D1B441823B170000786A5 /* Lat Capt KL-Jumping0023.png */,
+				5B8D1B451823B170000786A5 /* Lat Capt KL-Jumping0024.png */,
+				5B8D1B461823B170000786A5 /* Lat Capt KL-Jumping0025.png */,
+				5B8D1B471823B170000786A5 /* Lat Capt KL-Jumping0026.png */,
+				5B8D1B481823B170000786A5 /* Lat Capt KL-Jumping0027.png */,
+				5B8D1B491823B170000786A5 /* Lat Capt KL-Jumping0028.png */,
+				5B8D1B4A1823B170000786A5 /* Lat Capt KL-Jumping0029.png */,
+				5B8D1B4B1823B170000786A5 /* Lat Capt KL-Jumping003.png */,
+				5B8D1B4C1823B170000786A5 /* Lat Capt KL-Jumping0030.png */,
+				5B8D1B4D1823B170000786A5 /* Lat Capt KL-Jumping0031.png */,
+				5B8D1B4E1823B170000786A5 /* Lat Capt KL-Jumping004.png */,
+				5B8D1B4F1823B170000786A5 /* Lat Capt KL-Jumping005.png */,
+				5B8D1B501823B170000786A5 /* Lat Capt KL-Jumping006.png */,
+				5B8D1B511823B170000786A5 /* Lat Capt KL-Jumping007.png */,
+				5B8D1B521823B170000786A5 /* Lat Capt KL-Jumping008.png */,
+				5B8D1B531823B170000786A5 /* Lat Capt KL-Jumping009.png */,
+			);
+			path = Action;
+			sourceTree = "<group>";
+		};
+		5B8D1B541823B170000786A5 /* From */ = {
+			isa = PBXGroup;
+			children = (
+				5B8D1B551823B170000786A5 /* Ant Capt Transistion-From KL001.png */,
+				5B8D1B561823B170000786A5 /* Ant Capt Transistion-From KL0010.png */,
+				5B8D1B571823B170000786A5 /* Ant Capt Transistion-From KL0011.png */,
+				5B8D1B581823B170000786A5 /* Ant Capt Transistion-From KL0012.png */,
+				5B8D1B591823B170000786A5 /* Ant Capt Transistion-From KL0013.png */,
+				5B8D1B5A1823B170000786A5 /* Ant Capt Transistion-From KL0014.png */,
+				5B8D1B5B1823B170000786A5 /* Ant Capt Transistion-From KL0015.png */,
+				5B8D1B5C1823B170000786A5 /* Ant Capt Transistion-From KL0016.png */,
+				5B8D1B5D1823B170000786A5 /* Ant Capt Transistion-From KL0017.png */,
+				5B8D1B5E1823B170000786A5 /* Ant Capt Transistion-From KL0018.png */,
+				5B8D1B5F1823B170000786A5 /* Ant Capt Transistion-From KL0019.png */,
+				5B8D1B601823B170000786A5 /* Ant Capt Transistion-From KL002.png */,
+				5B8D1B611823B170000786A5 /* Ant Capt Transistion-From KL0020.png */,
+				5B8D1B621823B170000786A5 /* Ant Capt Transistion-From KL0021.png */,
+				5B8D1B631823B170000786A5 /* Ant Capt Transistion-From KL0022.png */,
+				5B8D1B641823B170000786A5 /* Ant Capt Transistion-From KL0023.png */,
+				5B8D1B651823B170000786A5 /* Ant Capt Transistion-From KL0024.png */,
+				5B8D1B661823B170000786A5 /* Ant Capt Transistion-From KL0025.png */,
+				5B8D1B671823B170000786A5 /* Ant Capt Transistion-From KL003.png */,
+				5B8D1B681823B170000786A5 /* Ant Capt Transistion-From KL004.png */,
+				5B8D1B691823B170000786A5 /* Ant Capt Transistion-From KL005.png */,
+				5B8D1B6A1823B170000786A5 /* Ant Capt Transistion-From KL006.png */,
+				5B8D1B6B1823B170000786A5 /* Ant Capt Transistion-From KL007.png */,
+				5B8D1B6C1823B170000786A5 /* Ant Capt Transistion-From KL008.png */,
+				5B8D1B6D1823B170000786A5 /* Ant Capt Transistion-From KL009.png */,
+			);
+			path = From;
+			sourceTree = "<group>";
+		};
+		5B8D1B6E1823B170000786A5 /* To */ = {
+			isa = PBXGroup;
+			children = (
+				5B8D1B6F1823B170000786A5 /* Ant Capt Trainsition-KL001.png */,
+				5B8D1B701823B170000786A5 /* Ant Capt Trainsition-KL0010.png */,
+				5B8D1B711823B170000786A5 /* Ant Capt Trainsition-KL0011.png */,
+				5B8D1B721823B170000786A5 /* Ant Capt Trainsition-KL0012.png */,
+				5B8D1B731823B170000786A5 /* Ant Capt Trainsition-KL0013.png */,
+				5B8D1B741823B170000786A5 /* Ant Capt Trainsition-KL0014.png */,
+				5B8D1B751823B170000786A5 /* Ant Capt Trainsition-KL0015.png */,
+				5B8D1B761823B170000786A5 /* Ant Capt Trainsition-KL0016.png */,
+				5B8D1B771823B170000786A5 /* Ant Capt Trainsition-KL0017.png */,
+				5B8D1B781823B170000786A5 /* Ant Capt Trainsition-KL0018.png */,
+				5B8D1B791823B170000786A5 /* Ant Capt Trainsition-KL0019.png */,
+				5B8D1B7A1823B170000786A5 /* Ant Capt Trainsition-KL002.png */,
+				5B8D1B7B1823B170000786A5 /* Ant Capt Trainsition-KL0020.png */,
+				5B8D1B7C1823B170000786A5 /* Ant Capt Trainsition-KL0021.png */,
+				5B8D1B7D1823B170000786A5 /* Ant Capt Trainsition-KL0022.png */,
+				5B8D1B7E1823B170000786A5 /* Ant Capt Trainsition-KL0023.png */,
+				5B8D1B7F1823B170000786A5 /* Ant Capt Trainsition-KL0024.png */,
+				5B8D1B801823B170000786A5 /* Ant Capt Trainsition-KL0025.png */,
+				5B8D1B811823B170000786A5 /* Ant Capt Trainsition-KL0026.png */,
+				5B8D1B821823B170000786A5 /* Ant Capt Trainsition-KL0027.png */,
+				5B8D1B831823B170000786A5 /* Ant Capt Trainsition-KL0028.png */,
+				5B8D1B841823B170000786A5 /* Ant Capt Trainsition-KL0029.png */,
+				5B8D1B851823B170000786A5 /* Ant Capt Trainsition-KL003.png */,
+				5B8D1B861823B170000786A5 /* Ant Capt Trainsition-KL004.png */,
+				5B8D1B871823B170000786A5 /* Ant Capt Trainsition-KL005.png */,
+				5B8D1B881823B170000786A5 /* Ant Capt Trainsition-KL006.png */,
+				5B8D1B891823B170000786A5 /* Ant Capt Trainsition-KL007.png */,
+				5B8D1B8A1823B170000786A5 /* Ant Capt Trainsition-KL008.png */,
+				5B8D1B8B1823B170000786A5 /* Ant Capt Trainsition-KL009.png */,
+			);
+			path = To;
+			sourceTree = "<group>";
+		};
+		5B8D1BF91823C602000786A5 /* Standing */ = {
+			isa = PBXGroup;
+			children = (
+				5B8D1BFA1823C602000786A5 /* Lat Capt Human-Standing.xml */,
+				5B8D1BFB1823C602000786A5 /* Lat Capt Human-Standing0001.png */,
+				5B8D1BFC1823C602000786A5 /* Lat Capt Human-Standing0002.png */,
+				5B8D1BFD1823C602000786A5 /* Lat Capt Human-Standing0003.png */,
+				5B8D1BFE1823C602000786A5 /* Lat Capt Human-Standing0004.png */,
+				5B8D1BFF1823C602000786A5 /* Lat Capt Human-Standing0005.png */,
+				5B8D1C001823C602000786A5 /* Lat Capt Human-Standing0006.png */,
+				5B8D1C011823C602000786A5 /* Lat Capt Human-Standing0007.png */,
+				5B8D1C021823C602000786A5 /* Lat Capt Human-Standing0008.png */,
+				5B8D1C031823C602000786A5 /* Lat Capt Human-Standing0009.png */,
+				5B8D1C041823C602000786A5 /* Lat Capt Human-Standing0010.png */,
+				5B8D1C051823C602000786A5 /* Lat Capt Human-Standing0011.png */,
+				5B8D1C061823C602000786A5 /* Lat Capt Human-Standing0012.png */,
+				5B8D1C071823C602000786A5 /* Lat Capt Human-Standing0013.png */,
+				5B8D1C081823C602000786A5 /* Lat Capt Human-Standing0014.png */,
+				5B8D1C091823C602000786A5 /* Lat Capt Human-Standing0015.png */,
+				5B8D1C0A1823C602000786A5 /* Lat Capt Human-Standing0016.png */,
+				5B8D1C0B1823C603000786A5 /* Lat Capt Human-Standing0017.png */,
+				5B8D1C0C1823C603000786A5 /* Lat Capt Human-Standing0018.png */,
+				5B8D1C0D1823C603000786A5 /* Lat Capt Human-Standing0019.png */,
+				5B8D1C0E1823C603000786A5 /* Lat Capt Human-Standing0020.png */,
+				5B8D1C0F1823C603000786A5 /* Lat Capt Human-Standing0021.png */,
+				5B8D1C101823C603000786A5 /* Lat Capt Human-Standing0022.png */,
+				5B8D1C111823C603000786A5 /* Lat Capt Human-Standing0023.png */,
+				5B8D1C121823C603000786A5 /* Lat Capt Human-Standing0024.png */,
+				5B8D1C131823C603000786A5 /* Lat Capt Human-Standing0025.png */,
+				5B8D1C141823C603000786A5 /* Lat Capt Human-Standing0026.png */,
+				5B8D1C151823C603000786A5 /* Lat Capt Human-Standing0027.png */,
+				5B8D1C161823C603000786A5 /* Lat Capt Human-Standing0028.png */,
+				5B8D1C171823C603000786A5 /* Lat Capt Human-Standing0029.png */,
+				5B8D1C181823C603000786A5 /* Lat Capt Human-Standing0030.png */,
+				5B8D1C191823C603000786A5 /* Lat Capt Human-Standing0031.png */,
+				5B8D1C1A1823C603000786A5 /* Lat Capt Human-Standing0032.png */,
+				5B8D1C1B1823C603000786A5 /* Lat Capt Human-Standing0033.png */,
+				5B8D1C1C1823C603000786A5 /* Lat Capt Human-Standing0034.png */,
+				5B8D1C1D1823C603000786A5 /* Lat Capt Human-Standing0035.png */,
+				5B8D1C1E1823C603000786A5 /* Lat Capt Human-Standing0036.png */,
+				5B8D1C1F1823C603000786A5 /* Lat Capt Human-Standing0037.png */,
+				5B8D1C201823C603000786A5 /* Lat Capt Human-Standing0038.png */,
+				5B8D1C211823C603000786A5 /* Lat Capt Human-Standing0039.png */,
+				5B8D1C221823C603000786A5 /* Lat Capt Human-Standing0040.png */,
+				5B8D1C231823C603000786A5 /* Lat Capt Human-Standing0041.png */,
+				5B8D1C241823C603000786A5 /* Lat Capt Human-Standing0042.png */,
+				5B8D1C251823C603000786A5 /* Lat Capt Human-Standing0043.png */,
+				5B8D1C261823C603000786A5 /* Lat Capt Human-Standing0044.png */,
+				5B8D1C271823C603000786A5 /* Lat Capt Human-Standing0045.png */,
+				5B8D1C281823C603000786A5 /* Lat Capt Human-Standing0046.png */,
+				5B8D1C291823C603000786A5 /* Lat Capt Human-Standing0047.png */,
+				5B8D1C2A1823C603000786A5 /* Lat Capt Human-Standing0048.png */,
+				5B8D1C2B1823C603000786A5 /* Lat Capt Human-Standing0049.png */,
+				5B8D1C2C1823C603000786A5 /* Lat Capt Human-Standing0050.png */,
+				5B8D1C2D1823C603000786A5 /* Lat Capt Human-Standing0051.png */,
+				5B8D1C2E1823C603000786A5 /* Lat Capt Human-Standing0052.png */,
+				5B8D1C2F1823C603000786A5 /* Lat Capt Human-Standing0053.png */,
+				5B8D1C301823C603000786A5 /* Lat Capt Human-Standing0054.png */,
+				5B8D1C311823C603000786A5 /* Lat Capt Human-Standing0055.png */,
+				5B8D1C321823C603000786A5 /* Lat Capt Human-Standing0056.png */,
+				5B8D1C331823C603000786A5 /* Lat Capt Human-Standing0057.png */,
+				5B8D1C341823C603000786A5 /* Lat Capt Human-Standing0058.png */,
+				5B8D1C351823C603000786A5 /* Lat Capt Human-Standing0059.png */,
+				5B8D1C361823C603000786A5 /* Lat Capt Human-Standing0060.png */,
+				5B8D1C371823C603000786A5 /* Lat Capt Human-Standing0061.png */,
+				5B8D1C381823C603000786A5 /* Lat Capt Human-Standing0062.png */,
+				5B8D1C391823C603000786A5 /* Lat Capt Human-Standing0063.png */,
+				5B8D1C3A1823C603000786A5 /* Lat Capt Human-Standing0064.png */,
+				5B8D1C3B1823C603000786A5 /* Lat Capt Human-Standing0065.png */,
+				5B8D1C3C1823C603000786A5 /* Lat Capt Human-Standing0066.png */,
+				5B8D1C3D1823C603000786A5 /* Lat Capt Human-Standing0067.png */,
+				5B8D1C3E1823C603000786A5 /* Lat Capt Human-Standing0068.png */,
+				5B8D1C3F1823C603000786A5 /* Lat Capt Human-Standing0069.png */,
+				5B8D1C401823C603000786A5 /* Lat Capt Human-Standing0070.png */,
+				5B8D1C411823C603000786A5 /* Lat Capt Human-Standing0071.png */,
+				5B8D1C421823C603000786A5 /* Lat Capt Human-Standing0072.png */,
+				5B8D1C431823C603000786A5 /* Lat Capt Human-Standing0073.png */,
+				5B8D1C441823C603000786A5 /* Lat Capt Human-Standing0074.png */,
+				5B8D1C451823C603000786A5 /* Lat Capt Human-Standing0075.png */,
+				5B8D1C461823C603000786A5 /* Lat Capt Human-Standing0076.png */,
+				5B8D1C471823C603000786A5 /* Lat Capt Human-Standing0077.png */,
+				5B8D1C481823C603000786A5 /* Lat Capt Human-Standing0078.png */,
+				5B8D1C491823C603000786A5 /* Lat Capt Human-Standing0079.png */,
+			);
+			path = Standing;
+			sourceTree = "<group>";
+		};
+		5B8D1C9A1823C61A000786A5 /* Walking */ = {
+			isa = PBXGroup;
+			children = (
+				5B8D1C9B1823C61A000786A5 /* Lat Capt Human-Walking.xml */,
+				5B8D1C9C1823C61A000786A5 /* Lat Capt Human-Walking0001.png */,
+				5B8D1C9D1823C61A000786A5 /* Lat Capt Human-Walking0002.png */,
+				5B8D1C9E1823C61A000786A5 /* Lat Capt Human-Walking0003.png */,
+				5B8D1C9F1823C61A000786A5 /* Lat Capt Human-Walking0004.png */,
+				5B8D1CA01823C61A000786A5 /* Lat Capt Human-Walking0005.png */,
+				5B8D1CA11823C61A000786A5 /* Lat Capt Human-Walking0006.png */,
+				5B8D1CA21823C61A000786A5 /* Lat Capt Human-Walking0007.png */,
+				5B8D1CA31823C61A000786A5 /* Lat Capt Human-Walking0008.png */,
+				5B8D1CA41823C61A000786A5 /* Lat Capt Human-Walking0009.png */,
+				5B8D1CA51823C61A000786A5 /* Lat Capt Human-Walking0010.png */,
+				5B8D1CA61823C61A000786A5 /* Lat Capt Human-Walking0011.png */,
+				5B8D1CA71823C61A000786A5 /* Lat Capt Human-Walking0012.png */,
+				5B8D1CA81823C61A000786A5 /* Lat Capt Human-Walking0013.png */,
+				5B8D1CA91823C61A000786A5 /* Lat Capt Human-Walking0014.png */,
+				5B8D1CAA1823C61A000786A5 /* Lat Capt Human-Walking0015.png */,
+				5B8D1CAB1823C61A000786A5 /* Lat Capt Human-Walking0016.png */,
+				5B8D1CAC1823C61A000786A5 /* Lat Capt Human-Walking0017.png */,
+				5B8D1CAD1823C61A000786A5 /* Lat Capt Human-Walking0018.png */,
+			);
+			path = Walking;
+			sourceTree = "<group>";
+		};
 		5B91C1B2182355AA002040ED /* Superpower */ = {
 			isa = PBXGroup;
 			children = (
@@ -1395,6 +2034,14 @@
 				3E00799C181F7E4900B53DD8 /* Obstacles.m */,
 			);
 			name = Obstacles;
+			sourceTree = "<group>";
+		};
+		5BFF4FAF18238E0500A020DB /* Superpowers */ = {
+			isa = PBXGroup;
+			children = (
+				5BFF4FB018238EE500A020DB /* KangarooIcon.png */,
+			);
+			name = Superpowers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -1447,65 +2094,262 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5B8D1C5B1823C603000786A5 /* Lat Capt Human-Standing0017.png in Resources */,
 				3E2E424A181D93F200511102 /* Icon.png in Resources */,
+				5B8D1BBB1823B170000786A5 /* Ant Capt Transistion-From KL0024.png in Resources */,
 				3E2E423C181D93F200511102 /* Default@2x.png in Resources */,
+				5B8D1BBC1823B170000786A5 /* Ant Capt Transistion-From KL0025.png in Resources */,
+				5B8D1BC71823B170000786A5 /* Ant Capt Trainsition-KL0012.png in Resources */,
+				5B8D1C521823C603000786A5 /* Lat Capt Human-Standing0008.png in Resources */,
 				3E00798A181F6BC900B53DD8 /* CCC_human.plist in Resources */,
+				5B8D1BE71823B6BA000786A5 /* CCC_Kangaroo.plist in Resources */,
+				5B8D1BDF1823B170000786A5 /* Ant Capt Trainsition-KL008.png in Resources */,
+				5B8D1BF51823C478000786A5 /* CCC_Kangaroo-hd.plist in Resources */,
+				5B8D1BF81823C478000786A5 /* CCC_Kangaroo.png in Resources */,
+				5B8D1BB21823B170000786A5 /* Ant Capt Transistion-From KL0016.png in Resources */,
+				5B8D1B9C1823B170000786A5 /* Lat Capt KL-Jumping0024.png in Resources */,
 				3E007997181F7B6D00B53DD8 /* pd_dpad.png in Resources */,
+				5B8D1C781823C603000786A5 /* Lat Capt Human-Standing0046.png in Resources */,
+				5B8D1CBD1823C61A000786A5 /* Lat Capt Human-Walking0015.png in Resources */,
+				5B8D1BA41823B170000786A5 /* Lat Capt KL-Jumping0031.png in Resources */,
 				3E2E4246181D93F200511102 /* Icon-Small.png in Resources */,
+				5B8D1BD51823B170000786A5 /* Ant Capt Trainsition-KL0025.png in Resources */,
+				5B8D1BCA1823B170000786A5 /* Ant Capt Trainsition-KL0015.png in Resources */,
+				5B8D1C5D1823C603000786A5 /* Lat Capt Human-Standing0019.png in Resources */,
+				5B8D1BCB1823B170000786A5 /* Ant Capt Trainsition-KL0016.png in Resources */,
+				5B8D1C791823C603000786A5 /* Lat Capt Human-Standing0047.png in Resources */,
+				5B8D1C811823C603000786A5 /* Lat Capt Human-Standing0055.png in Resources */,
 				3E2E44F7181DA47700511102 /* LICENSE_CocosDenshion.txt in Resources */,
+				5B8D1C6A1823C603000786A5 /* Lat Capt Human-Standing0032.png in Resources */,
+				5B8D1CBC1823C61A000786A5 /* Lat Capt Human-Walking0014.png in Resources */,
+				5B8D1BF21823C478000786A5 /* CCC_first-hd.png in Resources */,
+				5B8D1C931823C603000786A5 /* Lat Capt Human-Standing0073.png in Resources */,
+				5B8D1BC51823B170000786A5 /* Ant Capt Trainsition-KL0010.png in Resources */,
+				5B8D1BAD1823B170000786A5 /* Ant Capt Transistion-From KL0011.png in Resources */,
 				3E7F5644181E226500890431 /* Background-KL.png in Resources */,
+				5B8D1B971823B170000786A5 /* Lat Capt KL-Jumping002.png in Resources */,
+				5B8D1BB31823B170000786A5 /* Ant Capt Transistion-From KL0017.png in Resources */,
+				5B8D1BAE1823B170000786A5 /* Ant Capt Transistion-From KL0012.png in Resources */,
+				5B8D1BA01823B170000786A5 /* Lat Capt KL-Jumping0028.png in Resources */,
+				5B8D1BC31823B170000786A5 /* Ant Capt Transistion-From KL009.png in Resources */,
+				5B8D1CBA1823C61A000786A5 /* Lat Capt Human-Walking0012.png in Resources */,
+				5B8D1B921823B170000786A5 /* Lat Capt KL-Jumping0015.png in Resources */,
+				5B8D1B931823B170000786A5 /* Lat Capt KL-Jumping0016.png in Resources */,
+				5B8D1BB51823B170000786A5 /* Ant Capt Transistion-From KL0019.png in Resources */,
+				5B8D1BB01823B170000786A5 /* Ant Capt Transistion-From KL0014.png in Resources */,
+				5B8D1C871823C603000786A5 /* Lat Capt Human-Standing0061.png in Resources */,
 				3E2E44E9181DA47700511102 /* CMakeLists.txt in Resources */,
 				5BE6274D1820B52B00BE9854 /* CCCHomepage_iPhone5.png in Resources */,
+				5B8D1BE61823B6BA000786A5 /* CCC_Kangaroo-hd.png in Resources */,
+				5B8D1CB31823C61A000786A5 /* Lat Capt Human-Walking0005.png in Resources */,
+				5B8D1BA51823B170000786A5 /* Lat Capt KL-Jumping004.png in Resources */,
 				3E7F5673181F01D300890431 /* practice_map1.tmx in Resources */,
+				5B8D1BB71823B170000786A5 /* Ant Capt Transistion-From KL0020.png in Resources */,
+				5B8D1CB11823C61A000786A5 /* Lat Capt Human-Walking0003.png in Resources */,
+				5B8D1BCE1823B170000786A5 /* Ant Capt Trainsition-KL0019.png in Resources */,
+				5B8D1BA61823B170000786A5 /* Lat Capt KL-Jumping005.png in Resources */,
+				5B8D1CC01823C61A000786A5 /* Lat Capt Human-Walking0018.png in Resources */,
+				5B8D1BD01823B170000786A5 /* Ant Capt Trainsition-KL0020.png in Resources */,
+				5B8D1C731823C603000786A5 /* Lat Capt Human-Standing0041.png in Resources */,
+				5B8D1CAF1823C61A000786A5 /* Lat Capt Human-Walking0001.png in Resources */,
 				3E2E4242181D93F200511102 /* Icon-72.png in Resources */,
+				5B8D1C941823C603000786A5 /* Lat Capt Human-Standing0074.png in Resources */,
+				5B8D1C601823C603000786A5 /* Lat Capt Human-Standing0022.png in Resources */,
+				5B8D1BD11823B170000786A5 /* Ant Capt Trainsition-KL0021.png in Resources */,
 				3E0079A4181F820600B53DD8 /* Fore.png in Resources */,
+				5B8D1BA31823B170000786A5 /* Lat Capt KL-Jumping0030.png in Resources */,
+				5B8D1BD81823B170000786A5 /* Ant Capt Trainsition-KL0028.png in Resources */,
 				3E7F563A181E226500890431 /* Foreground Graphics.png in Resources */,
 				3E7F5638181E226500890431 /* Energy Bar.xml in Resources */,
+				5B8D1BAB1823B170000786A5 /* Ant Capt Transistion-From KL001.png in Resources */,
+				5B8D1C661823C603000786A5 /* Lat Capt Human-Standing0028.png in Resources */,
 				3E7F5661181E226500890431 /* Lat Capt Kangaroo-Jumping.xml in Resources */,
+				5B8D1C991823C603000786A5 /* Lat Capt Human-Standing0079.png in Resources */,
+				5B8D1B9B1823B170000786A5 /* Lat Capt KL-Jumping0023.png in Resources */,
+				5B8D1C8B1823C603000786A5 /* Lat Capt Human-Standing0065.png in Resources */,
+				5B8D1BF71823C478000786A5 /* CCC_Kangaroo.plist in Resources */,
+				5B8D1BBE1823B170000786A5 /* Ant Capt Transistion-From KL004.png in Resources */,
+				5B8D1BE81823B6BA000786A5 /* CCC_Kangaroo.png in Resources */,
+				5B8D1BB91823B170000786A5 /* Ant Capt Transistion-From KL0022.png in Resources */,
+				5B8D1BD21823B170000786A5 /* Ant Capt Trainsition-KL0022.png in Resources */,
 				3E7F564B181E226500890431 /* Practice Module-KL Spec Sheet.docx in Resources */,
 				3E2E423A181D93F200511102 /* Default.png in Resources */,
 				3E7F564A181E226500890431 /* Fore graphics-KL 1.png in Resources */,
+				5B8D1C7F1823C603000786A5 /* Lat Capt Human-Standing0053.png in Resources */,
+				5B8D1C681823C603000786A5 /* Lat Capt Human-Standing0030.png in Resources */,
+				5B8D1BAF1823B170000786A5 /* Ant Capt Transistion-From KL0013.png in Resources */,
+				5B8D1BB41823B170000786A5 /* Ant Capt Transistion-From KL0018.png in Resources */,
 				3E7F55D7181E1DF500890431 /* practice_map.tmx in Resources */,
 				3E2E4244181D93F200511102 /* Icon-Small-50.png in Resources */,
 				3E2E44F8181DA47700511102 /* LICENSE_Kazmath.txt in Resources */,
+				5B8D1BD31823B170000786A5 /* Ant Capt Trainsition-KL0023.png in Resources */,
+				5B8D1B961823B170000786A5 /* Lat Capt KL-Jumping0019.png in Resources */,
+				5B8D1BA11823B170000786A5 /* Lat Capt KL-Jumping0029.png in Resources */,
+				5B8D1CB41823C61A000786A5 /* Lat Capt Human-Walking0006.png in Resources */,
 				3E7F563C181E226500890431 /* Bread.png in Resources */,
+				5B8D1BC41823B170000786A5 /* Ant Capt Trainsition-KL001.png in Resources */,
+				5B8D1C571823C603000786A5 /* Lat Capt Human-Standing0013.png in Resources */,
+				5BFF4FB118238EE500A020DB /* KangarooIcon.png in Resources */,
+				5B8D1B8E1823B170000786A5 /* Lat Capt KL-Jumping0011.png in Resources */,
 				3E007996181F7B6D00B53DD8 /* pd_dpad-hd.png in Resources */,
+				5B8D1BC11823B170000786A5 /* Ant Capt Transistion-From KL007.png in Resources */,
 				3E00799F181F814700B53DD8 /* prac_map.tmx in Resources */,
+				5B8D1C6B1823C603000786A5 /* Lat Capt Human-Standing0033.png in Resources */,
+				5B8D1CBF1823C61A000786A5 /* Lat Capt Human-Walking0017.png in Resources */,
+				5B8D1CB61823C61A000786A5 /* Lat Capt Human-Walking0008.png in Resources */,
+				5B8D1BCC1823B170000786A5 /* Ant Capt Trainsition-KL0017.png in Resources */,
+				5B8D1B951823B170000786A5 /* Lat Capt KL-Jumping0018.png in Resources */,
+				5B8D1BCD1823B170000786A5 /* Ant Capt Trainsition-KL0018.png in Resources */,
 				3E7F5637181E226500890431 /* Energy Bar.png in Resources */,
+				5B8D1C621823C603000786A5 /* Lat Capt Human-Standing0024.png in Resources */,
+				5B8D1BD61823B170000786A5 /* Ant Capt Trainsition-KL0026.png in Resources */,
+				5B8D1BB61823B170000786A5 /* Ant Capt Transistion-From KL002.png in Resources */,
+				5B8D1C7A1823C603000786A5 /* Lat Capt Human-Standing0048.png in Resources */,
 				3E7F5642181E226500890431 /* Practice Module Human Spec Sheet.docx in Resources */,
+				5B8D1C5F1823C603000786A5 /* Lat Capt Human-Standing0021.png in Resources */,
+				5B8D1BBA1823B170000786A5 /* Ant Capt Transistion-From KL0023.png in Resources */,
+				5B8D1C641823C603000786A5 /* Lat Capt Human-Standing0026.png in Resources */,
+				5B8D1BF61823C478000786A5 /* CCC_Kangaroo-hd.png in Resources */,
+				5B8D1C531823C603000786A5 /* Lat Capt Human-Standing0009.png in Resources */,
+				5B8D1C891823C603000786A5 /* Lat Capt Human-Standing0063.png in Resources */,
+				5B8D1C6C1823C603000786A5 /* Lat Capt Human-Standing0034.png in Resources */,
+				5B8D1C501823C603000786A5 /* Lat Capt Human-Standing0006.png in Resources */,
+				5B8D1C971823C603000786A5 /* Lat Capt Human-Standing0077.png in Resources */,
+				5B8D1CB21823C61A000786A5 /* Lat Capt Human-Walking0004.png in Resources */,
+				5B8D1BA71823B170000786A5 /* Lat Capt KL-Jumping006.png in Resources */,
+				5B8D1C961823C603000786A5 /* Lat Capt Human-Standing0076.png in Resources */,
+				5B8D1BDD1823B170000786A5 /* Ant Capt Trainsition-KL006.png in Resources */,
+				5B8D1B9A1823B170000786A5 /* Lat Capt KL-Jumping0022.png in Resources */,
+				5B8D1C861823C603000786A5 /* Lat Capt Human-Standing0060.png in Resources */,
+				5B8D1C881823C603000786A5 /* Lat Capt Human-Standing0062.png in Resources */,
 				3E7F5647181E226500890431 /* Boundaries-KL 1.png in Resources */,
 				3E7F5649181E226500890431 /* Fore Graphics KL-2.png in Resources */,
+				5B8D1BAA1823B170000786A5 /* Lat Capt KL-Jumping009.png in Resources */,
+				5B8D1CB51823C61A000786A5 /* Lat Capt Human-Walking0007.png in Resources */,
+				5B8D1B911823B170000786A5 /* Lat Capt KL-Jumping0014.png in Resources */,
 				3E7F55AE181DF0E000890431 /* CCC_standing_2.png in Resources */,
+				5B8D1C8D1823C603000786A5 /* Lat Capt Human-Standing0067.png in Resources */,
+				5B8D1B8F1823B170000786A5 /* Lat Capt KL-Jumping0012.png in Resources */,
+				5B8D1BDB1823B170000786A5 /* Ant Capt Trainsition-KL004.png in Resources */,
+				5B8D1C831823C603000786A5 /* Lat Capt Human-Standing0057.png in Resources */,
+				5B8D1C5C1823C603000786A5 /* Lat Capt Human-Standing0018.png in Resources */,
+				5B8D1CB81823C61A000786A5 /* Lat Capt Human-Walking0010.png in Resources */,
+				5B8D1CB91823C61A000786A5 /* Lat Capt Human-Walking0011.png in Resources */,
+				5B8D1BF41823C478000786A5 /* CCC_first.png in Resources */,
+				5B8D1C6E1823C603000786A5 /* Lat Capt Human-Standing0036.png in Resources */,
+				5B8D1BBD1823B170000786A5 /* Ant Capt Transistion-From KL003.png in Resources */,
+				5B8D1B901823B170000786A5 /* Lat Capt KL-Jumping0013.png in Resources */,
 				3E7F5663181E226500890431 /* Lat Capt Kangaroo-Running.xml in Resources */,
+				5B8D1B9D1823B170000786A5 /* Lat Capt KL-Jumping0025.png in Resources */,
 				3E7F564C181E226500890431 /* Sky-KL.png in Resources */,
+				5B8D1C701823C603000786A5 /* Lat Capt Human-Standing0038.png in Resources */,
 				3E2E424F181D93F200511102 /* iTunesArtwork in Resources */,
+				5B8D1C7B1823C603000786A5 /* Lat Capt Human-Standing0049.png in Resources */,
+				5B8D1C741823C603000786A5 /* Lat Capt Human-Standing0042.png in Resources */,
 				3E2E4248181D93F200511102 /* Icon-Small@2x.png in Resources */,
+				5B8D1C8C1823C603000786A5 /* Lat Capt Human-Standing0066.png in Resources */,
 				3E7F5641181E226500890431 /* Visible Boundary (Not include in final).png in Resources */,
+				5B8D1C8A1823C603000786A5 /* Lat Capt Human-Standing0064.png in Resources */,
+				5B8D1C771823C603000786A5 /* Lat Capt Human-Standing0045.png in Resources */,
+				5B8D1BF31823C478000786A5 /* CCC_first.plist in Resources */,
+				5B8D1C671823C603000786A5 /* Lat Capt Human-Standing0029.png in Resources */,
+				5B8D1C911823C603000786A5 /* Lat Capt Human-Standing0071.png in Resources */,
+				5B8D1BC91823B170000786A5 /* Ant Capt Trainsition-KL0014.png in Resources */,
+				5B8D1BBF1823B170000786A5 /* Ant Capt Transistion-From KL005.png in Resources */,
 				3E2E44F6181DA47700511102 /* LICENSE_cocos2d.txt in Resources */,
+				5B8D1BAC1823B170000786A5 /* Ant Capt Transistion-From KL0010.png in Resources */,
+				5B8D1BC01823B170000786A5 /* Ant Capt Transistion-From KL006.png in Resources */,
+				5B8D1BC81823B170000786A5 /* Ant Capt Trainsition-KL0013.png in Resources */,
 				3E0079B11822140700B53DD8 /* Captain Resources in Resources */,
 				3E00798D181F6C0F00B53DD8 /* CCC.tps in Resources */,
+				5B8D1B8D1823B170000786A5 /* Lat Capt KL-Jumping0010.png in Resources */,
 				3E7F55B0181DF3BF00890431 /* CCC_standing_1.png in Resources */,
+				5B8D1C841823C603000786A5 /* Lat Capt Human-Standing0058.png in Resources */,
+				5B8D1C4E1823C603000786A5 /* Lat Capt Human-Standing0004.png in Resources */,
+				5B8D1C901823C603000786A5 /* Lat Capt Human-Standing0070.png in Resources */,
+				5B8D1CBB1823C61A000786A5 /* Lat Capt Human-Walking0013.png in Resources */,
 				3E7F55A9181DC90000890431 /* CCC_standing_01.png in Resources */,
 				3E7F5664181E226500890431 /* Lat Capt Kangaroo-Standing.png in Resources */,
+				5B8D1C7E1823C603000786A5 /* Lat Capt Human-Standing0052.png in Resources */,
 				3E7F5639181E226500890431 /* Background.png in Resources */,
+				5B8D1BD71823B170000786A5 /* Ant Capt Trainsition-KL0027.png in Resources */,
+				5B8D1C8F1823C603000786A5 /* Lat Capt Human-Standing0069.png in Resources */,
+				5B8D1BB11823B170000786A5 /* Ant Capt Transistion-From KL0015.png in Resources */,
 				3E7F5665181E226500890431 /* Lat Capt Kangaroo-Standing.xml in Resources */,
+				5B8D1C4D1823C603000786A5 /* Lat Capt Human-Standing0003.png in Resources */,
+				5B8D1C6F1823C603000786A5 /* Lat Capt Human-Standing0037.png in Resources */,
 				3E2E423E181D93F200511102 /* Default-568h@2x.png in Resources */,
+				5B8D1B8C1823B170000786A5 /* Lat Capt KL-Jumping001.png in Resources */,
 				3E7F563F181E226500890431 /* Boundaries.png in Resources */,
+				5B8D1B9E1823B170000786A5 /* Lat Capt KL-Jumping0026.png in Resources */,
+				5B8D1C981823C603000786A5 /* Lat Capt Human-Standing0078.png in Resources */,
+				5B8D1C801823C603000786A5 /* Lat Capt Human-Standing0054.png in Resources */,
+				5B8D1C551823C603000786A5 /* Lat Capt Human-Standing0011.png in Resources */,
 				3E7F563D181E226500890431 /* Exit Object.png in Resources */,
+				5B8D1CBE1823C61A000786A5 /* Lat Capt Human-Walking0016.png in Resources */,
 				3E7F565F181E226500890431 /* Kangaroo Legs Spec Sheet.docx in Resources */,
+				5B8D1BD91823B170000786A5 /* Ant Capt Trainsition-KL0029.png in Resources */,
+				5B8D1C4B1823C603000786A5 /* Lat Capt Human-Standing0001.png in Resources */,
+				5B8D1C5A1823C603000786A5 /* Lat Capt Human-Standing0016.png in Resources */,
+				5B8D1BE51823B6BA000786A5 /* CCC_Kangaroo-hd.plist in Resources */,
 				3E7F5660181E226500890431 /* Lat Capt Kangaroo-Jumping.png in Resources */,
+				5B8D1BCF1823B170000786A5 /* Ant Capt Trainsition-KL002.png in Resources */,
+				5B8D1BDC1823B170000786A5 /* Ant Capt Trainsition-KL005.png in Resources */,
+				5B8D1BA21823B170000786A5 /* Lat Capt KL-Jumping003.png in Resources */,
+				5B8D1C951823C603000786A5 /* Lat Capt Human-Standing0075.png in Resources */,
+				5B8D1C6D1823C603000786A5 /* Lat Capt Human-Standing0035.png in Resources */,
+				5B8D1C721823C603000786A5 /* Lat Capt Human-Standing0040.png in Resources */,
+				5B8D1C651823C603000786A5 /* Lat Capt Human-Standing0027.png in Resources */,
 				3E2E4240181D93F200511102 /* fps_images.png in Resources */,
 				3E7F5648181E226500890431 /* Boundaries-KL 2.png in Resources */,
 				3E7F5646181E226500890431 /* Back Graphics-KL 2.png in Resources */,
+				5B8D1BDE1823B170000786A5 /* Ant Capt Trainsition-KL007.png in Resources */,
 				5BE6274F1820B5D600BE9854 /* HomeIcon.png in Resources */,
 				3E0079A3181F820600B53DD8 /* Back.png in Resources */,
+				5B8D1BD41823B170000786A5 /* Ant Capt Trainsition-KL0024.png in Resources */,
 				3E7F563B181E226500890431 /* Apple.png in Resources */,
+				5B8D1C7C1823C603000786A5 /* Lat Capt Human-Standing0050.png in Resources */,
+				5B8D1B991823B170000786A5 /* Lat Capt KL-Jumping0021.png in Resources */,
+				5B8D1C541823C603000786A5 /* Lat Capt Human-Standing0010.png in Resources */,
+				5B8D1BC21823B170000786A5 /* Ant Capt Transistion-From KL008.png in Resources */,
+				5B8D1C581823C603000786A5 /* Lat Capt Human-Standing0014.png in Resources */,
+				5B8D1BA91823B170000786A5 /* Lat Capt KL-Jumping008.png in Resources */,
+				5B8D1C821823C603000786A5 /* Lat Capt Human-Standing0056.png in Resources */,
+				5B8D1CAE1823C61A000786A5 /* Lat Capt Human-Walking.xml in Resources */,
+				5B8D1CB01823C61A000786A5 /* Lat Capt Human-Walking0002.png in Resources */,
+				5B8D1BDA1823B170000786A5 /* Ant Capt Trainsition-KL003.png in Resources */,
+				5B8D1C631823C603000786A5 /* Lat Capt Human-Standing0025.png in Resources */,
+				5B8D1C511823C603000786A5 /* Lat Capt Human-Standing0007.png in Resources */,
+				5B8D1C561823C603000786A5 /* Lat Capt Human-Standing0012.png in Resources */,
+				5B8D1C4F1823C603000786A5 /* Lat Capt Human-Standing0005.png in Resources */,
+				5B8D1C751823C603000786A5 /* Lat Capt Human-Standing0043.png in Resources */,
 				3E7F5662181E226500890431 /* Lat Capt Kangaroo-Running.png in Resources */,
+				5B8D1C5E1823C603000786A5 /* Lat Capt Human-Standing0020.png in Resources */,
+				5B8D1C591823C603000786A5 /* Lat Capt Human-Standing0015.png in Resources */,
+				5B8D1BA81823B170000786A5 /* Lat Capt KL-Jumping007.png in Resources */,
+				5B8D1C691823C603000786A5 /* Lat Capt Human-Standing0031.png in Resources */,
 				3E7F5645181E226500890431 /* Back Graphics-KL 1.png in Resources */,
+				5B8D1B941823B170000786A5 /* Lat Capt KL-Jumping0017.png in Resources */,
+				5B8D1C761823C603000786A5 /* Lat Capt Human-Standing0044.png in Resources */,
+				5B8D1C8E1823C603000786A5 /* Lat Capt Human-Standing0068.png in Resources */,
+				5B8D1BB81823B170000786A5 /* Ant Capt Transistion-From KL0021.png in Resources */,
+				5B8D1B9F1823B170000786A5 /* Lat Capt KL-Jumping0027.png in Resources */,
 				3E7F5643181E226500890431 /* Sky.png in Resources */,
+				5B8D1C851823C603000786A5 /* Lat Capt Human-Standing0059.png in Resources */,
+				5B8D1C711823C603000786A5 /* Lat Capt Human-Standing0039.png in Resources */,
+				5B8D1BF11823C478000786A5 /* CCC_first-hd.plist in Resources */,
 				3E2E424C181D93F200511102 /* Icon@2x.png in Resources */,
+				5B8D1CB71823C61A000786A5 /* Lat Capt Human-Walking0009.png in Resources */,
 				3E2E44E8181DA47700511102 /* ChangeLog in Resources */,
 				3E7F564D181E226500890431 /* Gecko Feet Spec Sheet.docx in Resources */,
+				5B8D1C921823C603000786A5 /* Lat Capt Human-Standing0072.png in Resources */,
+				5B8D1C7D1823C603000786A5 /* Lat Capt Human-Standing0051.png in Resources */,
+				5B8D1C611823C603000786A5 /* Lat Capt Human-Standing0023.png in Resources */,
+				5B8D1C4C1823C603000786A5 /* Lat Capt Human-Standing0002.png in Resources */,
+				5B8D1B981823B170000786A5 /* Lat Capt KL-Jumping0020.png in Resources */,
+				5B8D1C4A1823C603000786A5 /* Lat Capt Human-Standing.xml in Resources */,
+				5B8D1BC61823B170000786A5 /* Ant Capt Trainsition-KL0011.png in Resources */,
+				5B8D1BE01823B170000786A5 /* Ant Capt Trainsition-KL009.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

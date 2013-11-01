@@ -10,12 +10,15 @@
 #import "cocos2d.h"
 
 @interface MenuSelectionLayer : CCLayer {
-    NSInvocation *callback;
+
 }
+@property(nonatomic,strong) CCMenu *menu;
 
--(id) initWithHeader:(NSString *)header andLine1:(NSString *)line1 andLine2:(NSString *)line2 andLine3:(NSString *)line3 target:(id)callbackObj selector:(SEL)selector;
 
--(void) buttonPressed:(id) sender;
+
+//-(id) initWithItems:(CCArray *)superpowers;
+
+//-(void) kangarooButtonTapped:(id) sender;
 
 @end
 

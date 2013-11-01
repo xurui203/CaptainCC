@@ -7,6 +7,7 @@
 //
 
 #import "MazeLayer.h"
+#import "Superpower.h"
 
 
 @implementation MazeLayer
@@ -19,11 +20,21 @@
         
         [self initTileMap];
         [self scheduleUpdate];
-        [[CCSpriteFrameCache sharedSpriteFrameCache] addSpriteFramesWithFile:@"CCC_human.plist"];
-        _actors = [CCSpriteBatchNode batchNodeWithFile:@"C.png"];
-        [_actors.texture setAliasTexParameters];
-        [self addChild:_actors z:-5];
+        [[CCSpriteFrameCache sharedSpriteFrameCache] addSpriteFramesWithFile:@"CCC_first.plist"];
+    
+         humanSpriteSheet = [CCSpriteBatchNode batchNodeWithFile:@"CCC_first.png"];
+        [humanSpriteSheet.texture setAliasTexParameters];
+        [self addChild:humanSpriteSheet z:-5];
+        
         [self initHuman];
+        
+        CCMenuItem *kangarooItem = [CCMenuItemImage
+                                    itemWithNormalImage:@"KangarooIcon.png"
+                                    selectedImage:@"KangarooIcon.png"
+                                    target:self selector:@selector(kangarooButtonTapped:)];
+        CCMenu *menu= [CCMenu menuWithItems:kangarooItem, nil];
+        menu.position = ccp(400, 300);
+        [self addChild: menu z:100];
     }
     return self;
 }
@@ -61,7 +72,8 @@
 
 -(void)initHuman {
     _human = [HumanC node];
-    [_actors addChild:_human];
+    [humanSpriteSheet addChild:_human];
+    //??
     _human.position = ccp(_human.centerToSides, 80);
     _human.desiredPosition = _human.position;
     [_human idle];
@@ -76,7 +88,14 @@
     [self addChild:_tileMap z:-6];
 }
 
-
+-(void)kangarooButtonTapped:(id) sender{
+    NSLog(@"kangaroo selected");
+    //Superpower *power = [Superpower init];
+//    _human.superPowerAction = power.superpowerAction;
+   [_human superPower];
+    
+    
+}
 -(void)ccTouchesBegan:(NSSet *)touches withEvent:(UIEvent *)event {
     [_human superPower];
 }
@@ -94,4 +113,5 @@
 -(void)DirectionPad:(DirectionPad *)DirectionPad isHoldingDirection:(CGPoint)direction {
     [_human walkWithDirection:direction];
 }
+
 @end

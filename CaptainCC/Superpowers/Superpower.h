@@ -7,8 +7,12 @@
 //
 
 #import <Foundation/Foundation.h>
+#import "cocos2d.h"
 
-@interface Superpower : NSObject
-@property(nonatomic, strong) id superpowerAction;
+@interface Superpower : CCSprite{
+    CCSpriteBatchNode *kangarooSpriteSheet;
+}
+@property(nonatomic, weak) id mySuperpower;
+
 
 @end

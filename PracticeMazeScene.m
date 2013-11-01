@@ -21,6 +21,17 @@
         
         _hudLayer.dPad.delegate = _mazeLayer;
         _mazeLayer.hud = _hudLayer;
+//        
+//        _menuLayer = [MenuSelectionLayer init];
+//        [self addChild:_menuLayer z:2];
+        
+//        CCMenuItem *kangarooItem = [CCMenuItemImage
+//                                    itemWithNormalImage:@"KangarooIcon.png"
+//                                    selectedImage:@"KangarooIcon.png"
+//                                    target:self selector:@selector(kangarooButtonTapped:)];
+//        //self.menu = [CCMenu menuWithItems:superpowers, nil];
+//        kangarooItem.position = ccp(60, 60);
+//        [self addChild: kangarooItem z:100];
     }
     return self;
 }

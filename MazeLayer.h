@@ -15,7 +15,8 @@
 
 @interface MazeLayer : CCLayer <DirectionPadDelegate>{
     CCTMXTiledMap *_tileMap;
-    CCSpriteBatchNode *_actors;
+    CCSpriteBatchNode *humanSpriteSheet;
+    CCSpriteBatchNode *kangarooSpriteSheet;
     HumanC *_human;
 }
 

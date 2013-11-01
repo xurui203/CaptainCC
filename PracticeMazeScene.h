@@ -10,6 +10,7 @@
 #import "cocos2d.h"
 #import "HudLayer.h"
 #import "MazeLayer.h"
+#import "MenuSelectionLayer.h"
 
 @interface PracticeMazeScene : CCNode {
     
@@ -18,4 +19,5 @@
 
 @property (nonatomic,weak)MazeLayer *mazeLayer;
 @property(nonatomic,weak)HudLayer *hudLayer;
+//@property(nonatomic, strong) MenuSelectionLayer *menuLayer;
 @end

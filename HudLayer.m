@@ -19,6 +19,7 @@
         _dPad.opacity = 0;
         [self addChild:_dPad];
     }
+    
     return self;
 }
 @end

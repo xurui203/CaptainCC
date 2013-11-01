@@ -14,24 +14,31 @@
 @implementation Superpower
 
 -(id)init{
+    [[CCSpriteFrameCache sharedSpriteFrameCache] addSpriteFramesWithFile:@"CCC_Kangaroo.plist"];
     
-    self.superpowerAction = self.setSuperpowerAction;
+    kangarooSpriteSheet = [CCSpriteBatchNode batchNodeWithFile:@"CCC_Kangaroo.png"];
+    [kangarooSpriteSheet.texture setAliasTexParameters];
     
-}
-
-
--(CCAnimation *) setSuperpowerAction {
-    //action animation - runs once and then returns to idle
-    CCArray *superPowerActionFrames = [CCArray arrayWithCapacity:9];
-    for (int i = 1; i < 10; i++) {
-        CCSpriteFrame *frame = [[CCSpriteFrameCache sharedSpriteFrameCache] spriteFrameByName:[NSString stringWithFormat:@"Running/Lat Capt Human-Running000%d.png", i]];
+    CCArray *superPowerActionFrames = [CCArray arrayWithCapacity:85];
+    for (int i = 1; i <= 25; i++) {
+        CCSpriteFrame *frame = [[CCSpriteFrameCache sharedSpriteFrameCache] spriteFrameByName:[NSString stringWithFormat:@"Ant Capt Transistion-From KL00%d.png", i]];
+        [superPowerActionFrames addObject:frame];
+    }
+    for (int j = 1; j <= 29; j++) {
+        CCSpriteFrame *frame = [[CCSpriteFrameCache sharedSpriteFrameCache] spriteFrameByName:[NSString stringWithFormat:@"Ant Capt Trainsition-KL00%d.png", j]];
+        [superPowerActionFrames addObject:frame];
+    }
+    for (int k = 1; k <= 31; k++) {
+        CCSpriteFrame *frame = [[CCSpriteFrameCache sharedSpriteFrameCache] spriteFrameByName:[NSString stringWithFormat:@"Lat Capt KL-Jumping00%d.png", k]];
         [superPowerActionFrames addObject:frame];
     }
     CCAnimation *actionAnimation = [CCAnimation animationWithSpriteFrames:[superPowerActionFrames getNSArray] delay:1.0/24.0];
-    self.superpowerAction = [CCSequence actions:[CCAnimate actionWithAnimation:actionAnimation], [CCCallFunc actionWithTarget:self selector:@selector(idle)], nil];
     
-    return self.superpowerAction;
+    self.mySuperpower = actionAnimation;
+    
+    return self;
 }
+
 
 
 
