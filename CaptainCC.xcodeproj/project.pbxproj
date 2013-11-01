@@ -18,7 +18,6 @@
 		3E0079A4181F820600B53DD8 /* Fore.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E0079A1181F820600B53DD8 /* Fore.png */; };
 		3E0079B11822140700B53DD8 /* Captain Resources in Resources */ = {isa = PBXBuildFile; fileRef = 3E0079B01822140700B53DD8 /* Captain Resources */; };
 		3E0079B41822288E00B53DD8 /* MazeLevelsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E0079B31822288E00B53DD8 /* MazeLevelsViewController.m */; };
-		3E0079B7182228A900B53DD8 /* MainMenuViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E0079B6182228A900B53DD8 /* MainMenuViewController.m */; };
 		3E2E4228181D93F200511102 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E2E4227181D93F200511102 /* QuartzCore.framework */; };
 		3E2E422A181D93F200511102 /* OpenGLES.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E2E4229181D93F200511102 /* OpenGLES.framework */; };
 		3E2E422C181D93F200511102 /* OpenAL.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E2E422B181D93F200511102 /* OpenAL.framework */; };
@@ -184,13 +183,8 @@
 		3E7F5673181F01D300890431 /* practice_map1.tmx in Resources */ = {isa = PBXBuildFile; fileRef = 3E7F5670181F01D300890431 /* practice_map1.tmx */; };
 		3E7F5679181F038F00890431 /* Captain.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E7F5678181F038F00890431 /* Captain.m */; };
 		3E7F5680181F07CF00890431 /* HumanC.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E7F567F181F07CF00890431 /* HumanC.m */; };
-		3EE9BC2C1822D95C009F5794 /* KTCocosNavigationController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EE9BC271822D95C009F5794 /* KTCocosNavigationController.m */; };
-		3EE9BC2D1822D95C009F5794 /* KTCocosViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EE9BC291822D95C009F5794 /* KTCocosViewController.m */; };
-		3EE9BC2E1822D95C009F5794 /* MyCocosNavigationController.mm in Sources */ = {isa = PBXBuildFile; fileRef = 3EE9BC2B1822D95C009F5794 /* MyCocosNavigationController.mm */; };
 		3EE9BC311822DC2F009F5794 /* IntroLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EE9BC301822DC2F009F5794 /* IntroLayer.m */; };
-		3EE9BC361822E078009F5794 /* LoginViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EE9BC321822E078009F5794 /* LoginViewController.m */; };
 		3EE9BC371822E078009F5794 /* LearningModulesMainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EE9BC351822E078009F5794 /* LearningModulesMainViewController.m */; };
-		5BE6274B1820B38900BE9854 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5BE6274A1820B38800BE9854 /* Main.storyboard */; };
 		5BE6274D1820B52B00BE9854 /* CCCHomepage_iPhone5.png in Resources */ = {isa = PBXBuildFile; fileRef = 5BE6274C1820B52B00BE9854 /* CCCHomepage_iPhone5.png */; };
 		5BE6274F1820B5D600BE9854 /* HomeIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 5BE6274E1820B5D600BE9854 /* HomeIcon.png */; };
 /* End PBXBuildFile section */
@@ -210,8 +204,6 @@
 		3E0079B01822140700B53DD8 /* Captain Resources */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "Captain Resources"; path = "../Captain Resources"; sourceTree = "<group>"; };
 		3E0079B21822288E00B53DD8 /* MazeLevelsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MazeLevelsViewController.h; sourceTree = "<group>"; };
 		3E0079B31822288E00B53DD8 /* MazeLevelsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MazeLevelsViewController.m; sourceTree = "<group>"; };
-		3E0079B5182228A900B53DD8 /* MainMenuViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainMenuViewController.h; sourceTree = "<group>"; };
-		3E0079B6182228A900B53DD8 /* MainMenuViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainMenuViewController.m; sourceTree = "<group>"; };
 		3E2E4224181D93F200511102 /* CaptainCC.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CaptainCC.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3E2E4227181D93F200511102 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
 		3E2E4229181D93F200511102 /* OpenGLES.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGLES.framework; path = System/Library/Frameworks/OpenGLES.framework; sourceTree = SDKROOT; };
@@ -514,19 +506,10 @@
 		3E7F567A181F04AB00890431 /* Defines.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = Defines.h; path = ../Defines.h; sourceTree = "<group>"; };
 		3E7F567E181F07CF00890431 /* HumanC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HumanC.h; sourceTree = "<group>"; };
 		3E7F567F181F07CF00890431 /* HumanC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HumanC.m; sourceTree = "<group>"; };
-		3EE9BC261822D95C009F5794 /* KTCocosNavigationController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KTCocosNavigationController.h; sourceTree = "<group>"; };
-		3EE9BC271822D95C009F5794 /* KTCocosNavigationController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KTCocosNavigationController.m; sourceTree = "<group>"; };
-		3EE9BC281822D95C009F5794 /* KTCocosViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KTCocosViewController.h; sourceTree = "<group>"; };
-		3EE9BC291822D95C009F5794 /* KTCocosViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KTCocosViewController.m; sourceTree = "<group>"; };
-		3EE9BC2A1822D95C009F5794 /* MyCocosNavigationController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyCocosNavigationController.h; sourceTree = "<group>"; };
-		3EE9BC2B1822D95C009F5794 /* MyCocosNavigationController.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = MyCocosNavigationController.mm; sourceTree = "<group>"; };
 		3EE9BC2F1822DC2F009F5794 /* IntroLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IntroLayer.h; sourceTree = "<group>"; };
 		3EE9BC301822DC2F009F5794 /* IntroLayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IntroLayer.m; sourceTree = "<group>"; };
-		3EE9BC321822E078009F5794 /* LoginViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = LoginViewController.m; path = ../LoginViewController.m; sourceTree = "<group>"; };
-		3EE9BC331822E078009F5794 /* LoginViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = LoginViewController.h; path = ../LoginViewController.h; sourceTree = "<group>"; };
 		3EE9BC341822E078009F5794 /* LearningModulesMainViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = LearningModulesMainViewController.h; path = ../LearningModulesMainViewController.h; sourceTree = "<group>"; };
 		3EE9BC351822E078009F5794 /* LearningModulesMainViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = LearningModulesMainViewController.m; path = ../LearningModulesMainViewController.m; sourceTree = "<group>"; };
-		5BE6274A1820B38800BE9854 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		5BE6274C1820B52B00BE9854 /* CCCHomepage_iPhone5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CCCHomepage_iPhone5.png; sourceTree = "<group>"; };
 		5BE6274E1820B5D600BE9854 /* HomeIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = HomeIcon.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -593,19 +576,8 @@
 			children = (
 				3E2E4378181D93F500511102 /* AppDelegate.h */,
 				3E2E4379181D93F500511102 /* AppDelegate.m */,
-				5BE6274A1820B38800BE9854 /* Main.storyboard */,
-				3EE9BC321822E078009F5794 /* LoginViewController.m */,
-				3EE9BC331822E078009F5794 /* LoginViewController.h */,
-				3E0079B5182228A900B53DD8 /* MainMenuViewController.h */,
-				3E0079B6182228A900B53DD8 /* MainMenuViewController.m */,
 				3E2E437B181D93F500511102 /* RootViewController.h */,
 				3E2E437C181D93F500511102 /* RootViewController.m */,
-				3EE9BC261822D95C009F5794 /* KTCocosNavigationController.h */,
-				3EE9BC271822D95C009F5794 /* KTCocosNavigationController.m */,
-				3EE9BC281822D95C009F5794 /* KTCocosViewController.h */,
-				3EE9BC291822D95C009F5794 /* KTCocosViewController.m */,
-				3EE9BC2A1822D95C009F5794 /* MyCocosNavigationController.h */,
-				3EE9BC2B1822D95C009F5794 /* MyCocosNavigationController.mm */,
 				3EE9BC2F1822DC2F009F5794 /* IntroLayer.h */,
 				3EE9BC301822DC2F009F5794 /* IntroLayer.m */,
 				3E2E4381181D93F500511102 /* GameConfig.h */,
@@ -1512,7 +1484,6 @@
 				3E7F563B181E226500890431 /* Apple.png in Resources */,
 				3E7F5662181E226500890431 /* Lat Capt Kangaroo-Running.png in Resources */,
 				3E7F5645181E226500890431 /* Back Graphics-KL 1.png in Resources */,
-				5BE6274B1820B38900BE9854 /* Main.storyboard in Resources */,
 				3E7F5643181E226500890431 /* Sky.png in Resources */,
 				3E2E424C181D93F200511102 /* Icon@2x.png in Resources */,
 				3E2E44E8181DA47700511102 /* ChangeLog in Resources */,
@@ -1527,19 +1498,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3EE9BC361822E078009F5794 /* LoginViewController.m in Sources */,
 				3E2E44CB181DA47700511102 /* CCTransition.m in Sources */,
 				3E2E44A4181DA47700511102 /* ccDeprecated.m in Sources */,
 				3E2E44AD181DA47700511102 /* CCLabelTTF.m in Sources */,
 				3E2E44F5181DA47700511102 /* vec4.c in Sources */,
 				3E2E44AA181DA47700511102 /* CCGrid.m in Sources */,
 				3E2E44D1181DA47700511102 /* CCGLView.m in Sources */,
-				3EE9BC2C1822D95C009F5794 /* KTCocosNavigationController.m in Sources */,
 				3E2E437D181D93F500511102 /* RootViewController.m in Sources */,
 				3E2E44D8181DA47700511102 /* base64.c in Sources */,
 				3E7F55D2181E15F400890431 /* MazeLayer.m in Sources */,
 				3E2E44BA181DA47700511102 /* CCScene.m in Sources */,
-				3EE9BC2E1822D95C009F5794 /* MyCocosNavigationController.mm in Sources */,
 				3E2E449B181DA47700511102 /* CCActionPageTurn3D.m in Sources */,
 				3EE9BC371822E078009F5794 /* LearningModulesMainViewController.m in Sources */,
 				3E2E44D2181DA47700511102 /* CCTouchDispatcher.m in Sources */,
@@ -1613,7 +1581,6 @@
 				3E2E44A3181DA47700511102 /* CCConfiguration.m in Sources */,
 				3E2E44ED181DA47700511102 /* mat4.c in Sources */,
 				3E2E44CF181DA47700511102 /* CCDirectorIOS.m in Sources */,
-				3EE9BC2D1822D95C009F5794 /* KTCocosViewController.m in Sources */,
 				3E2E449C181DA47700511102 /* CCActionProgressTimer.m in Sources */,
 				3E2E44BE181DA47700511102 /* CCSprite.m in Sources */,
 				3E2E44E0181DA47700511102 /* TGAlib.m in Sources */,
@@ -1626,7 +1593,6 @@
 				3E2E449E181DA47700511102 /* CCActionTween.m in Sources */,
 				3E0079B41822288E00B53DD8 /* MazeLevelsViewController.m in Sources */,
 				3E7F5680181F07CF00890431 /* HumanC.m in Sources */,
-				3E0079B7182228A900B53DD8 /* MainMenuViewController.m in Sources */,
 				3E2E44DB181DA47700511102 /* CCProfiling.m in Sources */,
 				3E2E44D3181DA47700511102 /* CCTouchHandler.m in Sources */,
 				3E2E44C8181DA47700511102 /* CCTMXObjectGroup.m in Sources */,

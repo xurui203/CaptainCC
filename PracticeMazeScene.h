@@ -15,7 +15,6 @@
     
     
 }
-+(CCScene *) scene;
 
 @property (nonatomic,weak)MazeLayer *mazeLayer;
 @property(nonatomic,weak)HudLayer *hudLayer;

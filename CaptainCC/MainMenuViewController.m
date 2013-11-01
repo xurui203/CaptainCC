@@ -7,7 +7,7 @@
 //
 
 #import "MainMenuViewController.h"
-#import "KTCocosNavigationController.h"
+//#import "KTCocosNavigationController.h"
 
 
 @interface MainMenuViewController ()

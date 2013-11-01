@@ -7,34 +7,13 @@
 //
 
 #import "PracticeMazeScene.h"
-// Needed to obtain the Navigation Controller
-#import "AppDelegate.h"
 
-#import "MyCocosNavigationController.h"
 
 @implementation PracticeMazeScene
 
-+(CCScene *) scene
-{
-	// 'scene' is an autorelease object.
-	CCScene *scene = [CCScene node];
-	
-	// 'layer' is an autorelease object.
-	PracticeMazeScene *layer = [PracticeMazeScene node];
-	
-	// add layer as a child to scene
-	[scene addChild: layer];
-	
-	// return the scene
-	return scene;
-}
 
 -(id)init {
     if ((self = [super init])) {
-//        self.touchEnabled = YES;
-//		self.accelerometerEnabled = YES;
-//        CGSize s = [CCDirector sharedDirector].winSize;
-        
         _mazeLayer = [MazeLayer node];
         [self addChild:_mazeLayer z:0];
         _hudLayer = [HudLayer node];
