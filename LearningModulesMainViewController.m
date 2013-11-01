@@ -7,7 +7,6 @@
 //
 
 #import "LearningModulesMainViewController.h"
-#import "KTCocosNavigationController.h"
 
 
 

@@ -185,6 +185,8 @@
 		3E7F5680181F07CF00890431 /* HumanC.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E7F567F181F07CF00890431 /* HumanC.m */; };
 		3EE9BC311822DC2F009F5794 /* IntroLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EE9BC301822DC2F009F5794 /* IntroLayer.m */; };
 		3EE9BC371822E078009F5794 /* LearningModulesMainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EE9BC351822E078009F5794 /* LearningModulesMainViewController.m */; };
+		5B91C1B1182354E4002040ED /* MenuSelectionLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 5B91C1B0182354E4002040ED /* MenuSelectionLayer.m */; };
+		5B91C1B5182356B0002040ED /* Superpower.m in Sources */ = {isa = PBXBuildFile; fileRef = 5B91C1B4182356B0002040ED /* Superpower.m */; };
 		5BE6274D1820B52B00BE9854 /* CCCHomepage_iPhone5.png in Resources */ = {isa = PBXBuildFile; fileRef = 5BE6274C1820B52B00BE9854 /* CCCHomepage_iPhone5.png */; };
 		5BE6274F1820B5D600BE9854 /* HomeIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 5BE6274E1820B5D600BE9854 /* HomeIcon.png */; };
 /* End PBXBuildFile section */
@@ -510,6 +512,10 @@
 		3EE9BC301822DC2F009F5794 /* IntroLayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IntroLayer.m; sourceTree = "<group>"; };
 		3EE9BC341822E078009F5794 /* LearningModulesMainViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = LearningModulesMainViewController.h; path = ../LearningModulesMainViewController.h; sourceTree = "<group>"; };
 		3EE9BC351822E078009F5794 /* LearningModulesMainViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = LearningModulesMainViewController.m; path = ../LearningModulesMainViewController.m; sourceTree = "<group>"; };
+		5B91C1AF182354E4002040ED /* MenuSelectionLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MenuSelectionLayer.h; path = Mazes/MenuSelectionLayer.h; sourceTree = "<group>"; };
+		5B91C1B0182354E4002040ED /* MenuSelectionLayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MenuSelectionLayer.m; path = Mazes/MenuSelectionLayer.m; sourceTree = "<group>"; };
+		5B91C1B3182356B0002040ED /* Superpower.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Superpower.h; path = Superpowers/Superpower.h; sourceTree = "<group>"; };
+		5B91C1B4182356B0002040ED /* Superpower.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Superpower.m; path = Superpowers/Superpower.m; sourceTree = "<group>"; };
 		5BE6274C1820B52B00BE9854 /* CCCHomepage_iPhone5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CCCHomepage_iPhone5.png; sourceTree = "<group>"; };
 		5BE6274E1820B5D600BE9854 /* HomeIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = HomeIcon.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -582,6 +588,7 @@
 				3EE9BC301822DC2F009F5794 /* IntroLayer.m */,
 				3E2E4381181D93F500511102 /* GameConfig.h */,
 				3E7F567A181F04AB00890431 /* Defines.h */,
+				5B91C1B2182355AA002040ED /* Superpower */,
 				5B7E39701822FFB800AADCFB /* Captain */,
 				3E2E438C181D955100511102 /* Learning Modules */,
 				5BE627521820B93B00BE9854 /* Obstacles */,
@@ -1280,6 +1287,8 @@
 		5B7E39711823004100AADCFB /* Mazes */ = {
 			isa = PBXGroup;
 			children = (
+				5B91C1AF182354E4002040ED /* MenuSelectionLayer.h */,
+				5B91C1B0182354E4002040ED /* MenuSelectionLayer.m */,
 				3E7F55D3181E15FF00890431 /* HudLayer.h */,
 				3E7F55D4181E15FF00890431 /* HudLayer.m */,
 				3E007991181F773D00B53DD8 /* DirectionPad.h */,
@@ -1357,6 +1366,15 @@
 				5BE6274C1820B52B00BE9854 /* CCCHomepage_iPhone5.png */,
 			);
 			name = "Homepage Graphics";
+			sourceTree = "<group>";
+		};
+		5B91C1B2182355AA002040ED /* Superpower */ = {
+			isa = PBXGroup;
+			children = (
+				5B91C1B3182356B0002040ED /* Superpower.h */,
+				5B91C1B4182356B0002040ED /* Superpower.m */,
+			);
+			name = Superpower;
 			sourceTree = "<group>";
 		};
 		5BE627511820B66500BE9854 /* Tiled */ = {
@@ -1505,6 +1523,7 @@
 				3E2E44AA181DA47700511102 /* CCGrid.m in Sources */,
 				3E2E44D1181DA47700511102 /* CCGLView.m in Sources */,
 				3E2E437D181D93F500511102 /* RootViewController.m in Sources */,
+				5B91C1B1182354E4002040ED /* MenuSelectionLayer.m in Sources */,
 				3E2E44D8181DA47700511102 /* base64.c in Sources */,
 				3E7F55D2181E15F400890431 /* MazeLayer.m in Sources */,
 				3E2E44BA181DA47700511102 /* CCScene.m in Sources */,
@@ -1518,6 +1537,7 @@
 				3E2E44E7181DA47700511102 /* aabb.c in Sources */,
 				3E2E44EB181DA47700511102 /* matrix.c in Sources */,
 				3E2E44CC181DA47700511102 /* CCTransitionPageTurn.m in Sources */,
+				5B91C1B5182356B0002040ED /* Superpower.m in Sources */,
 				3E2E44E3181DA47700511102 /* CDAudioManager.m in Sources */,
 				3E2E44A9181DA47700511102 /* CCGrabber.m in Sources */,
 				3E2E44C6181DA47700511102 /* CCTileMapAtlas.m in Sources */,

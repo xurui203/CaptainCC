@@ -10,8 +10,6 @@
 #import "cocos2d.h"
 #import "Captain.h"
 
-@interface HumanC : Captain {
-    
-}
+@interface HumanC : Captain
 
 @end
